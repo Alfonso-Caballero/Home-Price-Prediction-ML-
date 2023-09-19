@@ -1,0 +1,4576 @@
+Place,Location,Area,Rooms,Toilets,Air Conditioning,Built-in Wardrobes,Elevator,Heating,Garage,Terrace,Price
+Piso,Arganzuela,112,4,2,0,1,1,1,0,1,399000
+Piso,Villa de Vallecas,89,3,2,0,0,1,1,1,1,311000
+Piso,San Blas,50,1,1,1,1,1,1,1,0,175000
+Piso,Chamberí,75,2,1,0,1,0,1,0,0,309700
+Piso,Salamanca,150,3,2,0,0,1,0,0,0,1245000
+Piso,Hortaleza,110,3,2,0,1,1,0,1,0,495000
+Piso,Latina,105,1,1,0,1,1,1,1,0,198000
+Piso,Centro,85,2,1,1,1,1,1,0,0,380000
+Piso,Salamanca,50,2,1,1,1,1,1,0,0,319000
+Piso,Usera,62,2,1,0,1,0,1,0,1,440000
+Piso,San Blas,90,3,1,0,0,1,0,0,0,151700
+Piso,Ciudad Lineal,59,2,1,0,1,1,1,0,0,175000
+Piso,Centro,252,8,5,0,0,0,0,0,0,899000
+Piso,Retiro,95,2,2,0,0,1,1,0,0,256000
+Piso,Carabanchel,119,3,2,1,1,1,1,1,1,280000
+Piso,Tetuán,142,3,2,0,1,1,1,0,1,650000
+Piso,Carabanchel,97,4,2,0,0,1,1,0,1,305000
+Ático,Salamanca,48,1,1,1,1,1,1,0,0,575000
+Piso,Salamanca,233,3,4,1,1,1,1,0,0,2550000
+Piso,Carabanchel,49,1,1,1,1,1,1,1,0,180000
+Piso,Puente de Vallecas,98,3,2,0,0,0,0,0,0,205770
+Piso,Chamartín,185,4,2,1,1,1,1,0,1,1325000
+Piso,Centro,60,3,1,1,1,0,1,1,1,360000
+Piso,Moncloa,190,4,2,1,1,1,1,1,1,845000
+Piso,Salamanca,118,2,2,1,1,1,0,0,0,970000
+Piso,Latina,68,2,1,1,1,1,1,0,1,179900
+Piso,Chamberí,109,2,3,1,1,1,1,0,0,899000
+Piso,Puente de Vallecas,76,2,1,0,0,1,1,0,0,131000
+Piso,Salamanca,88,2,2,0,1,1,1,0,0,525000
+Piso,Chamartín,84,2,1,1,1,1,1,0,1,390000
+Piso,Hortaleza,110,4,2,1,1,0,1,0,1,289000
+Piso,Salamanca,106,2,2,1,1,1,1,0,0,995000
+Dúplex,Centro,133,2,2,0,1,1,1,0,0,750000
+Piso,Tetuán,67,3,2,1,1,1,1,0,0,340000
+Piso,San Blas,97,3,2,1,1,1,1,0,0,260000
+Piso,Centro,226,3,3,1,1,1,0,0,0,2000000
+Piso,Usera,62,2,1,0,0,1,0,0,0,154000
+Piso,Salamanca,71,2,2,1,0,1,1,0,0,679000
+Piso,Centro,260,4,5,1,1,1,0,1,0,2520000
+Piso,Moncloa,250,5,2,0,0,1,0,1,0,1290000
+Piso,Ciudad Lineal,75,2,1,1,1,1,1,0,0,250000
+Piso,Chamartín,230,4,3,1,1,1,1,1,1,1900000
+Piso,Moncloa,236,3,3,1,1,1,1,0,0,1175000
+Piso,Tetuán,85,3,2,1,1,1,1,0,0,495000
+Piso,Salamanca,250,3,2,0,0,1,0,0,0,1082902
+Piso,Salamanca,75,2,2,1,1,1,1,1,0,999000
+Piso,Latina,107,3,2,0,0,1,0,1,0,365000
+Piso,Centro,55,1,1,1,1,1,1,0,0,469000
+Piso,Chamberí,35,1,1,1,1,0,1,0,0,200000
+Piso,Centro,101,2,1,0,1,1,1,0,0,320000
+Ático,Usera,69,3,1,1,1,0,0,0,1,145000
+Piso,Latina,47,1,1,0,0,0,1,0,0,140000
+Piso,Carabanchel,49,1,1,1,1,1,1,1,0,190000
+Piso,Tetuán,71,2,1,1,1,1,1,0,0,370000
+Piso,Centro,106,3,3,1,1,1,1,0,0,839000
+Ático,Hortaleza,114,3,2,1,1,1,0,0,0,355000
+Piso,Centro,190,3,3,1,1,1,1,0,0,799000
+Piso,Salamanca,713,5,6,1,1,1,1,1,0,8900000
+Piso,Usera,70,3,1,0,0,1,1,0,1,225000
+Piso,Carabanchel,34,1,1,0,0,1,0,0,0,106800
+Piso,Salamanca,48,1,1,1,1,1,1,0,0,390000
+Piso,Retiro,405,4,5,1,1,1,1,1,0,5700000
+Dúplex,Chamartín,190,3,2,1,1,1,1,1,1,1390000
+Piso,Chamartín,85,1,1,1,1,1,1,0,1,625000
+Piso,Villa de Vallecas,70,2,2,1,1,1,1,1,0,270000
+Piso,Tetuán,145,3,3,1,1,1,1,0,1,675000
+Piso,Hortaleza,117,3,1,1,1,1,1,1,1,346000
+Dúplex,Centro,126,2,1,1,1,0,1,0,1,1060000
+Piso,Tetuán,75,3,2,0,0,1,0,0,0,336000
+Piso,Salamanca,340,3,4,0,1,1,0,0,0,4900000
+Piso,Moncloa,229,4,4,1,1,1,1,1,1,1060000
+Piso,Latina,70,2,1,1,1,1,1,1,0,259000
+Piso,Villa de Vallecas,128,2,2,1,1,1,1,1,1,292000
+Piso,Centro,220,4,2,0,0,1,1,0,0,829000
+Piso,Latina,115,4,2,0,1,1,1,0,1,195000
+Piso,Villa de Vallecas,82,2,2,1,0,1,1,0,1,169000
+Piso,Chamberí,134,4,2,0,0,1,1,0,1,690000
+Piso,Retiro,97,2,2,1,1,1,1,0,0,475000
+Piso,Chamberí,194,5,3,1,1,1,1,1,1,1395000
+Piso,Villaverde,46,2,1,1,0,0,0,0,0,105000
+Piso,Salamanca,300,5,3,1,1,1,1,1,1,3900000
+Piso,Puente de Vallecas,118,3,2,0,1,1,1,0,1,305500
+Piso,Ciudad Lineal,60,1,1,1,1,1,1,0,0,204000
+Piso,Tetuán,127,4,2,0,1,1,1,0,1,495000
+Piso,Puente de Vallecas,53,3,1,0,0,0,0,0,1,75000
+Piso,Salamanca,254,3,3,1,1,1,1,1,1,2995000
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Piso,Salamanca,160,4,3,1,1,1,1,0,1,850000
+Piso,Salamanca,340,4,3,0,0,1,0,1,0,2700000
+Piso,Salamanca,87,2,2,1,0,1,1,0,0,879000
+Piso,Moncloa,76,1,1,1,0,1,1,0,0,650000
+Piso,Latina,72,3,1,0,1,1,0,0,0,153700
+Piso,Fuencarral,158,4,2,0,1,1,1,1,0,400000
+Piso,Centro,54,1,1,0,0,1,1,0,1,279000
+Piso,Fuencarral,166,4,2,1,1,1,1,1,1,575000
+Piso,Tetuán,50,1,1,1,0,1,0,1,0,228400
+Piso,Moncloa,163,3,3,1,1,1,1,0,0,975000
+Piso,Centro,40,2,1,0,0,0,1,0,0,169900
+Piso,Centro,170,3,3,1,1,1,1,0,0,1350000
+Piso,Centro,37,1,1,1,1,0,1,0,0,230000
+Piso,Carabanchel,85,3,1,1,1,1,1,0,1,290000
+Piso,Moncloa,70,2,1,0,1,1,1,0,0,252000
+Piso,Chamartín,86,2,2,1,1,1,1,1,0,630000
+Piso,Usera,65,2,1,0,0,1,1,0,1,158000
+Piso,Chamartín,114,3,2,1,1,1,1,1,1,835000
+Piso,Salamanca,236,5,3,1,1,1,1,1,0,1990000
+Piso,Salamanca,72,2,2,1,0,1,1,0,0,549000
+Piso,Arganzuela,26,1,1,0,0,1,0,0,0,140000
+Piso,Ciudad Lineal,100,3,2,0,1,1,1,0,1,355000
+Piso,San Blas,97,3,1,1,0,1,1,0,1,210000
+Piso,Chamartín,283,4,4,1,1,1,1,1,1,1970000
+Piso,Ciudad Lineal,72,3,1,0,1,1,0,0,0,119000
+Piso,Chamartín,120,2,2,1,1,1,1,1,0,695000
+Piso,Tetuán,42,1,1,1,0,0,1,0,0,137500
+Piso,Salamanca,80,3,2,0,1,1,1,0,0,750000
+Piso,Chamartín,75,2,2,0,1,0,1,0,0,317600
+Piso,Villaverde,95,3,1,1,0,0,1,0,1,168000
+Piso,Villa de Vallecas,90,2,2,1,1,1,1,0,0,170000
+Piso,Salamanca,654,12,3,0,0,1,1,0,0,5000000
+Piso,Arganzuela,97,3,2,0,0,1,0,0,1,425000
+Piso,Chamberí,101,3,3,1,1,1,1,0,0,779000
+Piso,Retiro,170,4,3,0,1,1,1,1,1,590000
+Piso,Tetuán,141,2,2,1,1,1,1,0,0,895000
+Piso,Puente de Vallecas,80,3,2,0,1,1,1,0,0,209000
+Piso,Ciudad Lineal,59,2,1,0,1,1,1,0,0,175000
+Piso,Puente de Vallecas,40,1,1,1,0,0,1,0,0,85000
+Piso,Chamartín,174,4,2,1,1,1,1,0,1,790000
+Piso,Centro,65,3,1,1,0,1,1,0,0,318000
+Piso,Chamberí,278,5,4,0,1,1,1,1,1,1375000
+Piso,Moncloa,342,4,4,1,0,0,0,0,0,850000
+Ático,Tetuán,51,2,1,1,1,1,0,0,1,449000
+Piso,Hortaleza,172,3,3,1,1,1,1,1,1,1130000
+Piso,Retiro,129,3,3,1,1,1,1,0,1,1296200
+Piso,Moncloa,225,4,4,1,1,1,1,1,1,1200000
+Piso,Puente de Vallecas,50,1,1,0,1,0,0,0,1,122500
+Ático,Tetuán,110,1,1,1,1,1,0,1,1,1250000
+Piso,Salamanca,125,3,2,1,1,1,1,0,0,680000
+Piso,Villaverde,55,1,1,1,1,1,1,0,0,180000
+Piso,Vicálvaro,77,2,2,1,1,1,1,1,1,320000
+Piso,Ciudad Lineal,94,3,2,1,1,1,1,1,0,309300
+Piso,Ciudad Lineal,90,4,2,0,0,0,1,0,0,289000
+Piso,Ciudad Lineal,85,3,1,0,1,1,1,1,1,209000
+Piso,Tetuán,54,2,1,0,1,1,1,0,0,210000
+Piso,Centro,152,4,2,1,1,1,1,0,0,850000
+Piso,Ciudad Lineal,120,3,1,1,1,1,1,0,1,365000
+Piso,Villa de Vallecas,125,4,2,1,1,0,1,0,1,275000
+Piso,Villa de Vallecas,140,2,2,1,1,1,1,1,1,315000
+Piso,Chamberí,105,3,2,1,1,1,1,0,0,1050000
+Piso,Carabanchel,93,4,1,0,0,1,1,0,0,260000
+Piso,Arganzuela,82,2,2,1,1,1,1,0,1,458000
+Piso,Salamanca,117,2,2,1,1,1,1,0,0,705000
+Piso,Centro,75,2,1,1,1,1,1,1,1,575500
+Piso,Centro,120,4,2,1,1,0,1,0,1,750000
+Piso,Hortaleza,120,3,2,1,1,1,1,1,0,500000
+Piso,Centro,45,1,1,0,1,1,0,0,0,220000
+Piso,Latina,58,1,1,1,0,1,0,0,0,135000
+Piso,Fuencarral,79,4,2,0,1,1,1,1,1,355000
+Piso,Hortaleza,51,1,1,1,1,1,1,1,0,275000
+Piso,Arganzuela,135,5,2,1,0,1,1,0,1,575000
+Piso,Chamberí,231,3,4,1,1,1,1,0,0,1700000
+Piso,Salamanca,71,2,2,1,1,1,1,0,0,679000
+Piso,Centro,76,2,1,1,1,1,0,0,0,320000
+Piso,Chamberí,131,2,2,0,0,1,0,0,1,622700
+Piso,Latina,120,5,2,1,1,1,1,0,1,320000
+Dúplex,Salamanca,81,2,2,1,1,1,1,1,1,417000
+Piso,Fuencarral,198,3,2,1,1,1,1,1,1,889250
+Piso,Puente de Vallecas,85,3,2,0,1,0,0,0,0,205770
+Piso,Centro,273,2,2,0,1,1,0,0,1,1850000
+Piso,Tetuán,62,1,1,1,1,1,1,1,0,365500
+Ático,Chamberí,110,3,1,1,1,1,1,0,1,695000
+Piso,Centro,47,2,1,0,1,0,0,0,0,179000
+Piso,Tetuán,129,3,2,0,1,1,1,0,1,584000
+Piso,Carabanchel,51,3,1,0,0,0,1,0,0,139000
+Piso,Centro,50,1,1,1,1,1,1,0,0,260000
+Ático,Fuencarral,167,4,3,1,1,1,1,1,1,850000
+Piso,Carabanchel,71,3,1,0,1,1,1,0,1,149900
+Piso,Moncloa,285,5,3,1,1,1,1,0,1,1275000
+Piso,Chamberí,264,6,3,0,1,1,1,1,1,1065000
+Piso,Tetuán,206,4,3,0,1,1,1,0,0,800000
+Piso,Centro,115,3,3,1,0,1,1,0,1,859000
+Piso,San Blas,111,3,2,1,1,1,1,1,1,425000
+Piso,Salamanca,117,2,2,1,1,1,1,0,0,925000
+Piso,Salamanca,86,4,1,0,0,1,1,0,0,439090
+Piso,Salamanca,188,3,2,1,0,1,0,0,0,1900000
+Piso,Villaverde,60,2,1,0,0,0,0,0,1,135000
+Piso,Fuencarral,97,3,1,0,0,1,0,1,1,459000
+Piso,Moncloa,93,2,2,1,1,1,1,1,1,890000
+Piso,Latina,134,4,2,1,0,1,1,0,1,191000
+Piso,Centro,82,2,2,1,0,0,1,0,0,550000
+Piso,Centro,44,1,1,1,0,1,1,0,0,319000
+Dúplex,Retiro,150,2,3,1,1,1,1,0,0,1000000
+Piso,Centro,258,4,2,1,1,1,1,0,0,1300000
+Piso,Centro,220,4,2,0,0,1,1,0,0,829000
+Piso,Ciudad Lineal,100,3,2,1,1,0,1,0,1,281900
+Piso,Carabanchel,49,1,1,0,0,1,0,0,0,120000
+Piso,Centro,129,3,3,1,1,1,1,0,0,774000
+Piso,Chamartín,120,3,3,1,1,1,1,0,0,950000
+Piso,Vicálvaro,65,3,1,1,0,0,1,0,1,152925
+Piso,Vicálvaro,95,3,2,1,1,1,1,1,1,355000
+Piso,Villaverde,101,4,2,1,0,1,1,0,1,203800
+Piso,Villaverde,54,2,1,0,0,0,0,0,1,92000
+Piso,Retiro,100,3,2,0,1,1,1,0,1,400000
+Piso,Tetuán,252,5,3,1,1,1,1,0,1,1299000
+Piso,Chamartín,136,3,2,0,1,1,1,1,1,630000
+Piso,Carabanchel,102,3,2,1,0,1,1,0,1,295000
+Piso,Salamanca,401,5,4,0,1,1,1,1,1,3850000
+Piso,Centro,89,3,3,1,1,1,1,0,0,849000
+Piso,Villa de Vallecas,50,2,1,1,1,0,1,0,0,124900
+Piso,Villa de Vallecas,106,3,2,1,1,1,1,0,1,295000
+Ático,Centro,105,2,1,1,1,1,1,0,0,600000
+Piso,Chamartín,86,2,2,1,1,1,1,1,0,630000
+Piso,Salamanca,45,2,1,0,1,1,0,0,0,121900
+Piso,Tetuán,36,1,1,1,1,0,1,0,0,128000
+Piso,San Blas,97,1,2,1,1,1,1,0,1,260000
+Piso,Centro,30,1,1,0,1,0,0,0,0,243000
+Piso,Usera,75,2,1,1,0,0,1,0,0,149900
+Piso,Tetuán,28,1,1,1,0,0,1,0,0,135000
+Piso,Salamanca,48,1,1,1,1,1,1,0,0,575000
+Piso,Latina,70,3,1,1,1,0,1,0,0,194000
+Piso,Barajas,62,2,1,0,0,0,1,0,0,169900
+Piso,Centro,37,1,1,1,0,0,1,0,0,250000
+Piso,Salamanca,185,3,4,1,1,1,0,0,1,1580000
+Piso,Fuencarral,91,3,1,0,0,1,1,0,1,300000
+Piso,Chamartín,80,3,1,0,1,1,1,0,0,425000
+Piso,Fuencarral,259,5,5,1,1,1,1,1,1,949000
+Piso,Centro,158,9,2,0,0,0,1,0,0,670000
+Piso,Puente de Vallecas,79,3,1,1,0,0,1,0,0,155000
+Piso,Fuencarral,153,4,3,1,1,1,1,1,1,649000
+Piso,Hortaleza,162,1,1,1,0,1,0,0,0,260000
+Ático,Carabanchel,100,3,2,1,1,1,1,1,1,395000
+Piso,Centro,252,8,5,0,0,0,0,0,0,899000
+Piso,Carabanchel,119,3,2,1,1,1,1,1,1,280000
+Piso,Ciudad Lineal,57,2,1,0,0,0,1,0,1,155000
+Piso,Chamartín,269,5,4,1,1,1,1,1,1,1250000
+Dúplex,San Blas,82,1,1,1,0,1,0,1,0,96000
+Piso,Salamanca,200,3,4,1,1,1,1,1,1,2340000
+Piso,Tetuán,542,6,4,0,1,1,1,1,1,3000000
+Piso,Moncloa,84,3,1,0,1,1,1,0,0,151000
+Piso,Carabanchel,45,2,1,1,0,0,0,0,1,145000
+Piso,San Blas,114,1,1,0,0,1,0,0,0,185000
+Piso,Barajas,92,3,2,1,1,1,1,0,1,339000
+Piso,Carabanchel,59,1,1,0,0,0,1,0,1,157000
+Piso,Retiro,50,1,1,1,1,1,1,0,1,335000
+Piso,San Blas,78,4,1,0,1,1,1,0,0,163630
+Piso,Chamberí,270,5,5,1,0,1,1,1,1,2690000
+Piso,Ciudad Lineal,67,2,2,1,1,1,1,0,0,240000
+Piso,Puente de Vallecas,74,3,1,1,1,1,1,0,1,187000
+Piso,Centro,38,1,1,1,1,0,0,0,0,200000
+Piso,Centro,107,2,1,0,0,1,0,0,1,349000
+Piso,Puente de Vallecas,65,3,1,0,0,0,0,0,1,175000
+Piso,Centro,87,2,2,1,1,1,1,0,0,520000
+Piso,Salamanca,97,2,1,0,0,1,1,0,1,440000
+Piso,Puente de Vallecas,64,3,1,1,0,0,1,0,0,166000
+Piso,Centro,171,3,3,1,1,1,1,0,0,1350000
+Piso,Centro,91,2,2,0,1,1,1,0,0,819000
+Piso,Chamartín,91,3,2,1,1,1,1,0,0,360000
+Piso,Latina,60,2,1,0,0,0,1,0,0,152600
+Piso,Centro,115,3,2,1,0,1,1,0,0,859000
+Piso,Centro,88,2,1,0,0,1,1,0,0,599000
+Ático,Chamartín,70,2,2,1,1,1,1,1,1,695000
+Piso,Carabanchel,97,4,1,1,1,1,1,0,0,260000
+Piso,Latina,73,3,1,1,0,0,1,0,1,179900
+Piso,Fuencarral,165,3,2,1,1,1,1,1,0,600000
+Piso,Vicálvaro,98,2,2,1,0,0,0,0,0,323500
+Piso,Salamanca,97,1,2,1,1,1,1,0,0,1400000
+Piso,Latina,62,2,1,0,0,1,1,0,0,219000
+Piso,Retiro,120,3,3,1,1,1,1,0,0,519000
+Piso,Fuencarral,88,2,2,1,1,1,1,1,0,418000
+Piso,Centro,70,2,2,0,0,1,0,0,0,695000
+Piso,Hortaleza,175,3,2,1,1,1,1,1,1,759000
+Piso,Chamberí,120,3,2,1,1,1,1,0,0,690000
+Piso,Chamartín,539,4,3,1,1,1,1,1,1,2490000
+Piso,Centro,76,3,1,0,0,0,0,0,0,349724
+Piso,Hortaleza,52,1,1,0,1,1,1,0,0,206400
+Piso,Retiro,90,6,3,0,0,1,0,0,0,420000
+Piso,Centro,24,2,1,0,1,1,0,0,0,130000
+Piso,Tetuán,165,2,2,1,1,1,1,0,0,850000
+Piso,Chamberí,86,2,1,0,1,1,1,0,1,400000
+Piso,Retiro,103,2,2,0,1,1,1,0,0,412375
+Dúplex,Ciudad Lineal,115,4,2,1,1,1,1,1,1,439000
+Ático,Retiro,65,2,2,1,1,1,0,0,1,419000
+Piso,Centro,92,3,1,1,0,1,0,0,0,425000
+Piso,Centro,105,2,2,1,1,1,1,0,0,839000
+Piso,Chamartín,95,3,2,0,1,1,1,0,1,445000
+Piso,Centro,101,2,2,1,1,1,1,0,0,829000
+Piso,San Blas,37,1,1,0,1,1,0,0,0,159000
+Piso,Retiro,186,3,1,0,0,1,0,0,0,570000
+Piso,Ciudad Lineal,86,3,1,0,1,1,1,1,1,259000
+Piso,Latina,65,3,1,0,1,0,1,0,1,150000
+Piso,Carabanchel,69,1,1,0,1,1,1,1,0,210000
+Piso,Hortaleza,37,1,1,0,0,1,0,1,0,262000
+Piso,Centro,127,2,2,1,1,1,1,0,0,750000
+Piso,Arganzuela,62,2,3,0,1,1,1,0,0,247000
+Piso,Centro,119,3,3,1,1,1,1,0,0,959000
+Piso,Latina,65,3,1,0,0,1,0,0,1,159000
+Piso,Tetuán,139,4,2,0,1,1,1,1,1,605000
+Piso,Centro,44,1,1,1,1,0,1,0,0,210000
+Piso,Arganzuela,98,3,1,1,1,1,1,0,0,360000
+Piso,Chamberí,220,3,4,1,1,1,1,0,0,2250000
+Piso,Fuencarral,250,6,2,0,1,1,1,1,1,810000
+Ático,Chamberí,80,2,2,1,1,1,1,0,0,530000
+Dúplex,Chamartín,740,8,8,1,1,1,1,1,1,4900000
+Ático,Hortaleza,85,1,1,1,0,1,1,1,1,455000
+Piso,Centro,70,2,1,1,1,1,1,0,1,575500
+Dúplex,Villaverde,85,2,2,0,0,0,0,0,1,125000
+Piso,Centro,60,1,1,1,1,1,0,0,0,295000
+Piso,Carabanchel,77,3,1,1,1,1,1,0,1,270000
+Piso,Fuencarral,116,3,1,1,1,0,1,0,1,235000
+Piso,Salamanca,65,2,2,1,0,1,1,0,0,679000
+Ático,Centro,67,2,1,1,1,0,1,0,0,300000
+Piso,Retiro,175,3,3,1,1,1,1,1,1,1495000
+Piso,Retiro,105,3,2,1,1,1,1,0,0,820000
+Piso,Salamanca,160,3,4,1,1,1,1,0,0,1350000
+Piso,Chamberí,120,2,3,1,1,1,1,0,0,899000
+Piso,Tetuán,201,3,3,1,1,1,1,0,1,1449000
+Piso,Centro,98,2,2,1,1,0,1,0,0,550000
+Piso,Salamanca,56,2,2,0,0,1,1,0,0,234999
+Piso,Retiro,87,2,2,0,1,1,0,0,0,412395
+Piso,Salamanca,33,1,1,0,0,1,0,0,0,186200
+Piso,Salamanca,45,1,1,1,1,1,1,0,0,545000
+Piso,Centro,104,3,3,1,1,1,1,0,1,890000
+Piso,Arganzuela,80,3,1,1,0,1,1,0,0,290000
+Piso,Ciudad Lineal,88,3,2,0,1,1,1,0,0,220000
+Piso,Centro,95,1,1,0,0,1,1,0,0,345000
+Piso,Villaverde,108,3,2,0,1,1,1,0,1,185000
+Piso,Centro,270,3,3,1,1,1,1,0,0,1850000
+Ático,Salamanca,230,2,3,1,1,1,1,1,1,2395000
+Piso,Carabanchel,49,3,1,0,1,0,1,0,0,106170
+Piso,Centro,153,5,5,0,0,0,0,0,0,799000
+Piso,Puente de Vallecas,88,3,1,1,1,0,1,0,1,145000
+Piso,Ciudad Lineal,80,2,1,1,1,0,1,0,1,290000
+Piso,Fuencarral,67,2,1,0,0,1,0,0,1,226000
+Piso,Chamartín,230,4,3,1,1,1,1,0,0,1200000
+Piso,Latina,64,3,1,0,1,0,0,0,1,129000
+Piso,Salamanca,140,3,2,1,1,1,1,0,0,1090000
+Piso,Chamberí,300,3,3,1,1,1,0,1,0,1700000
+Piso,Moratalaz,90,3,1,0,1,1,1,0,1,234000
+Ático,Moncloa,215,2,5,0,1,1,1,0,1,1256375
+Piso,Salamanca,285,4,5,1,1,1,1,0,0,4250000
+Piso,Ciudad Lineal,86,3,1,0,0,1,1,1,0,277000
+Piso,Vicálvaro,61,2,1,1,0,0,1,0,0,132000
+Piso,Moncloa,130,3,2,1,1,1,1,0,0,669000
+Piso,Centro,77,3,2,1,1,1,1,0,0,479000
+Piso,Salamanca,306,5,5,0,1,1,1,1,1,2100000
+Piso,Centro,84,2,2,1,1,1,0,0,0,819000
+Piso,Arganzuela,135,3,2,1,1,1,1,1,1,515000
+Piso,Chamberí,74,2,1,0,0,1,0,0,0,309700
+Piso,Chamartín,450,4,4,1,1,1,1,1,1,2750000
+Ático,Hortaleza,175,2,2,1,1,1,1,1,1,800000
+Piso,Carabanchel,97,3,1,0,1,1,1,1,0,255000
+Piso,Centro,91,2,2,1,1,1,1,0,0,819000
+Piso,Usera,105,2,2,1,1,1,1,0,1,290000
+Piso,San Blas,70,3,1,0,0,0,0,0,0,150000
+Piso,Centro,193,2,3,1,1,1,1,1,0,2000000
+Piso,Centro,60,2,1,1,1,1,0,0,0,345000
+Piso,Ciudad Lineal,97,3,2,0,1,1,1,0,0,397900
+Dúplex,Chamberí,512,6,6,1,1,1,1,1,1,5873000
+Piso,Moncloa,70,2,2,1,1,1,1,0,0,560000
+Piso,Fuencarral,58,1,1,0,0,1,0,1,0,86000
+Piso,Hortaleza,101,2,2,1,0,0,0,0,0,505000
+Piso,Chamartín,194,4,4,0,1,1,1,0,1,1001148
+Piso,Chamartín,154,3,3,1,1,1,1,1,0,875000
+Piso,Centro,77,2,2,1,0,1,1,0,0,699000
+Ático,Vicálvaro,119,3,2,1,1,1,1,1,1,540000
+Ático,Moncloa,87,2,1,1,1,0,1,0,0,560000
+Piso,Fuencarral,65,1,1,1,1,1,1,1,0,358000
+Piso,Salamanca,208,3,3,1,1,1,1,0,1,749000
+Ático,Fuencarral,456,7,5,1,1,1,1,1,1,1117571
+Piso,Centro,382,3,4,1,1,1,1,1,0,2600000
+Piso,Arganzuela,99,3,1,0,1,1,1,0,0,402610
+Piso,Chamberí,102,2,2,0,1,1,0,0,0,583500
+Ático,Centro,175,2,2,1,1,1,1,0,0,2500000
+Piso,Salamanca,135,3,3,1,1,1,1,0,0,1300000
+Piso,Salamanca,250,3,4,1,1,1,1,1,0,3150000
+Piso,Salamanca,66,2,2,1,1,1,1,0,0,589000
+Piso,Usera,73,2,1,1,0,0,1,0,1,277400
+Piso,Salamanca,235,4,4,0,1,1,0,1,1,2090000
+Piso,Carabanchel,98,3,2,1,1,0,1,0,1,238500
+Piso,Salamanca,303,4,5,1,1,1,1,1,1,3200000
+Piso,Chamberí,140,5,2,1,1,1,1,0,0,695000
+Ático,San Blas,112,2,2,1,0,1,1,0,1,439000
+Piso,Fuencarral,128,3,2,1,1,1,1,1,0,470000
+Piso,Moncloa,58,2,1,0,0,1,0,0,1,177000
+Piso,Puente de Vallecas,161,3,2,1,1,1,1,0,1,1497000
+Piso,Latina,89,2,1,1,1,1,1,0,1,255000
+Piso,Centro,33,1,1,1,0,1,0,0,0,214000
+Piso,Chamartín,155,1,2,1,0,1,1,0,0,799000
+Piso,Moratalaz,71,3,1,1,1,0,1,0,0,185000
+Piso,Tetuán,51,1,1,0,1,1,0,1,0,220000
+Piso,San Blas,54,3,1,0,0,0,1,0,0,113000
+Piso,Tetuán,118,3,1,1,1,1,1,0,0,575000
+Piso,Carabanchel,52,2,1,0,1,0,1,0,0,129000
+Piso,Villa de Vallecas,124,2,2,1,1,1,1,1,0,299000
+Piso,Salamanca,65,2,2,1,0,1,1,0,0,679000
+Piso,Carabanchel,46,1,1,1,1,0,1,0,1,125000
+Ático,Centro,230,2,3,1,1,0,1,0,1,990000
+Piso,Hortaleza,106,3,2,0,0,1,1,1,0,450000
+Piso,San Blas,313,1,2,1,1,1,1,0,0,375000
+Piso,Tetuán,35,1,1,0,0,1,1,0,0,200000
+Piso,Moncloa,216,3,3,1,0,1,1,0,0,1200000
+Piso,Centro,90,3,3,1,1,1,1,0,0,859000
+Piso,Salamanca,178,4,2,0,1,1,1,0,0,1500000
+Piso,Ciudad Lineal,43,3,1,0,0,1,1,0,0,182300
+Piso,Centro,35,1,1,0,0,0,1,0,0,166000
+Piso,Arganzuela,102,2,2,0,1,0,0,0,0,347510
+Piso,Chamberí,101,2,2,1,1,1,1,0,0,1095000
+Piso,Chamberí,410,4,4,1,1,1,1,1,0,2636000
+Piso,Centro,126,2,2,1,1,1,1,0,0,960000
+Piso,Arganzuela,52,2,1,0,1,1,0,0,0,224200
+Piso,Retiro,146,3,2,1,1,1,0,1,0,990000
+Piso,Carabanchel,55,2,1,0,1,0,0,0,1,113000
+Piso,Centro,40,1,1,1,1,1,1,0,0,210000
+Piso,Carabanchel,51,2,1,0,0,0,1,0,0,102000
+Piso,Retiro,266,3,3,1,0,1,0,1,1,2850000
+Piso,Centro,104,3,3,1,0,1,1,0,1,890000
+Piso,Salamanca,236,3,4,1,1,1,0,1,0,3100000
+Piso,Latina,39,1,1,0,1,1,1,0,0,147000
+Loft,Hortaleza,67,1,1,1,1,1,1,1,0,255000
+Piso,Centro,141,3,3,1,1,0,1,0,0,750000
+Piso,Latina,67,2,1,1,0,0,1,0,1,240000
+Piso,Arganzuela,85,3,1,0,1,1,1,0,0,260000
+Piso,Chamberí,78,1,1,1,1,1,1,0,0,485000
+Piso,Retiro,172,3,1,0,1,1,0,0,0,570000
+Piso,San Blas,40,1,1,1,1,1,1,0,0,114000
+Piso,Chamartín,138,2,2,1,1,1,1,0,0,950000
+Piso,Carabanchel,45,1,1,0,1,0,1,0,0,139000
+Piso,Moncloa,160,4,3,1,1,1,1,1,0,750000
+Piso,Centro,74,2,1,1,0,1,1,0,0,349000
+Ático,Salamanca,234,2,3,1,1,1,1,1,0,3100000
+Dúplex,Fuencarral,135,3,3,1,1,1,1,1,0,575000
+Piso,Tetuán,29,1,1,1,1,0,1,0,0,179000
+Piso,Fuencarral,89,3,2,0,0,1,1,0,1,330000
+Piso,Carabanchel,104,3,2,1,1,0,0,0,0,225000
+Piso,Salamanca,146,3,3,1,1,1,1,0,1,850000
+Piso,Retiro,151,4,3,1,0,1,1,1,0,635000
+Piso,Centro,107,2,2,1,1,1,1,1,0,1490000
+Piso,Centro,101,3,3,1,0,1,1,0,0,779000
+Piso,Centro,105,3,2,0,0,1,0,0,0,675000
+Piso,Villaverde,60,2,1,1,1,0,1,0,0,103000
+Piso,Tetuán,97,3,2,1,1,1,1,1,0,350000
+Piso,San Blas,103,3,2,1,1,1,1,1,1,359000
+Piso,Chamberí,145,5,5,1,1,0,1,0,0,740000
+Piso,Salamanca,56,2,1,0,1,1,1,0,1,235000
+Piso,Ciudad Lineal,66,3,1,1,0,0,0,0,1,210000
+Piso,Fuencarral,70,1,1,0,0,1,0,0,1,242700
+Piso,Salamanca,157,3,2,1,1,1,1,0,0,495000
+Piso,Ciudad Lineal,70,2,1,0,1,0,1,0,1,230000
+Piso,Centro,49,1,1,1,0,1,0,0,0,199900
+Piso,Latina,72,3,1,0,0,0,0,0,1,161000
+Piso,Moncloa,172,3,4,1,0,0,0,0,0,997700
+Piso,Centro,119,3,3,1,1,1,1,0,0,959000
+Piso,Retiro,97,3,2,1,1,1,1,0,0,775000
+Piso,Fuencarral,105,2,1,1,1,1,1,1,1,422000
+Piso,Chamartín,169,4,2,1,1,1,1,1,0,825000
+Piso,Salamanca,232,4,3,1,1,1,1,1,1,1400000
+Piso,Salamanca,85,3,3,1,1,1,1,0,0,789000
+Piso,Puente de Vallecas,60,2,1,1,0,1,1,1,0,170000
+Piso,Hortaleza,116,3,2,1,1,1,0,1,1,535000
+Piso,Centro,105,2,2,1,1,1,1,0,1,839000
+Piso,Villaverde,58,1,1,1,1,1,1,1,0,185000
+Piso,Carabanchel,92,3,1,0,0,0,0,0,1,177500
+Ático,Tetuán,90,3,2,0,1,1,1,0,1,330000
+Piso,Chamartín,97,3,1,1,1,1,1,0,0,515000
+Piso,Vicálvaro,105,3,2,1,1,1,1,1,0,300000
+Piso,San Blas,86,3,1,0,1,1,1,0,0,209000
+Piso,Centro,151,3,2,0,0,1,0,0,0,980000
+Piso,Latina,65,2,1,0,0,1,1,0,1,154999
+Piso,Chamberí,80,4,1,0,1,1,1,0,0,525000
+Piso,Centro,252,8,5,0,0,0,0,0,0,899000
+Piso,Centro,159,3,2,0,0,1,0,0,0,710000
+Piso,Salamanca,128,3,2,1,0,1,1,0,0,795000
+Piso,Latina,59,1,1,1,1,1,1,0,0,179999
+Piso,Centro,78,2,1,1,1,0,1,0,0,375000
+Piso,Hortaleza,133,4,3,1,1,1,1,0,1,410000
+Piso,Villa de Vallecas,82,3,2,1,1,1,1,0,1,230000
+Piso,Salamanca,65,2,2,1,0,1,1,0,0,679000
+Piso,Chamberí,109,2,2,1,1,1,1,0,0,899000
+Piso,Latina,71,3,1,0,0,0,0,0,1,179598
+Piso,Tetuán,97,2,2,1,1,1,1,1,0,456000
+Piso,San Blas,70,3,1,0,1,0,1,0,1,150000
+Piso,San Blas,87,3,2,0,1,1,1,0,0,248900
+Piso,Carabanchel,68,2,1,0,1,1,1,0,0,182000
+Ático,Villa de Vallecas,94,2,2,1,1,1,1,0,1,260000
+Piso,Carabanchel,93,4,1,0,0,1,1,0,0,260000
+Piso,Salamanca,317,3,4,1,1,1,1,1,0,5040000
+Piso,Carabanchel,88,2,2,1,1,1,1,0,0,309000
+Piso,Hortaleza,75,1,1,1,1,1,1,1,0,320000
+Piso,Chamberí,128,4,2,0,1,1,0,0,0,570000
+Ático,Centro,47,1,1,1,0,0,1,0,1,315000
+Piso,Carabanchel,69,2,2,1,1,0,1,0,0,169000
+Piso,Ciudad Lineal,56,1,1,0,1,1,1,1,0,340000
+Piso,Usera,85,3,1,0,1,1,1,0,1,169000
+Piso,Salamanca,136,3,2,1,1,1,1,0,0,1850000
+Piso,Arganzuela,86,3,1,0,1,1,0,0,1,350000
+Piso,Usera,136,2,1,1,1,1,1,1,1,260000
+Ático,Tetuán,231,5,3,0,1,1,1,0,1,915000
+Piso,Barajas,67,2,1,1,0,0,1,0,1,170000
+Piso,Chamartín,127,3,3,1,1,1,1,0,1,950000
+Piso,Carabanchel,85,2,2,1,1,1,1,0,0,190000
+Piso,Latina,78,3,1,1,0,0,1,0,1,149900
+Piso,Retiro,469,6,5,1,1,1,1,1,1,2500000
+Piso,Tetuán,56,2,2,0,0,0,1,0,1,229500
+Piso,Chamberí,333,4,3,0,1,1,1,1,1,1390000
+Piso,Latina,144,5,2,1,1,0,1,0,1,444000
+Piso,Carabanchel,80,3,1,0,1,1,1,0,0,289000
+Piso,Carabanchel,100,3,2,0,1,1,0,0,1,140000
+Piso,Centro,145,3,3,1,1,1,1,0,0,1270000
+Dúplex,Salamanca,91,2,1,1,1,1,1,0,0,795000
+Piso,Centro,188,3,3,1,1,1,1,0,0,1495000
+Piso,Centro,91,2,2,1,0,1,1,0,0,819000
+Piso,Centro,54,1,1,0,1,1,0,0,0,195000
+Piso,Moncloa,231,6,2,0,1,1,1,0,0,980000
+Piso,Tetuán,156,4,3,0,0,1,1,1,1,695000
+Piso,Retiro,142,4,2,1,1,1,1,0,1,554000
+Piso,San Blas,98,4,1,0,1,0,1,0,0,200000
+Piso,Fuencarral,116,3,2,1,1,1,1,1,0,629000
+Piso,Tetuán,99,3,2,1,1,1,1,0,0,660000
+Piso,Barajas,190,3,2,1,1,1,1,1,0,624999
+Piso,Usera,70,3,1,0,0,1,1,0,0,139900
+Piso,Centro,100,3,3,1,1,1,1,0,0,789000
+Piso,Moratalaz,50,2,2,0,1,1,1,0,0,165000
+Piso,Centro,30,2,1,0,0,1,0,0,0,199000
+Ático,Chamberí,100,3,1,1,0,1,1,0,1,1300000
+Piso,Usera,120,4,2,1,1,0,1,1,0,235000
+Piso,Chamartín,302,4,3,1,0,1,1,0,1,2150000
+Piso,Salamanca,99,3,1,0,1,1,1,0,0,480000
+Piso,Villaverde,60,3,1,1,1,0,1,0,0,114000
+Piso,Ciudad Lineal,116,4,2,0,1,1,1,1,1,425000
+Piso,Villa de Vallecas,53,1,1,0,1,1,1,1,0,168300
+Piso,San Blas,86,3,2,0,1,1,1,0,1,275000
+Piso,Centro,270,3,2,1,1,1,1,0,0,1995000
+Dúplex,Usera,40,1,1,0,1,0,1,0,0,159000
+Piso,Moncloa,146,4,2,0,0,1,1,0,0,699000
+Piso,Puente de Vallecas,75,1,1,0,0,0,0,0,0,119000
+Piso,Retiro,106,3,2,0,0,1,0,0,0,690000
+Piso,Salamanca,83,2,2,1,1,1,1,0,0,849000
+Piso,Salamanca,98,3,2,0,1,1,1,1,1,610000
+Piso,Latina,71,3,1,0,0,1,1,0,1,179597
+Piso,Moncloa,85,3,1,0,0,1,0,0,0,335000
+Piso,Usera,110,3,2,0,1,1,1,0,1,199000
+Piso,Carabanchel,51,2,1,1,0,0,1,0,0,123000
+Piso,Ciudad Lineal,59,2,1,1,1,1,1,0,1,319900
+Piso,Salamanca,65,2,1,0,0,1,1,0,0,430000
+Piso,Chamartín,85,3,1,0,1,0,1,0,1,365000
+Piso,Chamberí,284,4,5,1,1,1,1,1,1,2858000
+Piso,Centro,144,5,2,0,0,1,1,0,0,592599
+Piso,Chamberí,96,3,3,1,0,1,1,0,0,799000
+Piso,Salamanca,240,4,5,1,1,1,1,0,0,1125000
+Piso,Moratalaz,83,4,2,0,1,0,1,0,1,161000
+Piso,Latina,75,3,2,1,1,0,1,0,1,174999
+Piso,Fuencarral,130,3,2,0,1,1,0,0,1,431205
+Piso,Tetuán,126,2,1,1,1,1,1,1,0,385000
+Piso,Centro,34,1,1,1,0,0,1,0,0,190000
+Piso,Ciudad Lineal,79,3,1,1,1,1,1,0,1,195000
+Piso,Salamanca,306,4,3,0,0,1,0,1,1,1900000
+Piso,Centro,180,4,5,1,1,1,1,0,0,1800000
+Piso,Centro,144,5,2,0,1,1,1,0,0,592000
+Piso,Salamanca,422,4,4,1,1,1,0,1,0,4800000
+Piso,San Blas,80,3,1,0,0,1,1,0,1,265000
+Piso,Carabanchel,117,4,1,1,1,1,1,0,1,375000
+Piso,Carabanchel,71,2,1,0,0,0,1,0,1,149000
+Piso,Hortaleza,139,3,2,1,0,0,0,0,0,746000
+Ático,Puente de Vallecas,105,2,2,0,0,1,1,1,1,285000
+Piso,Villaverde,100,3,2,0,1,1,1,1,0,270000
+Piso,Centro,80,2,1,1,1,1,1,0,0,420000
+Piso,Ciudad Lineal,62,3,1,0,0,0,0,0,1,212500
+Piso,Chamberí,360,4,5,1,1,1,1,1,1,2495000
+Piso,Ciudad Lineal,116,3,1,0,1,0,1,1,1,435000
+Piso,Puente de Vallecas,112,3,2,0,0,1,1,0,1,305500
+Piso,Retiro,158,4,2,1,1,1,1,0,1,650000
+Piso,Villa de Vallecas,57,2,1,0,0,0,1,0,1,90500
+Piso,Salamanca,84,2,1,0,0,1,1,0,1,510000
+Piso,Centro,32,1,1,0,1,0,0,0,0,220000
+Piso,Usera,79,2,2,1,1,1,1,1,0,225000
+Piso,Centro,104,3,3,1,1,1,1,0,0,890000
+Piso,Puente de Vallecas,120,3,2,0,0,1,0,0,1,165000
+Piso,Latina,69,2,1,0,1,0,1,0,1,146000
+Ático,Salamanca,750,6,6,1,1,1,0,1,1,6950000
+Piso,Centro,96,2,2,1,1,0,1,0,0,399000
+Piso,Carabanchel,119,3,2,1,1,1,1,0,1,179000
+Piso,Carabanchel,87,3,1,1,1,1,1,0,1,219000
+Piso,San Blas,152,3,2,1,1,1,1,1,0,399000
+Piso,Puente de Vallecas,102,3,2,1,1,1,1,1,1,258900
+Piso,Salamanca,150,3,2,1,1,1,1,0,1,870000
+Ático,Chamartín,78,2,2,1,1,1,1,0,1,590000
+Piso,Centro,145,5,1,0,0,0,0,0,1,649500
+Piso,Carabanchel,100,4,2,0,1,0,0,0,1,164900
+Piso,San Blas,58,1,1,0,0,1,0,0,0,247500
+Piso,Centro,40,1,1,0,0,1,1,0,0,236000
+Piso,Chamberí,140,5,2,0,0,1,1,0,0,630000
+Piso,Centro,118,2,2,1,0,1,0,0,0,889000
+Piso,Latina,89,2,1,0,1,0,1,0,1,199900
+Piso,Centro,102,3,3,1,1,1,1,0,1,829000
+Piso,Latina,76,2,1,0,1,0,1,0,1,125000
+Piso,Latina,74,3,1,0,1,0,1,0,1,195000
+Piso,Chamartín,174,4,2,1,1,1,1,0,0,825000
+Piso,Tetuán,127,3,3,1,1,1,1,0,0,950000
+Piso,Salamanca,75,2,2,1,1,1,1,0,0,570000
+Piso,Chamartín,126,4,2,1,1,1,1,0,1,670000
+Dúplex,Arganzuela,80,2,2,1,1,1,1,0,0,398000
+Ático,Usera,44,1,1,1,1,1,1,0,1,195000
+Piso,San Blas,82,3,1,0,0,0,1,0,1,184000
+Piso,Arganzuela,84,2,1,1,1,1,1,1,1,335000
+Piso,Retiro,110,2,1,0,1,1,1,0,0,498000
+Ático,Hortaleza,66,1,1,0,0,1,1,1,1,370000
+Piso,Salamanca,147,4,4,1,0,1,1,0,0,1150000
+Piso,Arganzuela,141,6,3,0,1,1,0,0,0,500000
+Ático,Centro,103,2,1,1,1,1,1,1,1,825000
+Piso,Centro,70,2,1,1,1,1,1,1,1,575500
+Piso,Retiro,161,4,3,1,1,1,1,1,1,735000
+Piso,Latina,132,4,2,1,1,1,1,1,1,374999
+Piso,Chamberí,59,2,1,1,0,1,1,0,0,345000
+Piso,Chamberí,105,3,2,1,1,1,1,0,0,630000
+Piso,Retiro,91,3,2,0,1,1,1,0,0,679999
+Piso,Salamanca,122,3,2,1,1,1,1,0,1,1050000
+Piso,Chamartín,127,3,2,1,1,1,1,0,1,487000
+Piso,Chamartín,143,5,3,0,1,1,1,1,0,850000
+Piso,Centro,65,1,1,0,1,0,1,0,0,369000
+Piso,Moncloa,80,3,1,0,1,1,1,0,0,630000
+Piso,Ciudad Lineal,71,2,2,0,1,1,0,0,1,250135
+Piso,Salamanca,107,3,2,1,1,1,1,0,1,535000
+Piso,Arganzuela,85,3,1,0,0,1,1,0,1,385000
+Piso,Centro,51,1,1,0,0,1,0,0,0,206000
+Piso,Villaverde,74,3,1,0,0,1,0,0,0,81000
+Ático,Salamanca,60,2,1,1,1,1,1,0,1,465000
+Piso,Chamberí,196,4,3,1,1,1,1,0,1,965000
+Piso,Chamberí,73,2,2,1,1,1,1,0,1,495000
+Piso,Salamanca,199,4,3,0,1,1,0,0,0,1665000
+Piso,Puente de Vallecas,75,2,1,1,1,0,1,0,1,135000
+Piso,Villaverde,61,3,1,1,0,0,1,0,1,134900
+Piso,Centro,382,3,4,1,1,1,1,1,0,2600000
+Piso,San Blas,54,2,1,0,0,0,1,0,0,140000
+Piso,Centro,103,3,1,0,0,1,0,0,0,370000
+Piso,Salamanca,154,3,3,1,1,1,1,0,0,1800000
+Piso,Tetuán,45,1,1,1,1,0,0,0,0,199000
+Piso,Arganzuela,79,3,1,0,1,1,1,1,1,330000
+Piso,Retiro,175,4,2,1,1,1,1,0,0,1500000
+Piso,Chamberí,196,4,3,1,1,1,1,1,1,1300000
+Piso,Hortaleza,79,3,1,0,1,1,1,0,1,267700
+Piso,Puente de Vallecas,70,2,1,1,0,0,0,0,0,200500
+Piso,Chamberí,314,2,3,1,0,1,1,1,1,1950000
+Piso,Centro,104,1,1,1,0,1,1,0,0,890000
+Piso,Puente de Vallecas,57,1,1,0,1,1,0,0,0,170000
+Piso,Chamberí,71,2,1,0,0,1,1,0,1,475000
+Piso,Centro,154,5,5,1,1,1,1,0,0,949000
+Piso,Centro,133,3,2,0,1,0,1,0,1,580000
+Piso,Puente de Vallecas,107,3,1,1,1,1,1,1,1,245000
+Piso,Fuencarral,77,3,2,1,1,1,1,1,1,397000
+Piso,Chamberí,35,1,1,0,0,1,1,0,0,179000
+Piso,Salamanca,285,4,4,1,1,1,1,0,0,4250000
+Piso,Fuencarral,150,3,2,0,1,1,1,1,0,530000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Puente de Vallecas,47,3,1,0,1,0,0,0,0,109478
+Piso,Tetuán,105,3,1,0,0,1,1,0,1,319000
+Piso,San Blas,97,3,2,1,1,1,1,0,0,260000
+Piso,Salamanca,171,3,4,1,1,1,1,0,0,2500000
+Piso,Ciudad Lineal,236,4,4,1,1,1,1,1,1,995000
+Piso,Puente de Vallecas,106,3,1,0,0,1,1,0,1,165000
+Piso,Fuencarral,87,3,1,1,0,1,1,0,0,249000
+Piso,Tetuán,97,2,2,1,1,1,1,1,1,452000
+Piso,Villaverde,45,2,1,1,1,0,1,0,0,118000
+Piso,Centro,105,4,1,0,0,0,0,0,0,425000
+Piso,Fuencarral,60,2,1,1,0,1,0,0,1,190400
+Piso,Centro,70,2,1,1,1,1,1,0,0,500000
+Piso,Salamanca,380,5,5,1,1,1,0,0,0,4200000
+Piso,Carabanchel,98,2,2,0,1,1,1,0,1,222000
+Piso,San Blas,98,3,1,0,1,1,1,0,1,198000
+Piso,Latina,69,2,1,0,0,1,1,0,0,164000
+Piso,Retiro,39,2,1,0,0,1,1,0,0,190000
+Piso,Usera,117,4,2,0,1,1,1,0,0,287945
+Piso,Tetuán,85,3,2,0,1,0,0,0,0,272000
+Piso,Salamanca,179,3,3,1,1,1,1,0,0,1870000
+Piso,Tetuán,40,2,1,0,1,0,1,0,0,189900
+Dúplex,Latina,125,2,2,1,1,1,1,1,1,225000
+Piso,Usera,117,2,2,0,1,1,1,1,1,255000
+Piso,Puente de Vallecas,88,3,1,1,1,1,1,0,1,133000
+Piso,Salamanca,75,2,2,1,1,1,0,0,0,679000
+Piso,Centro,44,1,1,1,1,0,0,0,0,210000
+Piso,Arganzuela,136,3,2,1,1,1,1,1,0,675000
+Piso,Latina,63,2,1,0,0,1,0,0,1,145000
+Piso,Centro,278,4,4,0,0,1,0,0,0,1675000
+Ático,Centro,50,1,1,1,1,1,1,0,0,350000
+Piso,Salamanca,120,3,2,1,1,1,1,0,0,565000
+Piso,Carabanchel,110,4,2,1,1,0,1,0,1,240000
+Piso,Tetuán,100,2,2,1,1,1,1,1,1,750000
+Piso,Salamanca,167,3,4,1,1,1,1,0,0,1500000
+Piso,Ciudad Lineal,65,2,1,0,0,0,1,0,0,237500
+Ático,Chamberí,281,3,3,1,1,1,1,1,1,2950000
+Ático,Usera,128,3,2,0,0,0,0,0,1,270000
+Piso,Moncloa,80,3,1,0,1,1,1,0,1,630000
+Piso,Hortaleza,80,2,2,1,1,1,0,1,0,425000
+Piso,Usera,101,3,2,0,1,1,1,1,0,309000
+Ático,Salamanca,143,4,2,1,1,1,1,1,1,795000
+Piso,Carabanchel,70,3,1,1,1,1,1,0,1,164990
+Piso,Ciudad Lineal,27,1,1,0,1,0,0,0,0,190000
+Piso,Salamanca,206,8,3,1,1,1,0,0,0,1000000
+Piso,Chamberí,193,3,4,1,1,1,0,0,0,1649000
+Piso,Fuencarral,33,1,1,1,0,1,1,0,1,185000
+Piso,Fuencarral,56,2,1,1,1,1,1,1,0,230000
+Piso,Moncloa,301,6,5,1,1,1,1,1,1,2980000
+Piso,Latina,71,3,1,0,0,0,1,0,1,153902
+Piso,Tetuán,115,2,2,1,1,1,1,0,0,640000
+Piso,Fuencarral,110,4,2,0,1,1,1,0,1,389000
+Piso,Centro,75,2,1,0,0,1,0,0,0,230000
+Piso,Latina,63,2,1,0,0,1,1,0,0,219000
+Piso,San Blas,128,4,1,0,0,1,0,0,0,365000
+Piso,Villaverde,73,2,1,0,1,1,1,0,0,114000
+Piso,Puente de Vallecas,69,3,1,1,1,0,0,0,1,146000
+Piso,Carabanchel,73,3,1,0,0,0,0,0,1,115000
+Piso,Ciudad Lineal,85,2,2,1,1,1,1,1,1,379921
+Piso,Centro,57,2,1,0,1,0,0,0,0,149000
+Piso,Chamberí,635,6,5,1,1,1,0,1,1,4560000
+Piso,Puente de Vallecas,69,3,1,0,1,0,0,0,1,135000
+Piso,Villaverde,107,3,2,0,1,1,1,1,1,254034
+Piso,Carabanchel,90,2,2,1,1,1,1,0,1,245000
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Piso,Arganzuela,98,3,1,1,1,1,1,0,0,360000
+Piso,Centro,112,3,3,1,1,1,1,0,0,959000
+Piso,Centro,124,2,2,1,1,0,1,0,0,785000
+Piso,Centro,46,1,1,0,1,1,1,0,0,189000
+Dúplex,Chamartín,140,2,3,1,1,1,1,1,1,1100000
+Piso,Centro,134,3,2,0,0,0,1,0,0,620000
+Piso,Centro,76,3,2,0,0,1,0,0,0,229000
+Piso,Retiro,48,2,1,1,1,1,1,0,0,259000
+Piso,Usera,91,3,1,1,1,0,1,1,1,185000
+Piso,Chamberí,123,3,2,1,1,1,1,0,0,795000
+Dúplex,Tetuán,110,2,2,0,1,1,1,0,1,369000
+Piso,Salamanca,142,3,2,1,1,0,0,0,1,602000
+Piso,Salamanca,96,2,3,1,1,1,1,0,0,899000
+Piso,Fuencarral,120,3,2,1,1,1,0,1,0,460000
+Piso,Carabanchel,63,2,1,0,0,0,0,0,1,141100
+Piso,Centro,107,3,3,1,0,1,1,0,0,789000
+Piso,Chamartín,86,2,1,0,1,1,1,0,0,340000
+Dúplex,Chamartín,190,1,2,0,0,1,1,1,0,1100000
+Piso,Fuencarral,83,3,1,0,1,0,0,0,1,195000
+Piso,Centro,122,3,2,1,1,1,1,0,0,1390000
+Piso,Ciudad Lineal,69,3,1,1,0,0,1,0,1,79600
+Piso,Salamanca,232,3,4,1,1,1,1,0,0,2550000
+Piso,Centro,58,3,1,1,0,1,1,0,0,290000
+Piso,Tetuán,72,3,1,1,1,1,1,0,1,370000
+Piso,Latina,132,4,2,1,1,1,1,1,0,375000
+Piso,San Blas,30,1,1,1,1,0,1,0,0,135000
+Piso,Puente de Vallecas,64,2,1,1,1,1,1,1,0,209000
+Piso,Tetuán,85,3,2,0,1,0,1,1,0,169995
+Piso,Vicálvaro,110,4,2,0,0,1,1,0,1,260000
+Piso,Villa de Vallecas,62,2,1,1,0,0,1,0,1,140000
+Ático,Centro,69,2,1,1,1,1,1,0,0,490000
+Piso,Salamanca,139,3,3,1,1,1,1,1,1,1250000
+Piso,Moratalaz,75,4,1,1,1,0,0,0,0,198000
+Piso,Fuencarral,100,2,1,1,1,1,1,1,0,430000
+Piso,Hortaleza,136,3,2,1,0,0,0,0,0,642000
+Piso,Hortaleza,101,2,2,1,1,1,0,1,0,440000
+Piso,Salamanca,370,6,5,1,1,1,1,1,0,2975000
+Piso,Salamanca,90,1,1,1,1,1,1,0,0,1150000
+Piso,Salamanca,95,3,2,0,1,1,1,0,1,430000
+Piso,Chamberí,126,2,2,0,0,0,0,1,1,1101015
+Ático,Chamberí,220,3,3,1,1,1,1,0,1,1750000
+Piso,Ciudad Lineal,52,2,1,0,1,0,1,0,0,167100
+Piso,Tetuán,86,3,1,0,0,1,1,0,1,380000
+Piso,Salamanca,76,2,2,1,1,1,1,0,1,849000
+Ático,Carabanchel,126,3,2,0,0,0,1,0,1,248000
+Piso,Centro,51,1,1,1,1,1,1,1,0,380000
+Piso,Moncloa,75,1,1,1,1,1,1,0,0,430000
+Piso,Moncloa,150,3,2,1,1,1,0,1,0,830000
+Piso,Latina,81,3,2,1,0,1,1,1,0,295000
+Piso,Arganzuela,54,1,1,1,1,0,1,0,0,242000
+Piso,Carabanchel,63,2,1,0,0,0,1,0,1,141100
+Piso,Centro,124,3,2,1,1,1,1,0,0,675000
+Piso,San Blas,118,4,2,0,1,1,0,0,1,225000
+Piso,Salamanca,48,1,1,1,1,1,1,0,0,575000
+Piso,Villaverde,62,2,1,0,0,1,0,0,0,109000
+Piso,Retiro,106,3,2,1,1,1,1,0,0,820000
+Piso,Arganzuela,36,1,1,0,0,1,0,0,0,170000
+Piso,Villaverde,65,3,1,0,0,1,1,0,0,139500
+Piso,Puente de Vallecas,55,1,1,0,1,1,1,0,1,105000
+Piso,Centro,73,3,1,1,1,1,1,0,0,549000
+Piso,Chamberí,175,4,2,0,0,1,1,0,1,797000
+Piso,Centro,118,3,1,0,0,1,1,0,0,540000
+Ático,Salamanca,255,2,3,1,1,1,0,0,1,1680000
+Piso,Centro,130,4,2,1,0,1,1,0,0,645000
+Piso,Salamanca,45,2,1,0,0,0,0,0,0,290000
+Piso,Hortaleza,250,5,3,1,1,1,1,1,0,625000
+Piso,Villaverde,67,1,1,0,1,1,0,1,0,138500
+Ático,Puente de Vallecas,138,3,1,0,1,1,0,0,1,204688
+Piso,Barajas,125,4,2,0,1,0,1,0,1,300000
+Piso,Chamberí,226,4,4,1,1,1,1,1,1,1200000
+Piso,Carabanchel,75,2,1,1,1,0,1,0,0,199000
+Piso,Salamanca,250,3,3,1,1,1,1,0,0,3200000
+Piso,Puente de Vallecas,103,3,2,0,1,1,0,0,1,167300
+Piso,Puente de Vallecas,170,4,2,1,1,0,1,0,1,250000
+Piso,Arganzuela,41,1,1,1,1,0,1,0,0,229000
+Piso,Moratalaz,60,2,1,1,0,0,1,0,0,172000
+Piso,Carabanchel,99,2,1,0,1,1,1,1,0,265000
+Piso,Salamanca,97,2,2,1,1,1,1,1,0,595000
+Piso,San Blas,64,3,1,1,0,0,1,0,1,119000
+Piso,Villaverde,80,2,2,1,1,1,1,1,0,270000
+Piso,Carabanchel,51,2,1,0,0,0,1,0,0,102100
+Piso,Moncloa,192,4,2,0,0,1,1,0,0,950000
+Piso,Chamartín,52,2,1,0,1,1,1,0,0,210000
+Piso,Carabanchel,95,3,2,1,1,1,1,0,1,420000
+Piso,Centro,53,2,1,0,0,1,0,0,0,276000
+Piso,Carabanchel,102,3,2,0,0,1,1,0,1,189000
+Piso,Carabanchel,72,2,1,0,1,1,1,0,0,122000
+Piso,Puente de Vallecas,106,3,1,0,0,1,1,0,1,206000
+Piso,Tetuán,57,2,1,0,0,0,0,0,1,160000
+Piso,Salamanca,53,2,1,0,0,1,0,0,1,270000
+Piso,Puente de Vallecas,50,1,1,1,0,1,1,1,0,170000
+Piso,Tetuán,61,3,1,0,0,0,0,0,1,225000
+Piso,Ciudad Lineal,78,3,1,1,1,1,1,0,0,315000
+Piso,Vicálvaro,59,2,1,0,0,0,1,0,1,160000
+Piso,Puente de Vallecas,64,2,1,1,1,0,1,0,0,151000
+Piso,Chamberí,31,1,1,1,0,1,1,0,1,220000
+Piso,Puente de Vallecas,74,3,2,1,1,1,1,0,1,157000
+Piso,Hortaleza,97,1,1,1,1,1,1,1,0,325000
+Piso,Chamartín,283,4,4,1,1,1,1,1,1,1970000
+Piso,Hortaleza,151,5,3,0,1,1,1,0,1,312000
+Piso,Centro,104,1,2,1,0,1,0,0,0,499900
+Piso,Latina,62,3,1,1,0,0,1,0,1,159900
+Piso,San Blas,85,3,1,1,1,1,1,0,1,222900
+Piso,Chamberí,132,3,2,1,0,1,1,0,0,675000
+Piso,Ciudad Lineal,82,3,2,1,1,1,1,0,0,339000
+Piso,Salamanca,169,3,2,1,1,1,1,0,1,1350000
+Piso,Ciudad Lineal,73,3,1,0,0,1,1,0,0,289000
+Piso,Villaverde,41,2,1,0,0,0,1,0,0,93000
+Piso,Puente de Vallecas,108,3,2,1,1,0,1,0,0,168500
+Piso,Villaverde,54,3,1,0,0,0,0,0,0,113500
+Piso,Salamanca,310,5,4,1,1,1,1,1,1,2100000
+Ático,Latina,130,3,2,1,1,0,1,0,1,469000
+Piso,Salamanca,123,3,2,1,1,1,0,1,0,370000
+Piso,Fuencarral,48,1,1,0,0,0,1,0,0,152000
+Piso,Chamberí,171,4,2,0,1,1,1,0,0,725000
+Piso,San Blas,80,3,1,0,1,1,1,0,0,240000
+Piso,Villaverde,121,3,2,1,1,1,1,1,0,317520
+Piso,Salamanca,108,2,2,0,0,1,1,0,0,925000
+Piso,Puente de Vallecas,74,2,3,0,0,0,0,0,1,132667
+Piso,Carabanchel,58,3,1,0,0,0,0,0,0,110000
+Piso,Chamberí,115,3,1,0,1,1,1,0,0,540000
+Piso,Moncloa,101,2,2,1,1,1,1,1,1,670000
+Piso,Chamberí,167,4,2,0,1,1,1,0,0,1100000
+Piso,Chamartín,81,3,1,1,1,1,1,0,0,530000
+Piso,Centro,41,1,1,1,0,1,1,0,0,295000
+Piso,Villaverde,55,1,1,0,1,1,0,1,0,131000
+Piso,Ciudad Lineal,88,2,2,1,1,1,1,0,0,265000
+Piso,Centro,107,3,3,1,1,1,1,0,0,839000
+Piso,Vicálvaro,114,3,2,1,0,0,0,0,0,392000
+Piso,Retiro,118,3,2,0,1,1,1,0,0,530000
+Piso,Chamartín,144,4,2,1,1,1,1,0,1,699000
+Piso,Centro,30,1,1,0,1,1,0,0,0,243000
+Piso,Chamartín,263,5,4,0,1,1,1,1,1,1750000
+Apartamento,Centro,25,1,1,1,0,1,0,0,0,165000
+Piso,Retiro,147,3,3,1,0,1,1,1,1,1435000
+Piso,Arganzuela,83,3,1,0,0,1,0,0,0,330030
+Piso,Salamanca,68,2,1,0,1,1,1,0,0,290000
+Piso,Retiro,60,3,1,1,1,1,0,0,0,335000
+Piso,Salamanca,402,5,5,1,1,1,1,0,1,3700000
+Ático,Chamberí,335,4,4,0,0,1,0,0,1,2450000
+Piso,Salamanca,87,2,2,1,1,1,0,0,0,879000
+Piso,Fuencarral,42,2,1,0,0,1,1,0,0,260000
+Piso,Fuencarral,147,4,2,0,1,1,1,0,1,431205
+Piso,Villa de Vallecas,58,4,1,0,0,0,0,0,1,135000
+Piso,Carabanchel,83,3,1,1,1,0,1,0,0,299000
+Piso,Centro,82,2,2,0,1,0,0,0,0,300000
+Piso,Centro,50,1,1,0,1,1,1,0,1,315000
+Ático,Chamartín,383,4,4,1,1,1,1,1,1,2600000
+Piso,Chamartín,176,4,3,1,1,1,1,1,1,710000
+Piso,Centro,66,2,1,0,0,1,1,0,0,215000
+Piso,Salamanca,51,2,1,0,0,1,1,0,0,205000
+Piso,Hortaleza,95,4,1,0,0,1,1,0,1,300000
+Piso,Centro,119,3,3,1,1,1,1,0,1,959000
+Piso,Centro,70,2,1,1,0,1,1,1,1,575500
+Piso,Retiro,150,3,3,1,1,1,0,0,0,2000000
+Piso,Salamanca,125,3,3,1,0,0,0,0,0,944000
+Piso,Chamartín,175,3,3,1,1,1,1,1,1,1450000
+Piso,Arganzuela,148,4,2,0,1,1,1,0,1,585000
+Piso,Centro,51,1,1,1,1,1,1,1,0,380000
+Piso,Salamanca,332,4,5,1,1,1,1,1,1,3550000
+Piso,Carabanchel,75,3,2,0,0,0,1,0,1,198000
+Piso,Ciudad Lineal,320,5,4,1,1,1,1,1,1,1450000
+Piso,Latina,90,3,1,0,1,1,1,0,1,365000
+Piso,Centro,91,2,2,1,1,1,1,0,0,819000
+Piso,Centro,64,1,1,1,1,1,1,0,0,390000
+Piso,Salamanca,185,3,3,1,1,1,1,0,1,1550000
+Piso,Ciudad Lineal,90,3,1,1,0,0,1,0,1,220000
+Piso,Latina,62,3,1,1,0,0,1,0,1,159900
+Piso,Hortaleza,75,2,1,1,1,1,1,1,1,271000
+Piso,Hortaleza,54,1,1,1,1,1,1,1,0,273500
+Piso,Chamberí,109,3,1,0,1,1,1,0,0,590000
+Piso,San Blas,55,2,1,1,1,0,1,0,0,138000
+Ático,Chamartín,593,4,5,1,1,1,1,1,1,2450000
+Piso,Retiro,96,3,2,1,1,1,1,0,1,469000
+Piso,Chamartín,81,3,1,1,1,1,1,0,1,530000
+Piso,Centro,240,4,3,1,0,1,0,0,0,1980000
+Piso,Puente de Vallecas,69,3,1,0,0,0,1,0,1,135000
+Piso,Barajas,78,3,2,1,0,0,1,0,0,275000
+Piso,Tetuán,98,3,2,0,0,1,0,0,0,390080
+Piso,Tetuán,202,5,3,1,1,1,1,0,0,825000
+Piso,Ciudad Lineal,50,3,1,0,0,1,1,0,0,182300
+Piso,Arganzuela,128,3,2,0,1,1,1,0,1,450000
+Piso,Salamanca,300,5,5,1,1,1,1,1,1,3350000
+Piso,Ciudad Lineal,78,2,2,1,1,1,1,0,0,247200
+Piso,Salamanca,160,3,3,0,1,1,0,0,0,1440000
+Piso,Moncloa,163,3,2,1,1,1,1,1,1,599000
+Piso,Usera,64,2,1,0,0,0,0,0,1,175000
+Piso,Salamanca,163,3,2,1,1,1,0,0,0,1370000
+Dúplex,Carabanchel,100,2,1,1,1,1,1,0,1,249000
+Piso,Arganzuela,88,2,2,0,1,1,0,0,0,347510
+Piso,Puente de Vallecas,90,2,1,1,0,0,1,0,1,146000
+Piso,Barajas,110,3,2,1,1,1,1,1,0,545000
+Piso,Hortaleza,120,3,2,1,1,1,1,1,0,497000
+Piso,Arganzuela,145,4,2,1,1,1,1,0,1,540000
+Piso,Chamartín,57,1,1,0,1,1,1,0,1,319000
+Piso,Usera,89,2,1,0,1,1,1,0,1,220000
+Piso,Ciudad Lineal,45,1,1,1,0,0,1,0,0,149900
+Piso,Retiro,90,3,2,1,1,1,1,0,1,520000
+Piso,Hortaleza,70,1,1,1,1,1,1,1,0,326000
+Piso,Fuencarral,93,3,1,0,1,1,1,0,1,295000
+Piso,Villa de Vallecas,46,1,1,1,1,1,1,1,0,174990
+Piso,Chamartín,335,4,4,1,1,1,1,0,1,2400000
+Ático,Fuencarral,160,4,2,1,1,1,1,1,1,697000
+Piso,Salamanca,81,2,1,1,1,1,0,0,0,595000
+Piso,Arganzuela,135,4,3,1,1,1,0,1,1,575000
+Piso,Ciudad Lineal,67,1,1,0,1,0,1,0,1,315000
+Piso,Ciudad Lineal,237,4,3,1,1,1,1,1,1,1100000
+Piso,Centro,42,1,1,1,1,0,1,0,0,190000
+Piso,Ciudad Lineal,113,3,2,1,1,1,1,0,0,339000
+Piso,Salamanca,66,2,2,1,1,1,1,0,1,420000
+Piso,San Blas,96,2,2,1,1,1,1,1,0,320000
+Piso,Tetuán,252,5,3,1,1,1,1,0,1,1550000
+Piso,Carabanchel,72,2,1,1,0,0,1,0,0,142000
+Piso,Salamanca,112,4,2,0,1,1,1,0,0,499000
+Piso,Centro,32,1,1,1,1,0,1,0,0,155000
+Piso,Chamartín,147,4,3,1,1,1,1,1,1,875000
+Piso,Ciudad Lineal,78,2,1,0,1,1,0,0,0,295000
+Piso,Moncloa,135,5,2,0,1,1,1,0,0,575000
+Piso,Centro,104,3,3,1,1,1,1,0,0,890000
+Piso,Centro,30,1,1,0,1,1,0,0,0,243000
+Piso,Arganzuela,39,1,1,1,1,1,1,0,0,209000
+Piso,Chamberí,55,2,1,1,1,1,1,0,1,340000
+Piso,Ciudad Lineal,103,3,1,1,1,1,1,0,0,309900
+Piso,Centro,82,4,1,0,0,0,0,0,0,310000
+Piso,Centro,118,2,3,1,1,1,1,0,0,889000
+Piso,Chamberí,170,5,2,1,1,1,1,0,0,680000
+Piso,Carabanchel,77,3,1,1,1,1,1,0,1,173000
+Piso,Fuencarral,119,2,2,1,1,1,1,1,0,350000
+Piso,Ciudad Lineal,62,1,1,1,1,1,1,1,1,320000
+Piso,Usera,81,2,1,1,1,1,0,0,1,275000
+Piso,Carabanchel,77,4,4,1,0,0,1,0,1,135000
+Piso,Fuencarral,71,3,2,0,0,1,0,0,1,279000
+Piso,Puente de Vallecas,93,5,1,1,1,0,1,0,0,193000
+Piso,Carabanchel,102,4,1,0,1,1,1,0,1,270000
+Piso,Centro,77,2,1,1,1,0,1,0,0,207000
+Piso,Salamanca,104,2,2,1,1,1,1,1,0,649000
+Piso,Usera,114,3,1,0,1,1,0,0,0,254500
+Piso,Fuencarral,129,4,2,0,1,1,1,0,1,459000
+Piso,Moncloa,66,2,1,0,1,1,1,0,0,290000
+Piso,Salamanca,71,2,2,1,1,1,1,0,0,679000
+Ático,Puente de Vallecas,38,1,1,1,1,1,1,0,1,154900
+Piso,Salamanca,222,4,3,1,1,1,1,0,0,800000
+Piso,Tetuán,145,3,2,1,1,0,1,0,1,395000
+Piso,Latina,62,2,2,0,0,0,1,0,0,169000
+Piso,Arganzuela,87,2,2,0,0,1,1,1,1,435800
+Piso,Barajas,100,3,2,1,1,0,1,0,1,330000
+Piso,Centro,106,2,2,1,0,1,1,0,1,635000
+Piso,Centro,133,2,2,1,1,1,1,0,0,1150000
+Piso,Tetuán,75,2,1,1,1,1,1,1,0,289000
+Piso,Centro,41,1,1,1,1,1,1,0,1,209000
+Piso,Chamberí,85,2,2,1,1,1,0,0,1,895000
+Dúplex,Puente de Vallecas,40,1,1,1,0,1,1,0,0,83000
+Piso,Salamanca,69,2,2,1,1,1,1,0,0,679000
+Piso,Hortaleza,275,4,3,1,1,1,1,1,1,940000
+Piso,Chamartín,596,7,4,0,1,1,0,1,1,3500000
+Piso,Ciudad Lineal,112,2,2,1,1,1,1,0,0,399900
+Piso,Carabanchel,82,3,1,1,0,1,0,0,1,129600
+Piso,Chamartín,263,3,3,1,1,1,1,1,0,1520000
+Piso,Chamberí,98,2,3,1,1,1,1,0,0,899000
+Piso,Chamartín,75,3,1,0,1,1,0,0,0,317600
+Piso,Salamanca,161,3,2,1,1,1,0,0,1,1190000
+Piso,Puente de Vallecas,100,4,1,0,0,0,1,0,0,200000
+Piso,Tetuán,42,2,1,1,0,1,1,0,0,179000
+Piso,Retiro,108,3,2,1,0,1,1,1,1,546000
+Piso,Ciudad Lineal,95,3,1,1,0,1,1,1,1,269000
+Piso,Usera,164,5,2,1,1,0,1,1,1,265000
+Piso,Centro,50,2,2,0,0,0,0,0,1,390000
+Piso,Tetuán,140,2,2,1,1,1,1,1,1,790000
+Piso,Salamanca,280,4,3,1,1,1,0,0,0,3400000
+Piso,Centro,84,2,2,1,1,1,1,0,0,829000
+Piso,Tetuán,73,3,1,0,1,1,1,1,0,245000
+Piso,Centro,107,3,3,1,0,1,1,0,0,789000
+Piso,Centro,75,2,1,0,1,1,0,0,0,690000
+Piso,Salamanca,58,1,1,1,1,1,1,0,0,425000
+Piso,Tetuán,173,4,2,1,1,1,1,1,1,840000
+Piso,Fuencarral,134,3,2,1,1,1,1,1,0,580000
+Piso,Hortaleza,337,5,4,1,1,0,1,1,1,1200000
+Piso,Carabanchel,90,3,2,0,1,1,1,0,1,135000
+Piso,Chamberí,114,2,2,1,1,1,1,1,1,669000
+Ático,Centro,209,2,2,1,1,1,0,1,1,1600000
+Piso,Latina,52,2,1,0,0,1,1,0,0,145000
+Dúplex,Ciudad Lineal,280,4,4,1,1,1,1,1,0,1580000
+Ático,Fuencarral,104,2,2,1,1,1,0,1,1,556000
+Piso,Chamberí,97,3,2,1,1,1,1,0,1,670000
+Piso,Chamartín,140,5,2,1,1,1,0,0,0,495000
+Piso,Ciudad Lineal,88,2,1,1,1,0,1,0,1,269900
+Piso,Fuencarral,150,4,3,0,1,1,0,1,0,559000
+Piso,Chamberí,136,3,2,0,1,1,1,0,1,660000
+Piso,Chamartín,257,4,4,1,1,1,1,0,1,1320000
+Piso,Centro,109,2,2,1,1,1,1,0,0,899000
+Piso,Chamberí,72,2,1,0,0,1,1,0,0,315000
+Piso,Salamanca,510,5,2,0,0,1,0,1,0,2550000
+Piso,Centro,121,3,2,1,1,1,1,1,0,790000
+Piso,Ciudad Lineal,73,2,2,1,1,1,0,1,0,250135
+Piso,Fuencarral,144,3,2,1,1,1,1,1,0,529000
+Piso,Hortaleza,35,1,1,0,0,0,1,0,0,130000
+Piso,Centro,107,2,2,1,1,1,1,1,0,1490000
+Piso,Fuencarral,51,1,1,1,1,1,1,0,0,220000
+Piso,Moncloa,191,6,3,0,0,1,0,0,0,970000
+Piso,Carabanchel,68,2,1,0,1,1,0,0,0,320000
+Ático,Centro,173,2,2,1,1,1,1,0,1,2200000
+Piso,Chamartín,134,3,2,1,1,1,1,1,0,770000
+Piso,Chamberí,595,6,6,0,1,1,0,1,1,3400000
+Piso,Puente de Vallecas,86,3,1,1,1,1,1,1,0,185000
+Piso,Arganzuela,58,2,1,0,0,1,1,0,0,249900
+Ático,Latina,93,1,2,1,1,1,0,1,1,225000
+Piso,Chamberí,83,3,1,1,1,0,0,0,0,615500
+Piso,Tetuán,92,2,1,1,1,0,1,0,0,330000
+Piso,Chamartín,240,4,2,1,1,1,0,0,1,1017100
+Piso,Latina,98,3,2,1,0,1,1,1,1,350000
+Piso,Centro,53,2,1,1,0,1,0,0,0,250000
+Piso,Usera,95,2,1,1,1,1,0,0,1,180000
+Piso,Moratalaz,77,3,1,1,0,1,1,0,0,179000
+Piso,Hortaleza,62,1,1,1,1,1,1,1,0,319000
+Piso,Barajas,138,3,2,0,1,1,1,1,0,402500
+Piso,Carabanchel,64,2,1,0,0,0,1,0,0,129000
+Piso,Chamartín,233,5,4,1,1,1,1,1,1,1150000
+Piso,Centro,32,1,1,1,1,1,1,0,0,138000
+Piso,Moratalaz,90,3,1,0,1,1,1,0,1,234000
+Piso,Carabanchel,55,1,1,1,0,1,0,0,0,106500
+Piso,Chamartín,593,4,3,1,1,1,1,1,1,2490000
+Piso,Tetuán,101,2,1,1,1,0,0,1,1,363000
+Piso,Moncloa,88,2,2,1,1,1,1,0,0,450000
+Dúplex,Barajas,214,4,4,1,1,0,1,0,0,575000
+Piso,Villa de Vallecas,41,1,1,0,1,1,1,0,1,132000
+Piso,Centro,21,1,1,1,0,0,1,0,0,135000
+Piso,Fuencarral,52,1,1,0,0,1,1,0,0,189000
+Piso,Carabanchel,72,2,1,1,0,0,1,0,0,142000
+Piso,Centro,72,2,2,1,1,1,1,0,0,400000
+Ático,Salamanca,155,4,2,1,1,1,1,1,1,1490000
+Piso,Carabanchel,71,1,1,1,1,1,1,0,1,162000
+Piso,San Blas,45,1,1,1,1,1,1,1,0,180000
+Piso,Hortaleza,156,3,2,1,1,1,1,1,1,695000
+Piso,Salamanca,211,4,5,1,0,1,1,0,0,1575000
+Dúplex,San Blas,108,1,2,1,1,1,1,1,1,280000
+Piso,Usera,80,3,1,1,0,1,1,0,0,179900
+Piso,Salamanca,106,4,2,0,0,1,1,0,0,408980
+Piso,Chamberí,96,3,3,1,1,1,1,0,0,799000
+Piso,Centro,200,4,2,1,0,0,0,0,0,840000
+Piso,Retiro,192,2,3,1,1,0,1,1,1,1400000
+Piso,Villa de Vallecas,70,1,1,0,1,1,1,0,0,157000
+Piso,Hortaleza,128,3,2,0,1,1,1,0,1,378604
+Piso,Vicálvaro,52,1,1,0,0,1,0,0,0,168046
+Piso,Hortaleza,120,4,3,1,1,1,1,1,1,690000
+Piso,Chamartín,186,5,3,1,1,1,1,1,1,950000
+Piso,Moratalaz,86,3,2,0,0,1,0,0,0,199500
+Piso,Puente de Vallecas,61,1,1,1,1,0,1,0,1,150000
+Piso,Centro,100,1,2,1,0,0,1,0,1,448000
+Piso,Centro,220,5,2,1,1,1,0,0,0,1350000
+Piso,Fuencarral,198,3,2,1,1,1,1,1,1,832000
+Piso,Moratalaz,85,3,1,0,0,0,1,0,0,198000
+Piso,Latina,83,3,1,0,0,1,0,0,0,164000
+Piso,Tetuán,74,2,1,0,1,1,1,0,0,345000
+Piso,Tetuán,42,2,1,1,0,0,1,0,0,165000
+Piso,Carabanchel,64,1,1,0,1,1,0,0,1,174000
+Piso,Centro,100,3,3,1,1,1,1,0,0,789000
+Piso,Retiro,37,1,1,0,0,1,1,0,0,179000
+Dúplex,Ciudad Lineal,114,3,1,0,0,1,1,0,0,270000
+Piso,Centro,246,4,3,1,1,1,1,1,1,1600000
+Piso,Puente de Vallecas,63,2,1,1,1,1,1,0,0,157200
+Piso,Tetuán,58,2,1,1,1,0,1,0,0,195000
+Piso,Chamberí,342,9,4,0,1,1,1,0,1,1350000
+Piso,Chamberí,73,2,1,1,1,1,1,0,0,400000
+Piso,Arganzuela,39,1,1,1,0,1,1,0,0,237000
+Piso,Chamberí,120,3,2,0,1,1,1,0,1,620000
+Piso,Centro,124,2,2,1,1,0,1,0,0,885000
+Piso,Tetuán,110,4,2,0,0,0,0,0,1,315000
+Piso,Salamanca,145,3,2,1,0,1,1,0,0,1250000
+Piso,Salamanca,550,5,5,0,1,1,0,0,0,6800000
+Piso,Centro,134,3,3,1,0,1,1,0,0,1199000
+Dúplex,Centro,126,2,2,1,1,0,1,0,1,689999
+Piso,Tetuán,118,3,1,0,0,1,1,0,0,450000
+Piso,Latina,54,2,1,1,0,0,0,0,0,152000
+Piso,Puente de Vallecas,37,2,1,0,0,1,0,0,0,101000
+Piso,Puente de Vallecas,61,1,1,0,1,0,1,0,0,87870
+Piso,Carabanchel,112,3,2,0,0,0,1,0,0,195000
+Piso,Barajas,150,4,2,1,1,1,1,1,1,540000
+Piso,Chamberí,60,2,1,0,1,1,1,0,0,310000
+Piso,Hortaleza,133,4,2,1,1,1,1,1,0,615000
+Piso,Latina,69,2,1,0,0,1,1,0,0,194000
+Piso,Usera,39,1,1,1,1,1,1,0,0,129000
+Piso,Puente de Vallecas,33,1,1,0,1,0,1,0,0,110000
+Piso,Ciudad Lineal,52,2,1,0,0,1,1,0,0,164000
+Piso,Barajas,80,3,1,1,1,1,1,1,0,349000
+Piso,Arganzuela,45,1,1,0,0,1,0,0,0,220000
+Piso,Ciudad Lineal,103,3,1,1,1,1,1,0,0,309900
+Piso,Arganzuela,112,3,2,1,1,1,1,1,1,525000
+Piso,Carabanchel,72,2,1,1,0,0,1,0,0,142000
+Piso,Carabanchel,99,2,1,0,0,1,1,0,1,345000
+Dúplex,Fuencarral,394,6,5,0,1,1,0,0,0,1139771
+Piso,Villaverde,115,4,2,0,1,0,1,0,0,198000
+Piso,Puente de Vallecas,100,2,2,1,0,1,0,1,0,387999
+Piso,Arganzuela,84,3,2,1,0,1,1,0,0,385000
+Piso,Tetuán,143,2,2,1,1,0,1,1,1,360000
+Piso,Chamartín,127,3,3,1,0,1,1,0,1,950000
+Piso,Arganzuela,72,2,1,1,1,1,1,0,0,380000
+Piso,Chamberí,99,1,1,1,1,0,1,0,0,750000
+Piso,Chamberí,123,3,2,0,0,1,0,0,0,700000
+Piso,Usera,86,3,1,0,0,0,1,0,0,172000
+Piso,Chamberí,324,3,4,1,1,1,1,1,1,2397000
+Piso,Centro,86,2,1,0,1,1,1,0,0,370000
+Piso,San Blas,76,2,1,0,1,1,1,0,0,240000
+Piso,Chamartín,62,2,2,0,1,1,1,0,0,317600
+Piso,Centro,140,2,2,1,1,1,1,0,0,860000
+Piso,Chamberí,75,2,1,0,0,1,0,0,0,309700
+Piso,San Blas,78,2,1,1,1,0,1,0,1,180000
+Piso,Salamanca,350,5,5,1,1,1,1,0,1,2550000
+Ático,Vicálvaro,178,3,2,1,1,1,1,1,1,485000
+Piso,Salamanca,280,4,4,0,0,1,0,0,0,3700000
+Piso,Latina,144,5,2,1,1,0,1,0,1,425000
+Piso,Chamartín,109,3,2,1,1,1,1,0,0,985000
+Dúplex,Vicálvaro,121,3,2,1,1,1,1,1,0,350000
+Piso,Latina,90,2,1,0,0,0,0,0,0,199900
+Piso,Centro,106,3,3,1,1,1,1,0,1,839000
+Ático,Ciudad Lineal,265,6,4,1,1,1,1,1,1,1145000
+Piso,Hortaleza,116,4,2,1,1,1,1,1,0,439000
+Piso,Centro,92,3,1,1,0,1,1,0,0,511000
+Piso,Centro,19,1,1,0,0,0,1,0,0,140000
+Piso,Puente de Vallecas,82,2,2,1,0,0,0,0,0,336000
+Piso,Hortaleza,106,3,2,0,1,1,1,1,0,450000
+Piso,Ciudad Lineal,39,1,1,0,0,1,0,0,0,190000
+Piso,Ciudad Lineal,320,5,4,1,1,1,1,1,1,1450000
+Piso,Salamanca,170,3,3,1,1,1,1,0,0,949900
+Piso,Centro,121,1,2,0,1,1,1,0,0,650000
+Piso,Salamanca,175,3,2,0,1,1,1,0,0,1090000
+Piso,Hortaleza,204,3,2,1,1,1,1,1,1,899000
+Piso,Salamanca,145,3,3,1,1,1,1,0,0,1500000
+Piso,Tetuán,162,4,4,1,1,1,1,0,0,735000
+Ático,Villa de Vallecas,199,6,3,1,1,1,1,1,1,548000
+Piso,Moncloa,98,2,2,1,1,1,1,0,0,540000
+Piso,Centro,261,9,3,0,0,1,0,0,0,1147165
+Piso,Hortaleza,90,3,1,1,1,0,1,0,1,245000
+Piso,Centro,220,4,2,0,0,1,1,0,0,829000
+Piso,Barajas,65,1,1,1,1,1,1,0,0,185000
+Piso,Hortaleza,120,3,2,0,1,1,1,1,1,369000
+Piso,Hortaleza,55,1,1,1,1,1,1,1,0,289000
+Piso,Villaverde,50,2,1,0,1,0,1,0,1,128500
+Piso,Salamanca,104,3,2,0,0,1,1,0,0,690000
+Piso,Centro,172,7,2,0,0,1,0,0,0,849000
+Piso,Carabanchel,75,2,1,1,1,0,1,0,0,199000
+Piso,Carabanchel,64,2,1,0,1,0,1,0,1,124000
+Piso,Centro,56,2,1,1,0,0,1,0,0,255000
+Piso,Arganzuela,135,3,1,1,1,1,1,1,0,520000
+Piso,Ciudad Lineal,92,3,1,1,1,0,1,0,1,175000
+Piso,Carabanchel,75,2,1,1,1,0,1,0,1,225000
+Ático,Moncloa,346,5,4,1,1,1,1,1,1,1450000
+Piso,Arganzuela,43,1,1,1,1,1,1,0,0,230000
+Piso,Salamanca,179,3,2,1,1,1,1,0,0,1500000
+Piso,Ciudad Lineal,78,2,1,1,1,1,1,0,1,275000
+Piso,Villaverde,113,3,2,0,1,1,1,1,0,250000
+Piso,Villa de Vallecas,96,3,2,1,1,1,1,1,0,295000
+Piso,Tetuán,82,3,1,0,0,1,0,0,0,297500
+Piso,Salamanca,114,2,2,1,1,1,0,1,0,1200000
+Piso,Vicálvaro,62,1,1,0,0,0,0,1,0,165000
+Piso,Tetuán,48,1,1,0,1,0,1,0,0,113000
+Piso,Chamartín,75,2,2,1,1,0,1,0,0,349000
+Piso,Villaverde,91,3,1,1,1,0,1,0,1,169000
+Piso,Salamanca,183,3,3,1,0,1,1,0,0,1899000
+Piso,Villaverde,41,2,1,0,0,0,1,0,0,93000
+Piso,Chamberí,84,3,2,0,1,1,1,0,0,590000
+Piso,Centro,110,3,3,1,1,1,1,0,0,600000
+Piso,Centro,155,4,2,1,1,1,1,0,0,1069000
+Piso,Chamartín,370,6,5,1,1,1,1,1,0,1600000
+Piso,Puente de Vallecas,87,2,1,1,1,0,1,0,1,158000
+Piso,Villaverde,105,3,2,0,1,0,0,0,1,194465
+Dúplex,Chamberí,136,2,2,0,0,1,0,0,0,1157500
+Piso,Chamberí,81,2,1,0,1,1,1,0,1,550000
+Piso,Carabanchel,104,3,1,1,0,0,1,0,0,149000
+Piso,Hortaleza,143,2,2,1,1,1,1,1,1,690000
+Piso,Salamanca,88,2,2,1,0,1,0,0,0,975000
+Piso,Salamanca,134,3,2,1,1,1,1,0,0,895000
+Dúplex,Chamartín,366,4,4,1,1,1,1,1,1,2400000
+Piso,Carabanchel,94,4,2,0,0,0,1,0,0,149000
+Piso,Villaverde,55,3,1,0,0,0,0,0,1,118000
+Piso,Puente de Vallecas,112,3,2,1,1,1,1,0,1,180000
+Piso,Latina,75,3,1,0,1,0,1,0,0,195000
+Piso,Usera,79,3,1,0,0,0,0,0,1,135530
+Piso,Arganzuela,63,2,1,1,1,1,1,0,0,310000
+Piso,Chamberí,179,4,3,1,1,1,1,0,0,799000
+Piso,Ciudad Lineal,76,3,1,1,1,1,1,0,1,255000
+Piso,Retiro,80,2,1,0,1,1,0,0,0,585000
+Piso,Moratalaz,71,3,1,1,0,0,1,1,1,175500
+Piso,Centro,54,2,1,0,0,0,0,0,0,227000
+Piso,Salamanca,180,3,3,1,1,1,1,0,1,790000
+Piso,Chamberí,109,2,2,1,1,1,1,0,0,899000
+Piso,Ciudad Lineal,72,2,2,1,1,0,1,0,0,200000
+Piso,Fuencarral,80,3,1,1,1,1,1,0,1,339000
+Piso,Villaverde,56,3,1,1,0,0,1,0,0,40000
+Piso,Fuencarral,65,2,1,0,0,0,0,0,1,138999
+Piso,Salamanca,71,2,2,1,1,1,1,0,0,450000
+Piso,Latina,75,3,1,1,0,1,1,0,0,235000
+Piso,Centro,109,2,3,1,1,1,1,0,0,899000
+Piso,Usera,70,3,1,0,0,0,0,0,1,163000
+Piso,Retiro,114,2,2,1,0,1,1,0,0,412395
+Piso,Retiro,145,5,2,1,1,1,1,1,0,539000
+Piso,Tetuán,127,3,3,1,1,1,1,0,0,950000
+Piso,Chamberí,138,4,2,0,1,1,1,1,0,828000
+Piso,Salamanca,376,4,4,1,1,1,0,1,1,5500000
+Piso,Centro,83,2,1,0,1,1,1,0,0,390000
+Piso,Barajas,100,3,2,0,0,1,1,0,1,349000
+Piso,Villa de Vallecas,142,3,3,1,1,1,1,1,1,350000
+Piso,Centro,25,1,1,1,0,1,1,0,0,175000
+Piso,Arganzuela,98,3,1,0,0,1,1,0,0,360000
+Piso,Latina,92,2,1,0,0,0,0,0,1,157000
+Piso,Arganzuela,101,3,1,0,0,1,0,0,0,419000
+Piso,Chamberí,133,2,3,1,1,1,1,1,0,1195000
+Piso,Fuencarral,89,2,2,1,1,1,1,0,0,388000
+Piso,Centro,117,4,2,1,1,1,1,0,0,699000
+Piso,Salamanca,93,3,1,0,0,1,1,0,0,439090
+Piso,Chamberí,505,7,7,1,1,1,0,1,1,7300000
+Piso,Ciudad Lineal,79,3,1,0,1,1,1,0,1,230000
+Piso,Ciudad Lineal,169,5,2,1,0,1,1,1,1,790000
+Piso,Tetuán,380,3,4,1,1,1,1,1,0,1200000
+Piso,Arganzuela,44,1,1,1,0,1,1,0,0,239000
+Piso,Salamanca,160,4,2,1,1,1,1,0,0,1050000
+Piso,Carabanchel,61,1,1,1,1,1,0,0,1,172000
+Piso,Salamanca,106,2,2,1,0,1,1,1,0,995000
+Piso,Latina,72,3,1,0,0,0,1,0,0,161000
+Dúplex,Retiro,75,2,2,1,1,1,1,0,0,520000
+Piso,Centro,49,2,1,1,1,1,1,0,0,425000
+Piso,Carabanchel,92,3,1,1,1,1,1,0,0,355000
+Piso,San Blas,60,2,1,0,1,0,1,0,0,130000
+Piso,Chamberí,306,4,3,0,1,1,1,1,1,1300000
+Piso,Centro,136,2,3,1,1,1,0,0,1,935000
+Piso,Salamanca,204,5,2,0,1,1,1,0,1,750000
+Piso,Centro,76,2,1,1,1,1,1,0,0,490000
+Piso,Salamanca,25,1,1,1,1,1,1,0,0,260000
+Piso,Hortaleza,120,3,2,1,1,1,1,1,1,745000
+Piso,Usera,52,2,1,0,0,1,1,0,0,127900
+Dúplex,Arganzuela,115,2,1,1,1,0,1,0,0,650000
+Piso,Vicálvaro,135,3,2,1,1,1,1,1,0,315000
+Ático,Chamberí,83,2,2,1,1,1,1,0,1,1160000
+Piso,Retiro,156,4,1,1,1,1,1,1,0,779000
+Piso,Chamartín,310,5,4,1,1,1,1,1,1,2350000
+Piso,Tetuán,65,3,1,0,1,0,1,0,1,225000
+Piso,Puente de Vallecas,64,1,1,1,0,1,1,1,0,210000
+Piso,Usera,70,2,2,1,1,1,1,1,0,300000
+Piso,Retiro,86,3,1,1,1,1,1,0,1,450000
+Piso,Ciudad Lineal,63,3,1,0,0,1,0,0,0,172500
+Piso,Chamartín,350,5,3,0,0,1,1,1,1,1995000
+Piso,Carabanchel,88,3,2,0,0,1,1,0,1,310000
+Piso,Centro,162,4,1,1,1,1,1,0,0,874800
+Piso,Centro,109,2,2,0,1,1,1,0,0,899000
+Ático,Chamberí,198,3,3,1,0,1,1,1,1,2350000
+Piso,Tetuán,51,1,1,1,1,1,1,0,1,206200
+Piso,Tetuán,127,3,3,1,1,1,1,0,0,950000
+Piso,Chamberí,220,3,4,0,1,1,1,0,1,1890000
+Piso,San Blas,100,2,2,1,1,1,1,1,0,320000
+Piso,Centro,105,2,2,1,1,1,1,0,0,839000
+Piso,Ciudad Lineal,65,3,1,0,0,0,0,0,0,181500
+Piso,Latina,106,3,2,0,1,1,1,0,1,450000
+Piso,Latina,85,3,1,1,1,1,1,0,1,275000
+Piso,Chamberí,229,5,4,1,1,1,1,0,0,990000
+Piso,Carabanchel,90,3,1,0,1,1,1,0,0,250000
+Piso,Ciudad Lineal,51,3,1,0,0,0,0,0,1,212500
+Piso,Salamanca,136,5,2,0,0,1,1,0,0,589000
+Ático,Fuencarral,140,4,3,1,1,1,1,1,1,800000
+Piso,Chamberí,96,3,1,0,0,1,1,0,0,430000
+Piso,Chamberí,40,1,1,0,1,0,1,0,0,250000
+Piso,Chamberí,52,1,1,0,0,1,0,0,0,280250
+Dúplex,Puente de Vallecas,34,2,1,1,1,0,1,0,0,98000
+Piso,Carabanchel,77,3,1,0,1,0,1,0,1,141100
+Piso,Chamartín,100,2,2,0,1,1,0,0,0,775000
+Piso,Chamartín,256,4,3,1,1,1,1,1,1,1295000
+Piso,Moratalaz,71,3,1,0,0,0,0,0,1,168000
+Piso,Chamartín,276,4,5,1,1,1,1,1,0,2200000
+Piso,Centro,116,3,3,1,1,1,1,0,0,899000
+Piso,Carabanchel,147,3,3,0,1,0,1,0,1,315000
+Piso,Puente de Vallecas,113,3,2,1,1,1,1,0,1,265000
+Piso,Puente de Vallecas,130,4,2,1,1,1,1,1,0,249000
+Piso,Carabanchel,105,1,1,0,1,0,0,0,0,295000
+Piso,Chamberí,63,2,1,1,0,0,1,0,0,373000
+Piso,Chamberí,96,3,3,1,0,1,1,0,0,799000
+Piso,Moncloa,124,3,2,0,1,1,1,1,1,750000
+Ático,Chamberí,300,5,3,1,1,1,1,1,1,3400000
+Piso,Chamberí,134,2,2,1,1,1,1,0,1,680000
+Piso,Salamanca,285,4,5,1,1,1,1,0,0,4250000
+Piso,Salamanca,290,3,4,1,0,0,0,0,0,1525387
+Piso,Arganzuela,89,2,2,1,1,1,1,1,0,465000
+Ático,Chamartín,80,1,1,1,1,1,1,0,1,565000
+Piso,Hortaleza,66,1,1,1,0,0,0,0,0,344000
+Piso,Ciudad Lineal,88,3,1,0,1,0,1,0,1,220000
+Piso,Moncloa,77,3,1,0,1,1,1,0,1,630000
+Piso,Moncloa,250,5,5,1,0,0,0,0,0,1495000
+Piso,Fuencarral,64,2,1,0,1,1,1,0,1,254030
+Piso,Salamanca,220,4,2,1,1,1,1,0,1,1550000
+Piso,Salamanca,116,2,2,1,1,1,1,1,0,1300000
+Piso,Centro,135,5,5,1,1,1,1,0,0,940000
+Piso,San Blas,75,3,1,0,1,1,1,0,1,262650
+Piso,Retiro,71,3,1,0,0,1,1,0,0,310000
+Ático,Centro,153,2,1,1,1,1,0,1,1,1180000
+Piso,Ciudad Lineal,63,3,1,0,0,0,1,0,0,173200
+Piso,Salamanca,57,1,1,1,1,1,1,0,0,695000
+Piso,Arganzuela,86,3,1,1,0,1,1,0,1,450000
+Piso,Ciudad Lineal,53,1,1,1,0,0,1,0,1,159900
+Piso,Chamberí,225,5,4,1,1,1,1,1,1,1085000
+Dúplex,Tetuán,50,1,1,0,1,1,1,1,0,210000
+Piso,Ciudad Lineal,206,4,3,1,0,1,1,1,1,895000
+Piso,Arganzuela,82,3,1,0,0,1,1,0,0,330030
+Piso,Ciudad Lineal,46,1,1,1,1,0,1,0,0,199800
+Piso,Centro,125,4,2,1,1,1,1,0,0,539000
+Piso,Chamartín,297,5,3,0,1,1,1,1,0,1480000
+Piso,Chamberí,55,2,1,0,0,1,1,0,0,284000
+Piso,Arganzuela,80,3,2,1,1,1,1,0,0,390000
+Piso,Chamberí,214,5,3,1,1,1,1,1,1,1440000
+Piso,Tetuán,69,2,1,0,1,1,1,0,0,183000
+Piso,Centro,134,3,3,1,1,1,1,0,0,939000
+Piso,Hortaleza,68,2,1,0,1,0,1,0,1,152000
+Piso,Centro,92,2,2,1,1,1,1,0,0,540000
+Piso,Hortaleza,156,3,3,1,1,1,1,1,1,1052000
+Piso,Puente de Vallecas,63,3,1,0,0,0,0,0,0,143000
+Piso,Arganzuela,136,3,2,1,1,1,1,1,0,675000
+Piso,Moratalaz,94,3,2,1,1,1,1,0,1,320000
+Dúplex,Carabanchel,157,4,2,1,1,0,1,0,0,244900
+Piso,Chamberí,238,4,3,1,1,1,1,1,1,1650000
+Piso,Centro,153,4,3,1,0,1,1,0,0,1060000
+Piso,Centro,171,3,2,0,0,1,1,0,1,980000
+Piso,Barajas,93,2,2,0,1,1,1,1,1,220000
+Piso,Arganzuela,136,3,2,1,1,1,1,1,1,815000
+Piso,Centro,40,1,1,1,1,1,0,0,0,220000
+Piso,Moncloa,213,4,4,1,1,1,1,1,1,1280000
+Piso,Chamartín,193,4,4,1,1,1,1,1,1,1350000
+Piso,Salamanca,101,2,2,1,1,1,0,0,0,1420000
+Piso,Centro,110,3,3,1,0,1,1,0,0,839000
+Piso,Chamberí,100,2,3,1,1,1,1,0,1,825000
+Ático,Villa de Vallecas,126,2,1,0,1,1,1,1,1,355000
+Piso,Latina,70,3,1,1,1,1,1,0,0,190000
+Piso,Centro,36,1,1,0,0,0,1,0,0,143000
+Piso,Salamanca,100,2,2,1,1,1,1,0,0,1300000
+Piso,Salamanca,227,4,3,1,1,1,1,1,1,1390000
+Piso,Chamberí,84,2,2,1,1,1,0,0,0,600000
+Piso,Salamanca,206,3,3,1,1,1,1,0,0,1750000
+Piso,Ciudad Lineal,59,2,1,0,0,0,1,0,0,167000
+Piso,Salamanca,213,5,3,0,1,1,1,0,1,800000
+Piso,Puente de Vallecas,59,2,1,0,1,0,1,0,0,125000
+Piso,Arganzuela,108,3,2,0,1,1,1,0,1,456000
+Piso,Carabanchel,59,2,1,0,0,1,1,0,0,123000
+Piso,Chamartín,268,5,3,1,1,1,1,1,1,1250000
+Piso,Chamartín,207,4,2,1,1,1,0,1,0,1450000
+Piso,Moncloa,301,5,5,1,1,1,1,1,1,2980000
+Piso,Salamanca,67,2,2,1,1,1,1,0,0,879000
+Piso,Centro,112,3,3,1,1,1,1,0,0,959000
+Piso,Ciudad Lineal,68,3,1,0,0,0,1,0,0,124000
+Ático,Centro,169,3,2,1,0,1,0,0,1,2200000
+Piso,Centro,87,2,1,0,1,0,0,0,0,275500
+Piso,Villaverde,115,4,2,1,1,1,1,0,0,230000
+Piso,Carabanchel,83,3,1,1,1,1,1,0,0,229900
+Piso,Hortaleza,82,3,2,1,1,1,1,0,1,310000
+Piso,Villaverde,58,1,1,1,1,1,1,1,0,185000
+Piso,Arganzuela,119,3,2,1,1,1,1,0,1,569000
+Piso,Ciudad Lineal,57,2,1,0,0,0,0,0,0,158000
+Ático,Salamanca,116,3,1,1,1,1,1,1,1,560000
+Piso,Puente de Vallecas,105,2,2,1,1,1,1,1,0,245000
+Piso,Ciudad Lineal,196,5,2,1,1,1,1,0,1,515000
+Piso,Salamanca,80,2,1,1,1,1,1,1,0,279000
+Piso,Retiro,92,3,1,1,1,1,1,0,0,375000
+Piso,Latina,97,4,2,1,0,1,1,0,1,126000
+Piso,Moratalaz,94,3,2,1,1,1,1,0,1,295000
+Piso,Salamanca,250,5,4,1,1,1,1,0,0,2400000
+Piso,Moncloa,175,4,2,1,1,1,1,1,0,780000
+Piso,Salamanca,131,3,2,1,0,1,1,1,0,1700000
+Piso,Centro,133,2,1,0,0,1,0,0,1,434900
+Piso,Moncloa,285,5,3,0,0,1,1,0,0,1050000
+Piso,Moncloa,259,5,4,1,1,1,1,0,1,1600000
+Piso,Salamanca,119,3,2,1,1,1,1,1,1,570000
+Piso,Carabanchel,104,4,1,0,0,0,0,0,1,298300
+Piso,Puente de Vallecas,68,1,1,1,1,1,1,0,0,176200
+Piso,Centro,104,3,3,1,0,1,1,0,0,890000
+Piso,Carabanchel,76,3,1,1,1,1,1,0,1,169000
+Piso,Centro,124,2,2,1,1,0,0,0,0,835000
+Piso,Centro,106,3,4,1,1,1,1,0,0,839000
+Piso,Moratalaz,75,3,1,0,0,1,0,0,1,198000
+Piso,Salamanca,175,3,3,1,0,1,1,0,0,1320000
+Piso,Arganzuela,80,2,1,0,0,1,0,0,0,330000
+Piso,Carabanchel,62,1,1,1,0,1,1,0,0,156000
+Piso,Centro,112,3,3,1,1,1,1,0,0,959000
+Piso,Puente de Vallecas,74,3,2,0,0,0,0,0,1,139650
+Piso,Tetuán,54,2,1,1,0,0,1,0,0,168000
+Piso,Arganzuela,135,3,2,1,1,1,1,0,0,589900
+Piso,Centro,63,1,2,1,1,0,1,0,0,450000
+Piso,Salamanca,237,4,3,1,1,1,1,1,0,1200000
+Ático,Arganzuela,108,2,1,1,0,1,1,0,1,690000
+Piso,Tetuán,62,2,1,0,1,0,1,0,0,160000
+Ático,Fuencarral,130,4,2,1,1,1,1,1,1,590000
+Piso,Chamberí,340,4,4,1,1,1,1,0,0,2900000
+Piso,Chamberí,45,1,1,1,1,1,0,0,0,500000
+Piso,Moncloa,101,3,1,0,1,1,1,0,0,495000
+Piso,Centro,77,2,2,1,1,0,1,0,0,699000
+Piso,Ciudad Lineal,73,3,1,1,1,0,1,0,0,234000
+Piso,Centro,252,8,5,0,0,0,0,0,0,899000
+Piso,Salamanca,125,3,2,1,1,1,1,0,1,1080000
+Piso,Carabanchel,79,3,1,0,1,0,1,0,1,151000
+Piso,San Blas,62,3,1,0,1,0,1,0,1,120000
+Ático,Tetuán,47,3,2,1,1,1,1,1,1,275000
+Piso,Chamberí,220,3,4,1,1,1,1,0,0,2375000
+Piso,Salamanca,64,1,1,1,1,1,1,1,0,360000
+Piso,Chamberí,119,3,2,0,1,1,1,0,1,715000
+Ático,San Blas,130,2,1,1,1,1,1,1,1,425000
+Piso,Centro,54,2,2,0,0,0,1,0,0,181000
+Piso,Puente de Vallecas,41,1,1,1,1,1,1,1,0,125000
+Piso,Chamartín,198,4,3,1,1,1,1,1,1,1300000
+Ático,Chamberí,120,2,2,1,1,1,1,0,1,840000
+Piso,San Blas,93,2,2,1,1,1,1,1,1,336000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Centro,185,8,8,1,1,1,1,0,0,1400000
+Piso,Villa de Vallecas,51,2,1,1,0,1,1,0,0,153900
+Piso,Centro,199,2,2,1,1,1,0,1,1,1600000
+Piso,Arganzuela,62,2,1,0,0,1,1,0,0,259000
+Piso,Chamartín,350,5,3,0,0,1,1,1,1,1995000
+Piso,Carabanchel,59,2,1,1,1,1,1,0,0,215000
+Piso,Salamanca,145,3,2,0,1,1,1,1,1,1595000
+Piso,Salamanca,87,2,2,1,1,1,1,0,0,879000
+Piso,Villa de Vallecas,55,1,1,1,1,1,0,0,0,170000
+Piso,Usera,55,1,1,1,1,0,1,0,0,119995
+Piso,Arganzuela,63,1,1,0,0,1,1,0,1,375000
+Piso,Carabanchel,85,4,1,0,0,0,1,0,1,179000
+Ático,Moncloa,340,5,4,0,0,1,0,1,1,1450000
+Piso,Salamanca,83,2,2,1,1,1,1,0,0,849000
+Piso,Salamanca,220,4,4,1,1,1,1,1,0,1900000
+Piso,San Blas,75,3,1,0,0,1,1,0,1,259500
+Piso,Villaverde,68,2,1,1,0,0,1,0,1,138500
+Piso,Chamartín,250,3,2,1,0,0,1,0,0,1175000
+Piso,Centro,49,1,1,1,0,0,1,0,0,250000
+Ático,Tetuán,77,2,1,1,1,1,1,1,1,355000
+Piso,Moncloa,366,4,5,1,1,0,1,1,1,1649000
+Piso,Centro,207,7,2,0,0,1,1,0,0,906000
+Piso,Chamartín,166,3,2,1,1,1,1,0,0,815000
+Piso,Arganzuela,84,3,1,1,1,1,1,0,1,370000
+Piso,Villaverde,99,3,1,0,0,0,1,0,1,175000
+Piso,Carabanchel,68,3,1,0,0,0,0,0,1,151000
+Ático,Tetuán,80,2,2,1,1,1,1,0,1,350000
+Piso,Chamartín,67,1,1,1,1,1,1,0,1,440000
+Piso,Centro,88,2,1,1,0,1,1,0,0,548000
+Piso,Chamberí,101,3,3,1,1,1,1,0,0,779000
+Piso,Chamberí,140,3,2,0,1,1,1,1,0,839975
+Piso,Centro,102,3,3,1,0,1,1,0,1,829000
+Piso,Centro,140,2,2,1,1,1,1,0,1,1350000
+Piso,Fuencarral,90,2,2,1,1,1,0,1,1,360000
+Piso,Chamberí,62,2,1,1,0,1,1,0,0,310000
+Piso,Hortaleza,154,6,2,0,1,1,1,0,1,390000
+Piso,Ciudad Lineal,55,1,1,0,1,1,0,0,0,155000
+Piso,San Blas,93,3,1,0,1,1,1,0,0,249900
+Ático,Retiro,80,2,2,1,1,1,1,1,1,440000
+Piso,San Blas,50,2,1,0,1,1,1,0,1,149000
+Ático,Ciudad Lineal,184,5,3,1,1,1,1,1,1,850000
+Piso,Latina,80,3,1,1,1,1,0,0,0,177500
+Ático,Centro,88,2,1,1,1,1,0,0,1,425000
+Piso,Tetuán,75,1,1,1,1,1,1,1,1,335000
+Piso,Retiro,120,2,2,1,1,1,1,1,0,1090000
+Piso,Tetuán,83,2,2,1,0,0,0,0,0,369000
+Piso,Tetuán,70,2,1,1,1,1,1,1,0,385000
+Piso,Hortaleza,131,3,2,1,1,1,1,1,1,660000
+Piso,Fuencarral,143,3,2,1,1,1,1,1,0,475000
+Piso,Centro,106,3,3,1,1,1,1,0,0,829000
+Piso,Chamberí,99,2,1,0,0,1,0,0,0,329000
+Piso,San Blas,111,2,2,0,1,1,1,1,0,370000
+Piso,Tetuán,41,2,1,1,1,1,1,0,0,250000
+Piso,Centro,58,2,1,0,0,0,1,0,0,299000
+Piso,Carabanchel,93,4,1,0,0,1,0,0,0,260000
+Piso,Centro,106,2,2,1,1,1,1,0,0,839000
+Piso,Centro,33,1,1,0,0,0,1,0,0,158000
+Piso,San Blas,27,1,1,0,0,1,0,1,0,95000
+Piso,Retiro,152,4,2,1,1,1,1,1,1,785000
+Piso,Villaverde,43,1,1,0,1,1,0,0,0,99000
+Piso,Salamanca,260,7,2,0,1,1,1,0,1,2420000
+Piso,Centro,90,3,1,0,1,0,0,0,0,460000
+Piso,Chamartín,165,4,5,1,1,1,1,1,1,1840000
+Piso,Villaverde,71,3,1,0,0,0,1,0,0,125000
+Piso,Fuencarral,121,3,2,1,1,1,0,1,0,640000
+Piso,Salamanca,125,4,2,1,1,1,1,0,1,624000
+Piso,Latina,119,3,2,1,1,1,1,1,1,385000
+Piso,Arganzuela,101,3,1,0,0,1,0,0,0,419000
+Piso,Centro,88,2,2,1,1,1,1,0,0,899000
+Piso,Centro,180,3,2,1,1,1,1,0,0,379900
+Piso,Carabanchel,49,1,1,0,1,1,1,0,0,141500
+Piso,Usera,52,1,1,1,0,0,1,0,0,156000
+Piso,Retiro,106,3,1,0,1,1,0,0,0,650000
+Piso,Centro,55,1,1,0,1,1,1,0,0,320000
+Piso,Carabanchel,105,3,2,1,1,1,1,1,0,308000
+Ático,Latina,120,4,2,0,1,1,1,1,1,585000
+Piso,Centro,62,3,2,1,0,0,1,0,0,360000
+Piso,Centro,42,1,1,1,1,1,0,0,0,199310
+Ático,Retiro,90,3,2,1,1,1,1,1,1,590000
+Piso,Chamberí,134,4,2,1,1,1,1,0,1,850000
+Piso,Chamartín,115,1,1,0,1,1,1,1,0,499000
+Piso,Salamanca,95,3,2,1,1,1,1,1,0,1200000
+Piso,Salamanca,329,3,4,1,1,1,1,0,0,4900000
+Piso,Centro,25,1,1,1,1,0,1,0,0,145000
+Dúplex,Tetuán,130,2,2,1,1,1,1,0,0,350000
+Piso,Centro,88,2,2,1,0,1,1,0,0,899000
+Piso,Puente de Vallecas,67,3,1,0,1,0,1,0,1,103500
+Piso,Tetuán,101,4,1,0,0,1,1,0,0,360000
+Piso,Puente de Vallecas,75,2,1,1,1,1,1,1,1,195000
+Piso,Ciudad Lineal,81,3,2,1,1,0,1,0,1,202200
+Piso,Puente de Vallecas,96,3,2,0,1,1,1,1,0,228000
+Ático,Hortaleza,596,4,6,1,1,1,1,1,1,2975000
+Piso,Chamberí,35,2,1,0,0,0,1,0,0,145000
+Piso,Centro,215,4,3,1,1,1,1,0,0,867000
+Ático,Centro,189,2,2,1,1,1,1,1,1,1600000
+Piso,Centro,140,4,2,0,0,1,1,0,1,750000
+Piso,Retiro,102,3,2,1,1,1,1,0,1,499000
+Piso,Chamartín,248,5,3,1,0,1,1,0,0,1175000
+Piso,Centro,70,2,1,0,1,1,0,0,0,258571
+Piso,Salamanca,108,2,2,1,0,1,0,0,0,750000
+Piso,Fuencarral,127,4,2,0,1,1,0,1,0,600000
+Piso,Carabanchel,97,2,1,0,1,1,1,0,0,255000
+Piso,Vicálvaro,55,2,1,1,1,0,1,0,0,150000
+Piso,Centro,109,2,3,0,0,1,0,0,0,899000
+Ático,Moncloa,151,3,4,1,1,1,1,0,1,1256375
+Piso,Chamberí,130,2,2,1,1,1,1,0,0,1170000
+Piso,Tetuán,64,3,1,1,0,0,0,0,0,199000
+Piso,Ciudad Lineal,81,2,1,0,1,1,1,0,0,285000
+Piso,Villaverde,70,3,1,0,0,0,1,0,0,159900
+Dúplex,Tetuán,68,1,1,0,1,1,0,1,0,197600
+Piso,San Blas,67,3,1,0,1,0,1,0,0,180000
+Piso,Centro,94,3,3,1,1,1,1,0,0,859000
+Piso,Moncloa,70,2,1,1,0,1,1,0,1,575500
+Piso,Centro,58,2,1,1,0,1,1,0,0,275000
+Piso,Centro,75,3,1,1,1,1,1,0,0,349000
+Piso,Hortaleza,116,2,2,1,1,1,1,0,1,469000
+Piso,Chamberí,178,3,2,0,1,1,1,0,0,1300000
+Piso,Centro,80,2,1,1,0,1,1,0,1,540000
+Piso,Latina,54,1,1,1,0,1,1,0,0,160000
+Piso,Puente de Vallecas,32,1,1,0,1,0,0,0,0,79900
+Ático,San Blas,140,4,3,1,1,1,1,1,1,799000
+Piso,Chamberí,78,2,1,0,1,0,0,0,0,360000
+Piso,Centro,116,3,3,1,1,1,1,0,0,899000
+Piso,Centro,106,2,2,1,1,1,1,0,0,839000
+Piso,Salamanca,59,1,1,1,1,1,1,0,0,579000
+Piso,Barajas,120,3,2,1,1,1,1,1,1,625000
+Piso,Hortaleza,57,2,1,0,1,0,1,0,0,210000
+Piso,Ciudad Lineal,64,2,1,0,0,1,1,0,0,156000
+Piso,Carabanchel,40,1,1,1,1,0,1,0,0,119000
+Piso,Puente de Vallecas,140,3,3,1,1,0,1,0,0,199999
+Piso,Centro,105,3,2,0,0,1,1,0,0,496000
+Piso,Hortaleza,183,4,3,1,1,1,1,1,1,795000
+Piso,Latina,250,9,3,1,0,1,1,0,1,700000
+Piso,Centro,33,1,1,0,0,1,1,0,0,204990
+Piso,Salamanca,90,2,1,1,1,1,1,0,0,380000
+Piso,Barajas,147,3,2,1,1,1,1,1,1,625000
+Piso,Barajas,101,3,2,0,0,1,0,0,1,349000
+Dúplex,Fuencarral,117,3,2,0,1,0,1,0,0,270000
+Piso,Carabanchel,58,1,1,0,1,0,1,0,0,300000
+Piso,Chamberí,1100,10,8,0,1,1,1,1,1,6390000
+Piso,Latina,42,1,1,0,0,0,0,0,1,120000
+Piso,Latina,70,2,2,0,1,1,1,1,0,265000
+Piso,Salamanca,230,3,4,1,1,1,0,0,0,2750000
+Ático,Hortaleza,187,3,3,1,1,1,1,1,1,995000
+Piso,Chamartín,127,3,3,1,1,1,1,0,0,950000
+Piso,Salamanca,90,2,1,0,0,1,1,0,0,500000
+Piso,Ciudad Lineal,34,1,1,0,0,1,0,0,0,190000
+Piso,Puente de Vallecas,65,3,1,1,1,0,1,0,0,129000
+Piso,Tetuán,94,2,2,1,1,1,1,0,1,899000
+Piso,Retiro,185,3,2,1,0,1,0,0,0,570000
+Piso,Ciudad Lineal,58,1,1,0,0,0,1,0,0,165000
+Piso,Tetuán,127,3,3,1,0,1,1,0,0,950000
+Piso,Salamanca,400,5,5,1,1,1,0,1,1,3900000
+Piso,Centro,110,4,3,0,1,1,1,0,0,880000
+Piso,Arganzuela,85,3,1,0,0,1,1,0,1,385000
+Piso,Chamberí,119,3,2,1,1,1,1,0,1,655000
+Piso,Centro,180,8,8,1,1,0,1,0,0,1150000
+Dúplex,Latina,78,3,2,1,1,0,1,0,0,179800
+Piso,Hortaleza,127,3,2,0,1,0,1,0,1,378064
+Piso,Salamanca,169,4,4,1,0,1,1,0,0,830000
+Piso,Carabanchel,88,2,2,0,1,1,0,0,0,295000
+Piso,Centro,101,2,2,1,1,1,1,0,0,829000
+Piso,Salamanca,160,3,2,1,1,1,0,0,0,1780000
+Piso,Centro,130,5,3,0,0,1,0,0,0,590000
+Piso,Centro,125,3,3,1,1,1,1,0,0,1199000
+Piso,Salamanca,130,3,2,1,1,1,1,0,0,1105000
+Piso,Ciudad Lineal,153,3,3,1,1,1,0,1,0,850000
+Piso,Carabanchel,125,4,2,0,1,1,1,1,0,345000
+Piso,Centro,99,3,3,1,1,1,1,0,0,859000
+Piso,Centro,152,3,2,1,1,1,1,1,0,850000
+Piso,Fuencarral,126,4,2,0,1,1,1,1,1,387000
+Piso,Latina,67,2,1,1,1,0,1,0,1,240000
+Piso,Tetuán,205,4,3,0,0,1,0,0,1,840000
+Piso,Centro,136,3,2,1,1,1,1,0,0,619000
+Piso,Chamberí,465,6,4,0,0,1,0,1,0,3500000
+Ático,Centro,79,1,1,1,0,0,1,0,1,425000
+Piso,Hortaleza,320,4,4,0,1,1,0,0,0,720000
+Piso,Chamberí,88,3,3,1,1,1,1,0,0,799000
+Piso,Chamberí,156,3,3,0,1,1,1,1,0,790000
+Piso,Puente de Vallecas,73,2,1,1,0,0,1,0,1,148000
+Ático,Chamartín,486,5,6,1,1,1,1,1,1,2600000
+Piso,Latina,87,3,1,0,1,1,0,0,1,298000
+Piso,Tetuán,172,1,2,1,1,1,1,1,1,900000
+Piso,Arganzuela,77,2,1,1,1,1,1,0,0,392400
+Piso,Retiro,123,4,2,0,0,1,0,0,0,490000
+Piso,Chamberí,102,4,2,0,1,1,1,0,0,469000
+Piso,Centro,157,5,5,1,1,1,1,0,0,859000
+Piso,Salamanca,70,2,2,1,1,1,1,0,0,619000
+Piso,Salamanca,206,5,3,0,0,1,1,0,1,965000
+Piso,Salamanca,135,3,2,1,1,1,1,0,0,1290000
+Piso,Barajas,96,3,1,1,1,0,1,1,1,240000
+Piso,San Blas,43,1,1,0,1,0,1,0,0,149900
+Piso,Fuencarral,202,3,3,1,1,1,1,1,1,845000
+Piso,Centro,46,1,1,1,1,0,1,1,0,249000
+Piso,Carabanchel,126,3,2,1,0,0,1,0,1,248000
+Piso,Retiro,60,1,1,1,1,1,1,1,0,320000
+Piso,Chamartín,100,4,2,0,0,1,1,0,0,520000
+Piso,Carabanchel,72,4,1,0,0,1,0,0,0,175000
+Piso,Moncloa,260,3,2,1,0,1,1,0,0,890000
+Piso,Puente de Vallecas,44,2,1,0,0,0,0,0,1,127800
+Piso,Chamberí,70,2,1,0,1,1,1,0,0,500000
+Piso,Centro,97,2,1,1,0,1,1,0,0,385000
+Piso,Hortaleza,45,2,1,0,1,0,0,0,1,155000
+Piso,Chamartín,159,3,2,1,1,1,1,1,1,850000
+Piso,Retiro,174,3,2,1,1,1,1,1,1,895000
+Piso,Latina,117,4,2,0,1,1,1,1,0,310000
+Piso,Salamanca,59,1,1,0,0,0,0,0,0,400000
+Piso,Retiro,121,2,2,0,0,1,0,0,1,785000
+Piso,Salamanca,43,2,1,0,0,1,1,0,1,249000
+Piso,Centro,61,2,1,1,0,1,1,0,0,215900
+Estudio,Moncloa,40,1,1,1,1,1,1,0,0,358000
+Piso,Retiro,202,3,2,0,1,1,1,0,1,499500
+Piso,Centro,100,3,3,1,1,1,1,0,0,789000
+Piso,Fuencarral,170,3,2,1,1,1,0,1,1,580000
+Piso,Retiro,100,3,2,1,1,0,1,0,0,539000
+Piso,Vicálvaro,180,3,2,0,1,1,0,1,1,408000
+Piso,Tetuán,231,4,4,1,1,1,1,0,1,895000
+Piso,Moncloa,265,4,2,0,0,1,1,0,0,975000
+Piso,Ciudad Lineal,111,3,2,0,0,0,0,0,1,345200
+Piso,Chamberí,151,4,3,1,1,1,1,0,0,1380000
+Piso,Puente de Vallecas,60,2,1,0,0,0,0,0,1,109999
+Piso,Retiro,126,3,2,0,1,1,1,1,1,545000
+Piso,Chamartín,230,4,3,0,0,1,0,0,0,1150000
+Piso,Moncloa,81,2,1,1,0,1,1,0,0,355000
+Ático,Tetuán,150,4,3,1,0,0,1,1,1,329995
+Piso,Centro,142,6,1,0,0,1,0,0,0,1050000
+Piso,Chamberí,177,4,2,0,1,1,1,0,0,725000
+Piso,Villaverde,50,2,1,0,1,0,0,0,0,123630
+Piso,Salamanca,160,3,3,0,1,1,0,0,1,1590000
+Piso,Centro,36,1,1,1,1,0,1,0,0,185000
+Piso,San Blas,135,4,1,0,1,1,0,0,1,365000
+Piso,Centro,106,2,2,1,1,1,1,0,0,839000
+Piso,Centro,159,5,5,1,0,1,1,0,0,895000
+Piso,Retiro,172,3,1,0,0,0,0,0,0,570000
+Piso,Carabanchel,76,3,1,0,1,0,1,0,1,142000
+Piso,San Blas,125,4,2,1,1,1,1,1,1,275000
+Dúplex,Centro,117,2,2,1,1,1,1,0,0,500000
+Piso,Carabanchel,141,3,2,0,1,1,0,0,0,445000
+Piso,Puente de Vallecas,90,3,1,0,1,0,0,0,0,189000
+Piso,Fuencarral,71,3,2,0,0,1,0,0,1,265000
+Piso,Salamanca,475,5,5,0,1,1,0,1,0,4850000
+Piso,Ciudad Lineal,111,4,1,0,1,1,0,0,1,350000
+Dúplex,Fuencarral,464,7,5,1,1,1,1,1,1,1139771
+Piso,Carabanchel,62,3,1,0,1,0,1,0,1,129000
+Piso,Tetuán,70,2,1,0,0,0,0,0,1,150000
+Piso,Chamberí,44,1,1,0,0,1,0,0,0,270000
+Piso,Carabanchel,75,3,2,0,0,0,1,0,1,198000
+Piso,Centro,89,3,3,1,1,1,1,0,0,849000
+Piso,Villaverde,100,3,1,1,1,0,1,1,1,179000
+Piso,Retiro,97,3,2,1,1,1,1,0,0,775000
+Piso,Fuencarral,243,4,3,1,1,1,1,1,1,865000
+Piso,Fuencarral,126,4,2,0,1,1,1,1,1,387000
+Piso,Moncloa,83,2,1,1,1,1,1,0,1,450000
+Piso,San Blas,117,3,2,1,1,1,1,1,1,398500
+Piso,Carabanchel,93,3,1,0,1,1,1,1,1,210000
+Piso,Tetuán,60,2,1,1,1,0,0,0,0,155000
+Piso,Centro,94,3,3,1,1,1,1,0,1,829000
+Piso,Centro,34,1,1,1,1,1,1,0,0,210000
+Piso,Ciudad Lineal,110,3,2,1,1,1,0,1,0,300000
+Piso,San Blas,55,2,1,1,1,0,1,0,0,121999
+Piso,Salamanca,97,3,2,0,0,0,1,0,0,590000
+Piso,Moncloa,221,4,4,1,1,1,1,1,0,1090000
+Ático,Chamartín,75,1,1,0,1,1,1,0,1,375000
+Piso,Centro,220,4,2,0,0,1,1,0,0,829000
+Piso,Salamanca,294,4,5,1,1,1,1,1,0,1090000
+Piso,Salamanca,400,4,5,1,1,1,0,1,1,4600000
+Piso,Usera,59,2,1,0,0,1,0,0,0,122700
+Piso,Chamberí,250,4,5,1,1,1,1,1,1,1950000
+Piso,Centro,106,3,3,1,1,1,1,0,0,839000
+Piso,Chamberí,112,4,2,0,1,1,1,1,1,650000
+Piso,Villaverde,39,2,1,0,0,1,0,0,0,69000
+Piso,Tetuán,201,3,3,1,1,1,1,0,1,1449000
+Piso,San Blas,63,1,1,1,0,1,1,1,0,262500
+Piso,Moncloa,242,6,3,1,1,1,1,0,0,1050000
+Piso,Villa de Vallecas,77,2,1,0,1,1,1,0,0,199000
+Ático,Puente de Vallecas,45,2,1,1,1,1,1,1,1,260000
+Piso,Chamartín,240,4,4,1,1,1,1,1,0,1890000
+Piso,Centro,101,2,2,1,1,0,1,0,0,829000
+Piso,Fuencarral,170,4,3,1,1,1,0,1,1,589000
+Piso,Moncloa,110,3,2,0,0,1,0,0,1,330000
+Piso,Carabanchel,63,2,1,0,1,0,1,0,0,124000
+Piso,Ciudad Lineal,82,3,2,0,0,1,1,0,0,277737
+Piso,Villa de Vallecas,145,4,2,0,1,1,1,0,1,185000
+Piso,Ciudad Lineal,79,5,1,0,0,0,0,0,1,180500
+Piso,Hortaleza,120,3,2,1,1,1,1,1,1,500000
+Piso,Villaverde,58,2,1,0,0,0,0,0,1,99000
+Piso,Carabanchel,89,3,1,0,1,1,1,0,0,293600
+Piso,Centro,220,4,2,0,0,1,1,0,0,829000
+Piso,Hortaleza,63,3,1,0,0,1,1,0,1,190000
+Piso,Latina,72,2,1,1,0,0,1,1,0,167000
+Piso,Chamberí,113,4,2,0,0,1,1,0,0,580995
+Piso,Arganzuela,81,4,2,0,0,1,1,0,0,319950
+Dúplex,Puente de Vallecas,84,2,2,0,0,1,0,0,0,119000
+Piso,Chamberí,142,4,2,0,1,1,1,0,0,599000
+Piso,Barajas,134,4,2,1,1,1,1,1,1,525000
+Piso,Carabanchel,77,3,1,1,0,1,1,0,0,260000
+Piso,Chamberí,169,4,2,1,1,1,1,1,1,950000
+Piso,Puente de Vallecas,64,3,1,1,0,0,1,0,1,146000
+Piso,Retiro,124,2,2,1,0,1,1,0,0,1300000
+Piso,Carabanchel,61,2,1,1,0,0,1,0,0,136000
+Ático,Chamartín,397,5,3,1,1,1,1,1,1,2100000
+Piso,Centro,60,1,1,0,1,1,0,0,0,283000
+Piso,Chamartín,538,2,1,1,1,0,1,0,0,2500000
+Piso,Arganzuela,54,2,1,0,1,1,0,0,0,224200
+Piso,San Blas,98,3,2,1,1,1,1,0,1,182000
+Piso,Centro,159,1,2,1,1,0,1,0,0,695000
+Piso,Centro,112,3,3,1,1,0,1,0,0,959000
+Piso,Villaverde,75,2,1,0,0,0,0,0,1,109800
+Piso,Tetuán,92,3,2,0,0,1,0,0,0,296000
+Dúplex,Tetuán,114,3,3,1,1,1,1,1,1,455000
+Piso,Centro,48,1,1,1,1,1,1,0,0,327000
+Piso,Puente de Vallecas,34,1,1,0,1,0,0,0,0,73100
+Piso,Chamartín,298,3,3,1,1,1,1,0,0,3200000
+Piso,Puente de Vallecas,80,3,1,1,0,0,1,0,0,205000
+Piso,Chamberí,98,5,1,0,1,1,1,0,0,530000
+Piso,Moncloa,180,3,2,1,1,1,1,0,0,1250000
+Piso,Centro,74,2,1,0,0,0,0,1,0,299000
+Piso,Salamanca,75,3,2,1,0,1,1,0,0,499000
+Piso,Moncloa,175,4,2,1,1,1,1,1,0,780000
+Piso,Centro,166,5,5,1,1,1,1,0,0,859000
+Piso,Fuencarral,92,2,2,1,1,1,1,1,0,460000
+Piso,Salamanca,185,3,4,1,1,1,0,0,1,1580000
+Piso,Centro,123,3,2,1,1,1,1,0,0,675000
+Piso,Carabanchel,70,3,1,0,1,0,1,0,1,138000
+Piso,San Blas,87,3,2,1,1,1,1,1,0,367900
+Piso,Ciudad Lineal,102,2,2,0,0,0,0,1,0,318800
+Piso,Fuencarral,71,3,2,0,1,1,1,0,1,265000
+Piso,Fuencarral,83,3,1,1,1,1,1,1,0,405000
+Piso,Tetuán,130,4,2,0,1,1,1,0,1,549000
+Piso,Retiro,73,2,1,0,1,1,1,1,0,460000
+Piso,Hortaleza,110,2,2,1,1,1,0,0,0,415000
+Piso,Arganzuela,89,3,1,0,1,1,0,0,1,402610
+Piso,Salamanca,206,4,5,1,1,1,1,0,0,2000000
+Piso,Chamartín,77,1,1,1,1,1,1,0,0,500000
+Piso,Salamanca,222,4,3,0,1,1,1,0,1,875000
+Piso,Vicálvaro,55,2,1,1,1,1,1,1,0,243000
+Piso,Arganzuela,99,3,1,0,1,1,1,0,1,402610
+Piso,Chamartín,275,4,3,0,1,1,0,0,1,1450000
+Piso,Hortaleza,43,1,1,1,1,1,1,1,0,262500
+Piso,Fuencarral,89,2,2,1,1,1,1,0,0,388000
+Piso,Hortaleza,71,2,1,0,1,0,1,0,1,189000
+Ático,Centro,250,4,3,1,0,1,0,1,1,1890000
+Piso,Puente de Vallecas,110,4,2,0,1,1,1,1,1,200000
+Piso,Chamartín,111,3,2,1,0,1,1,1,1,650000
+Ático,San Blas,114,1,1,0,0,1,1,1,1,270000
+Piso,Centro,33,1,1,1,1,0,1,0,0,190000
+Piso,Ciudad Lineal,77,2,2,1,1,1,1,0,0,319500
+Piso,Puente de Vallecas,59,2,1,0,0,0,0,0,0,133999
+Piso,Carabanchel,66,3,1,0,0,0,0,0,1,111400
+Ático,Chamberí,370,3,4,1,1,1,1,1,1,2300000
+Piso,Centro,55,1,1,1,1,1,1,0,0,469000
+Ático,Retiro,151,4,2,1,1,1,1,0,1,610000
+Piso,Tetuán,43,2,1,0,1,0,1,0,0,125000
+Piso,Chamberí,70,2,1,1,1,1,1,0,0,450000
+Piso,Villa de Vallecas,119,3,2,1,1,1,1,1,1,320000
+Piso,Villaverde,71,2,1,0,0,0,0,0,1,109000
+Ático,Centro,98,3,1,0,1,1,0,0,0,279900
+Piso,Ciudad Lineal,63,1,1,1,1,1,1,1,0,318000
+Piso,Centro,77,2,2,1,1,1,1,0,0,699000
+Piso,Tetuán,42,2,3,1,1,0,0,0,0,240000
+Piso,Puente de Vallecas,82,2,1,0,1,1,1,1,1,184900
+Piso,Tetuán,86,3,1,1,0,1,1,0,0,349000
+Piso,Centro,77,3,1,0,1,0,0,0,0,139100
+Piso,Salamanca,170,3,3,0,1,1,0,0,1,1855000
+Piso,Salamanca,59,1,1,0,0,1,0,0,0,400000
+Piso,Moncloa,321,5,3,0,1,1,1,0,1,2000000
+Piso,Chamartín,70,2,1,1,1,1,0,1,1,485000
+Piso,Ciudad Lineal,82,3,1,0,1,0,1,0,1,224000
+Piso,Fuencarral,113,2,2,0,1,1,1,1,1,400000
+Piso,Fuencarral,71,3,2,0,0,1,1,0,1,263999
+Piso,Barajas,73,3,1,1,0,0,0,0,1,188950
+Piso,San Blas,94,3,1,1,1,1,1,0,1,260000
+Piso,San Blas,61,2,1,0,0,0,1,0,1,150000
+Piso,Tetuán,187,3,3,1,1,1,1,1,1,990000
+Piso,Villaverde,75,3,1,0,0,0,0,0,1,125000
+Piso,Chamartín,45,1,1,1,1,0,1,0,0,235000
+Piso,Tetuán,39,1,1,1,1,1,1,0,0,190000
+Piso,Salamanca,113,3,2,1,1,1,1,0,0,469000
+Piso,Carabanchel,32,1,1,0,0,1,0,0,0,110000
+Piso,Centro,116,3,3,1,0,1,1,0,1,899000
+Ático,Chamberí,335,3,3,1,1,1,1,1,1,2300000
+Piso,Puente de Vallecas,73,3,1,0,1,0,1,0,1,139650
+Piso,Carabanchel,68,3,1,0,0,0,1,0,1,139000
+Ático,Centro,65,2,1,1,1,1,1,0,1,520000
+Piso,Centro,119,3,3,1,1,1,1,0,0,959000
+Ático,Ciudad Lineal,200,5,3,1,1,1,1,1,1,929000
+Piso,Chamartín,290,4,4,1,1,1,1,1,0,1850000
+Piso,Chamartín,67,1,1,1,1,1,1,0,1,440000
+Piso,Centro,134,3,3,1,1,1,1,0,0,939000
+Piso,Moratalaz,59,3,1,0,0,0,1,0,0,147500
+Piso,Fuencarral,148,3,2,1,1,1,1,1,1,710000
+Piso,Tetuán,92,2,2,1,1,1,1,1,0,444000
+Piso,Tetuán,190,4,3,0,1,1,1,1,1,1200000
+Piso,Hortaleza,80,3,1,0,1,0,0,0,1,269000
+Ático,Hortaleza,111,2,2,1,1,1,1,1,1,595000
+Piso,Salamanca,138,4,2,0,1,1,1,0,0,1100000
+Piso,Tetuán,186,3,3,1,1,1,1,0,1,1449000
+Piso,Centro,209,2,2,1,0,1,0,1,1,1600000
+Piso,Villa de Vallecas,40,1,1,1,1,1,1,1,0,159900
+Ático,Tetuán,60,2,1,1,1,0,0,0,1,350000
+Piso,Moncloa,50,3,1,0,0,1,1,0,0,159800
+Ático,Chamartín,84,1,1,1,1,1,1,1,0,390000
+Piso,Chamberí,65,2,1,1,0,1,1,0,0,410000
+Ático,Salamanca,162,4,2,1,0,1,1,1,1,860000
+Piso,Ciudad Lineal,113,2,2,1,1,1,1,1,0,550000
+Piso,Arganzuela,95,3,2,0,1,1,1,0,0,275000
+Piso,Tetuán,240,4,3,1,1,1,0,0,0,1390000
+Piso,Salamanca,306,5,5,1,1,1,1,1,1,2100000
+Piso,Salamanca,186,5,2,1,1,1,1,0,1,1100000
+Ático,Vicálvaro,187,4,2,1,1,1,1,1,1,595000
+Piso,Latina,80,3,1,0,0,1,1,1,1,219000
+Piso,Ciudad Lineal,199,4,3,0,1,1,1,1,0,840000
+Piso,Ciudad Lineal,62,2,1,1,1,1,1,0,0,237000
+Piso,Centro,65,2,2,1,1,1,1,0,0,699000
+Piso,Chamartín,204,3,3,1,1,1,1,1,1,1280000
+Piso,Moratalaz,96,3,2,0,1,1,1,0,1,290000
+Piso,Centro,84,2,2,1,1,1,1,0,0,819000
+Piso,Retiro,81,2,1,0,1,1,1,0,0,515000
+Piso,Chamartín,68,3,2,1,1,0,1,0,0,310000
+Piso,San Blas,70,3,1,1,1,0,1,0,1,163000
+Piso,Centro,155,2,2,1,0,1,1,0,0,1190000
+Piso,Centro,157,5,5,1,1,1,1,0,0,859000
+Piso,Puente de Vallecas,58,3,1,0,0,0,0,0,0,88800
+Piso,Centro,37,1,1,1,1,1,1,0,0,209000
+Piso,Tetuán,122,3,1,0,1,1,1,0,0,475000
+Piso,Villa de Vallecas,46,1,1,1,1,1,1,1,0,169900
+Piso,Salamanca,66,2,2,1,1,1,1,0,0,679000
+Ático,Villa de Vallecas,147,4,2,1,1,1,1,1,1,495000
+Piso,Carabanchel,102,3,2,1,1,1,1,0,1,295000
+Piso,Barajas,70,3,1,0,0,0,1,0,1,200000
+Ático,Tetuán,232,3,2,0,1,1,0,0,1,730000
+Piso,Centro,107,3,3,1,1,1,1,0,0,789000
+Piso,Salamanca,179,3,2,1,1,1,1,0,0,1500000
+Piso,Chamberí,70,2,1,1,1,1,1,0,0,399000
+Piso,Chamartín,180,4,3,0,0,1,1,0,0,840000
+Piso,Chamberí,84,2,1,1,1,1,1,0,1,580000
+Piso,Puente de Vallecas,60,3,1,1,0,0,1,0,1,150000
+Piso,Chamartín,245,4,3,0,1,1,1,0,0,1300000
+Piso,Puente de Vallecas,126,4,2,0,0,1,1,0,1,192000
+Piso,Centro,115,3,3,1,0,1,0,0,0,859000
+Piso,Salamanca,171,3,3,1,1,1,1,0,0,2700000
+Piso,Centro,110,2,1,0,0,1,1,0,0,505000
+Piso,Puente de Vallecas,56,2,1,0,0,1,1,0,1,134000
+Piso,Retiro,56,3,1,0,0,0,1,0,1,208000
+Piso,Hortaleza,49,1,1,1,0,0,1,0,0,139000
+Piso,Fuencarral,97,3,2,1,1,0,1,0,1,275000
+Piso,Retiro,120,2,2,1,1,1,1,1,0,1190000
+Piso,Salamanca,86,3,3,1,1,1,1,0,0,789000
+Piso,Centro,160,5,3,1,1,0,1,0,0,800000
+Piso,Carabanchel,103,3,2,1,1,1,1,1,0,340000
+Piso,Usera,71,2,1,0,0,1,1,1,0,190000
+Piso,Fuencarral,152,4,2,1,1,1,1,1,0,585000
+Piso,Salamanca,102,3,3,1,0,1,1,0,0,889000
+Piso,Salamanca,103,4,2,1,0,1,1,0,0,770000
+Piso,Centro,179,5,5,1,0,1,1,0,1,949000
+Piso,Latina,62,2,2,0,0,0,1,0,0,169000
+Piso,Centro,100,2,2,1,1,0,1,0,0,435000
+Piso,Ciudad Lineal,80,3,1,1,1,0,1,0,1,200000
+Piso,Tetuán,145,4,2,1,1,1,0,1,1,899000
+Piso,Tetuán,55,2,1,0,1,0,1,0,0,189000
+Dúplex,Villaverde,75,2,2,0,1,0,1,0,1,138000
+Piso,San Blas,78,3,1,0,1,1,1,0,1,262650
+Piso,Carabanchel,93,2,1,0,1,1,1,0,1,245000
+Piso,Centro,97,3,3,1,1,1,1,0,0,890000
+Piso,Villaverde,61,3,1,0,0,0,0,0,1,98000
+Piso,Moncloa,62,2,1,1,0,1,1,1,1,575500
+Piso,Retiro,123,4,2,0,0,1,1,0,0,489000
+Piso,Salamanca,135,3,3,1,1,1,1,0,1,675000
+Piso,Chamberí,83,2,1,0,1,1,1,0,1,525000
+Piso,Villaverde,80,2,2,1,1,1,1,0,0,215000
+Piso,Centro,106,2,2,1,1,1,1,0,0,839000
+Piso,Puente de Vallecas,72,2,1,1,1,1,1,0,1,71000
+Dúplex,Tetuán,80,2,2,1,1,0,1,0,1,310000
+Piso,Chamberí,88,2,1,0,0,1,0,0,0,605000
+Piso,Puente de Vallecas,60,3,1,1,0,0,1,0,0,133000
+Ático,Tetuán,246,5,4,1,1,1,1,1,1,1400000
+Piso,Puente de Vallecas,60,3,1,0,1,0,1,0,0,149500
+Ático,Arganzuela,145,4,3,1,1,1,0,1,1,695000
+Piso,Fuencarral,200,4,3,1,1,1,1,1,1,865000
+Piso,Salamanca,143,3,3,0,0,1,0,0,1,1250000
+Piso,Latina,88,4,2,0,1,0,1,0,1,169000
+Piso,Centro,181,7,2,0,0,1,0,0,0,820000
+Piso,Tetuán,97,2,2,1,1,1,1,1,0,452000
+Piso,Chamberí,139,2,3,1,1,1,1,0,0,1100000
+Piso,Salamanca,200,5,4,1,1,1,1,0,0,1900000
+Piso,Hortaleza,91,3,1,1,0,1,1,1,0,339000
+Piso,Puente de Vallecas,65,3,1,0,0,1,0,0,1,109000
+Piso,Salamanca,115,2,2,1,1,1,1,0,0,865000
+Piso,Salamanca,110,3,2,1,1,1,1,0,0,800000
+Ático,Chamberí,330,3,4,1,1,1,0,1,1,2300000
+Piso,Villa de Vallecas,103,3,2,1,1,1,1,1,1,311000
+Piso,Chamartín,196,4,3,0,1,1,1,0,1,1001148
+Piso,Centro,95,1,1,0,0,1,1,0,0,345000
+Piso,Fuencarral,71,3,2,0,0,1,0,0,1,283000
+Piso,Salamanca,251,4,3,1,1,1,1,0,1,2350000
+Piso,Usera,56,1,1,0,0,1,1,0,0,90000
+Piso,Latina,67,2,1,0,0,0,1,0,0,115000
+Piso,Carabanchel,97,3,1,0,1,1,1,1,0,255000
+Piso,Centro,166,5,5,0,1,1,1,0,0,859000
+Ático,Hortaleza,163,2,2,1,1,1,1,1,1,950000
+Piso,Carabanchel,75,3,1,0,0,0,1,0,1,142000
+Piso,Ciudad Lineal,79,3,1,0,1,1,1,1,1,200000
+Ático,Vicálvaro,85,3,2,1,1,1,1,1,1,325000
+Dúplex,Puente de Vallecas,119,3,2,0,1,1,0,0,1,250000
+Piso,Latina,80,3,1,1,1,0,0,0,0,135000
+Piso,Salamanca,104,2,3,1,1,1,1,0,0,849000
+Piso,Salamanca,144,4,2,0,1,1,1,0,1,820000
+Piso,Centro,133,2,2,1,1,0,0,0,0,620000
+Piso,Chamberí,195,5,3,1,1,1,1,0,1,845000
+Piso,Chamberí,262,6,4,1,1,1,1,0,1,880000
+Piso,Moratalaz,64,3,1,1,1,1,1,0,0,188000
+Piso,Retiro,164,5,3,1,0,1,1,1,0,649000
+Piso,Chamberí,94,3,2,1,1,1,1,0,0,699000
+Piso,Villa de Vallecas,49,1,1,0,1,1,0,0,0,132000
+Piso,Hortaleza,125,3,2,1,1,1,1,1,1,675000
+Ático,Chamartín,590,4,4,1,1,1,1,1,1,5800000
+Piso,Retiro,123,3,2,0,1,1,1,1,1,685000
+Piso,Ciudad Lineal,78,2,2,0,0,1,0,1,0,247098
+Piso,Chamberí,362,4,5,1,1,1,0,1,1,2495000
+Piso,Centro,130,5,2,0,1,1,1,0,0,790000
+Ático,Chamartín,90,1,1,1,1,1,1,1,1,1100000
+Ático,Moncloa,215,4,5,0,1,1,0,0,1,1273100
+Piso,Tetuán,230,3,2,0,1,1,1,0,1,1200000
+Piso,Carabanchel,105,4,2,0,0,1,1,0,1,262500
+Piso,Puente de Vallecas,132,3,2,0,1,1,1,1,0,269000
+Piso,Retiro,100,3,2,0,1,1,1,0,0,390000
+Piso,Tetuán,62,2,1,0,0,1,1,0,1,280000
+Piso,Salamanca,410,4,4,1,1,1,0,1,0,4800000
+Piso,Latina,60,1,1,1,1,1,1,1,0,220000
+Piso,Centro,37,1,1,0,0,0,1,0,0,209000
+Piso,Latina,250,9,3,0,0,1,1,0,1,720000
+Piso,Salamanca,79,1,1,1,1,0,1,0,0,269000
+Piso,Salamanca,45,1,1,1,1,1,1,0,0,545000
+Piso,Retiro,98,3,2,1,1,1,1,0,1,515000
+Piso,San Blas,63,1,1,1,1,1,1,1,0,210000
+Piso,Puente de Vallecas,75,3,1,0,1,0,1,0,1,140000
+Piso,Hortaleza,127,3,2,0,1,1,1,0,1,378603
+Piso,Salamanca,130,3,2,0,1,1,1,0,0,850000
+Piso,Chamartín,42,1,1,0,0,0,1,0,0,320000
+Ático,Carabanchel,109,2,2,1,1,1,1,1,1,360000
+Piso,Centro,207,7,2,0,0,1,0,0,0,860000
+Piso,Chamartín,140,4,2,0,1,1,1,0,1,890000
+Piso,Tetuán,230,4,3,0,0,1,1,1,0,1150000
+Piso,Carabanchel,75,3,1,0,1,0,1,0,1,156000
+Piso,Carabanchel,45,1,1,0,1,1,1,0,0,139000
+Piso,Salamanca,257,3,3,1,1,1,1,0,0,3450000
+Piso,Salamanca,104,2,2,0,1,1,1,0,1,472500
+Piso,Fuencarral,47,1,1,0,0,1,0,0,0,163900
+Piso,Chamartín,65,2,1,1,1,1,1,0,0,310000
+Ático,Chamartín,192,2,2,1,1,1,1,1,1,960000
+Piso,Salamanca,132,3,3,1,1,1,1,0,0,1300000
+Piso,Moncloa,52,2,1,0,1,1,1,0,0,285000
+Dúplex,Villaverde,82,3,2,1,1,0,1,0,0,152900
+Piso,Centro,105,3,3,1,1,0,1,0,1,829000
+Piso,Salamanca,69,1,1,1,1,1,1,0,0,350000
+Piso,San Blas,80,3,1,0,1,1,0,0,0,220000
+Piso,Centro,109,2,3,1,1,1,1,0,0,899000
+Piso,Salamanca,152,2,3,1,1,1,1,0,0,1950000
+Piso,Fuencarral,465,7,5,0,1,1,1,1,0,1139771
+Piso,Chamartín,419,5,5,1,1,1,1,1,0,2350000
+Piso,Usera,94,3,1,1,1,1,1,1,1,530000
+Piso,Arganzuela,135,3,2,0,1,1,1,1,1,515000
+Piso,Chamartín,75,2,2,1,1,1,1,0,0,317600
+Piso,Latina,79,3,1,0,0,0,1,0,0,185000
+Piso,Latina,51,2,1,0,0,1,1,0,0,132900
+Piso,Centro,102,4,2,1,0,1,1,0,0,399800
+Piso,Retiro,78,3,2,0,0,1,0,0,0,370000
+Piso,Tetuán,127,3,3,1,0,1,1,0,1,950000
+Piso,Ciudad Lineal,119,3,2,0,1,1,1,1,0,490000
+Piso,Centro,82,3,2,1,1,1,1,0,0,360000
+Piso,Fuencarral,110,3,2,1,1,1,1,1,0,502000
+Piso,Moncloa,100,3,1,0,1,1,1,0,0,269500
+Ático,Moncloa,242,4,3,0,1,1,1,0,1,1164000
+Piso,Salamanca,152,3,3,0,0,1,1,0,1,1075000
+Piso,Usera,178,4,2,1,1,1,1,1,1,290000
+Piso,Chamartín,250,4,2,1,1,1,1,0,1,1090000
+Piso,Hortaleza,114,3,2,1,0,1,1,1,0,490000
+Piso,Tetuán,67,2,1,0,1,1,1,0,1,245000
+Piso,Carabanchel,75,3,2,0,0,0,1,0,1,198000
+Piso,Moratalaz,73,4,1,0,1,0,1,0,1,259000
+Piso,Moncloa,439,4,5,1,1,0,1,1,0,1649000
+Piso,Arganzuela,26,1,1,0,0,1,0,0,0,140000
+Piso,Salamanca,121,3,3,1,1,1,1,0,0,1080000
+Piso,Tetuán,52,2,1,1,0,0,1,0,1,189900
+Piso,Salamanca,108,4,2,0,1,1,1,0,0,388531
+Piso,Centro,76,3,2,0,0,1,0,0,0,229000
+Piso,Centro,81,1,1,1,1,1,1,0,0,420000
+Piso,Puente de Vallecas,45,2,1,0,1,0,1,0,0,125000
+Piso,Salamanca,117,2,2,1,1,1,1,0,0,925000
+Piso,Tetuán,79,1,1,1,1,1,1,1,1,488500
+Piso,Villaverde,115,4,2,1,1,1,1,0,1,240000
+Piso,Chamberí,342,9,3,0,1,1,1,0,1,1350000
+Piso,Centro,105,2,2,1,1,1,1,0,0,899000
+Piso,Salamanca,272,7,2,0,0,1,0,0,0,2700000
+Piso,Chamberí,105,2,1,0,0,1,0,0,0,605000
+Piso,Chamartín,320,5,5,1,0,1,1,1,0,2350000
+Piso,Puente de Vallecas,126,2,1,0,0,1,0,0,0,137800
+Piso,Centro,46,1,1,1,1,1,1,0,0,469000
+Piso,Carabanchel,35,1,1,1,0,0,0,0,1,125000
+Piso,Latina,92,2,1,0,1,1,1,0,0,194000
+Piso,Chamberí,82,2,1,1,1,1,1,0,0,440000
+Piso,Moncloa,60,2,2,0,1,0,1,0,0,380000
+Piso,Arganzuela,55,1,1,1,0,0,1,0,0,235000
+Piso,Moratalaz,89,3,1,0,1,1,1,0,1,297000
+Piso,Centro,35,1,1,0,1,1,1,0,0,179500
+Piso,Ciudad Lineal,98,3,1,0,1,1,1,0,0,265000
+Piso,Villa de Vallecas,70,2,1,1,0,0,1,1,1,154900
+Piso,Hortaleza,82,3,2,0,1,1,1,0,1,320000
+Piso,Salamanca,80,3,2,1,1,1,1,0,1,580000
+Piso,Salamanca,46,2,1,1,0,1,1,0,0,365000
+Dúplex,San Blas,120,1,2,1,0,1,1,1,1,350000
+Piso,Chamartín,85,3,2,0,1,1,1,0,1,439000
+Piso,Tetuán,31,1,1,1,0,1,1,0,0,170000
+Piso,Vicálvaro,66,3,1,0,0,1,0,0,1,155000
+Piso,Chamartín,201,3,2,1,1,1,1,0,0,970000
+Piso,Arganzuela,95,3,2,1,1,1,1,1,1,595000
+Piso,Salamanca,160,3,3,1,1,1,1,0,0,1800000
+Piso,Latina,199,4,5,1,1,1,1,1,1,745000
+Piso,Puente de Vallecas,62,3,1,1,0,1,1,0,1,139999
+Piso,Villaverde,74,3,1,0,0,1,0,0,1,123349
+Piso,Puente de Vallecas,61,1,1,0,1,0,1,0,0,87870
+Piso,Centro,106,3,3,1,1,1,1,0,1,839000
+Piso,Salamanca,199,5,3,0,1,1,1,0,1,750000
+Piso,Moncloa,100,3,1,0,1,1,1,0,0,269500
+Piso,Chamartín,156,3,3,0,1,1,1,1,1,648000
+Piso,Latina,64,2,1,0,1,0,1,0,1,225000
+Piso,Latina,89,2,1,0,0,1,0,0,0,199900
+Piso,Carabanchel,93,4,1,0,0,1,1,0,0,260000
+Piso,Chamartín,196,4,3,1,1,1,0,0,1,1001148
+Piso,Ciudad Lineal,85,3,1,0,1,1,1,0,0,210000
+Piso,Salamanca,247,4,3,1,1,1,1,0,0,2600000
+Piso,Carabanchel,106,4,2,0,0,0,1,1,1,230000
+Piso,Chamberí,71,2,1,0,1,1,1,0,0,329000
+Piso,Ciudad Lineal,140,4,2,0,1,1,1,1,0,385000
+Piso,Retiro,97,4,2,0,1,1,1,1,1,360000
+Piso,Usera,50,1,1,1,1,0,1,0,0,131000
+Piso,Salamanca,165,4,4,1,1,1,1,0,0,1900000
+Piso,Chamberí,315,5,3,0,1,1,1,0,1,970000
+Piso,Chamartín,120,2,2,1,1,1,1,1,0,695000
+Piso,Arganzuela,86,3,1,0,0,1,1,0,1,335000
+Piso,Chamberí,530,6,4,0,0,1,0,1,1,4500000
+Piso,Ciudad Lineal,66,2,1,1,1,1,1,0,0,295000
+Piso,Moratalaz,69,3,1,0,0,0,0,0,1,179598
+Piso,Ciudad Lineal,65,2,1,1,0,0,1,0,1,198000
+Piso,Tetuán,60,1,1,0,1,1,1,0,1,450000
+Piso,Latina,65,2,1,1,0,0,1,0,0,150000
+Piso,Retiro,158,3,4,1,1,1,1,1,1,1150000
+Piso,Carabanchel,90,4,1,0,0,0,1,0,0,142800
+Piso,Salamanca,129,3,3,1,1,1,1,0,0,1080000
+Piso,Villaverde,100,3,2,0,0,0,0,1,0,217000
+Piso,Salamanca,252,3,4,1,1,1,1,0,0,3495000
+Piso,Carabanchel,60,3,1,1,1,0,1,0,1,175000
+Piso,Carabanchel,79,3,1,1,0,0,1,0,1,160000
+Piso,Ciudad Lineal,87,3,2,1,1,1,0,0,0,305000
+Piso,Centro,207,7,2,0,0,1,0,0,0,860000
+Piso,Vicálvaro,60,1,1,0,1,1,1,1,1,225000
+Piso,Fuencarral,88,3,2,1,1,1,1,0,0,405000
+Piso,Centro,82,3,2,0,0,1,1,0,0,199000
+Piso,Carabanchel,137,4,2,0,1,1,1,0,1,399000
+Piso,Fuencarral,113,4,2,0,1,1,1,1,1,449000
+Piso,Centro,134,3,3,1,1,1,1,0,0,939000
+Piso,Salamanca,105,2,2,0,0,1,1,0,1,462000
+Piso,Carabanchel,70,2,1,0,0,0,1,0,1,155000
+Piso,Salamanca,185,2,3,1,0,0,0,0,0,998500
+Ático,Latina,150,5,3,0,1,1,1,0,1,345300
+Piso,Ciudad Lineal,67,3,1,0,0,1,0,0,0,150000
+Piso,Chamartín,82,2,2,0,0,1,1,0,1,545000
+Ático,Hortaleza,130,4,2,1,0,1,1,1,1,990000
+Piso,Centro,92,2,2,0,1,1,1,0,0,399000
+Piso,San Blas,56,3,1,0,1,0,0,0,1,129900
+Piso,Centro,95,1,1,0,0,1,1,0,0,345000
+Ático,Ciudad Lineal,154,2,2,1,1,1,1,1,1,925000
+Ático,Chamberí,273,5,4,1,1,1,1,1,1,1100000
+Piso,Vicálvaro,120,3,2,1,0,0,0,0,0,413900
+Piso,Tetuán,114,2,2,1,1,1,1,0,1,535000
+Piso,Moncloa,196,4,3,1,1,1,1,1,1,1050000
+Dúplex,Ciudad Lineal,46,1,1,0,1,1,0,0,0,185000
+Piso,Latina,80,2,1,1,1,1,1,0,1,230000
+Piso,Usera,90,3,1,1,1,1,1,0,1,160000
+Piso,Centro,91,2,2,1,1,1,1,0,0,819000
+Dúplex,Fuencarral,146,2,2,1,1,1,1,1,1,310000
+Piso,Barajas,107,3,2,0,1,1,1,0,1,272000
+Piso,San Blas,75,3,1,0,1,1,1,0,1,269500
+Piso,Salamanca,79,2,1,1,1,1,1,0,0,465000
+Piso,Tetuán,203,3,2,0,1,1,0,1,1,950000
+Piso,Centro,46,1,1,1,1,1,1,0,0,469000
+Dúplex,Chamberí,315,2,3,1,1,1,1,0,1,1800000
+Piso,Centro,128,2,1,1,1,1,1,0,0,715000
+Piso,Puente de Vallecas,100,4,2,0,0,0,0,0,0,152700
+Piso,Latina,79,3,1,0,1,1,0,0,1,175000
+Piso,Arganzuela,50,2,1,1,1,1,1,0,0,245000
+Piso,Chamberí,59,1,1,1,1,0,1,0,0,354000
+Piso,Centro,33,1,1,1,1,1,1,1,0,270000
+Ático,Villaverde,130,3,2,1,1,1,1,0,1,167500
+Piso,Ciudad Lineal,135,3,2,1,1,1,1,1,1,650000
+Piso,Retiro,52,1,1,1,1,1,1,0,1,209000
+Piso,Puente de Vallecas,62,1,1,0,1,1,0,0,0,180000
+Piso,Usera,128,3,2,1,0,1,0,1,0,287945
+Piso,Moncloa,84,2,2,1,1,1,1,0,1,359000
+Piso,San Blas,45,2,1,0,1,0,1,0,0,120000
+Piso,Salamanca,150,3,3,1,1,1,1,0,1,1015000
+Piso,Tetuán,152,4,2,1,1,1,1,0,1,550000
+Piso,Carabanchel,60,1,1,0,1,0,1,0,0,94900
+Piso,Vicálvaro,68,3,1,1,1,0,1,0,1,154500
+Dúplex,Chamberí,375,6,5,1,1,1,0,0,1,1550000
+Piso,Salamanca,165,3,2,1,1,1,1,0,0,1110000
+Piso,Hortaleza,90,3,1,0,1,1,1,1,1,278000
+Piso,Hortaleza,72,1,1,1,1,1,1,1,1,450000
+Piso,Retiro,152,4,2,1,1,1,1,1,1,785000
+Piso,San Blas,75,3,1,0,0,1,0,0,1,262650
+Piso,Retiro,76,2,2,0,0,1,0,0,0,256000
+Piso,Centro,40,1,1,0,1,1,1,0,1,435000
+Ático,Fuencarral,116,2,2,1,1,1,1,1,1,480000
+Piso,Hortaleza,140,4,2,1,1,1,1,1,0,790000
+Dúplex,Chamberí,75,1,1,1,1,0,1,0,1,375000
+Piso,Ciudad Lineal,163,1,2,0,1,0,1,0,1,460000
+Piso,Vicálvaro,65,2,1,1,0,0,0,0,1,164999
+Piso,Puente de Vallecas,62,3,1,1,0,0,0,0,0,165000
+Piso,Salamanca,83,2,2,1,0,1,1,0,0,849000
+Piso,Arganzuela,78,3,1,0,0,1,0,0,0,330030
+Piso,Chamartín,153,3,2,0,1,0,1,0,1,884170
+Piso,Salamanca,80,2,1,1,1,1,1,0,0,450000
+Piso,Fuencarral,287,5,4,0,1,1,1,1,1,930000
+Piso,Salamanca,71,2,1,1,1,1,1,0,1,420000
+Piso,Latina,66,3,1,0,0,0,0,0,1,123000
+Piso,Salamanca,97,2,2,1,1,1,1,0,1,815000
+Piso,Arganzuela,85,3,1,0,0,1,1,0,1,385000
+Piso,Chamberí,96,3,3,1,1,1,1,0,0,799000
+Piso,Salamanca,140,3,3,1,1,1,1,0,0,1950000
+Piso,Ciudad Lineal,54,2,1,0,0,1,1,0,1,165000
+Piso,Latina,71,3,1,0,1,1,1,0,1,179598
+Piso,Puente de Vallecas,58,3,1,0,0,1,0,0,1,113000
+Piso,Chamberí,101,3,1,0,0,1,1,0,0,350000
+Piso,Fuencarral,243,4,3,0,1,1,1,1,1,935000
+Piso,Hortaleza,145,4,2,1,1,1,1,1,0,545000
+Piso,Latina,102,3,2,0,0,0,0,0,1,169000
+Piso,Arganzuela,43,1,1,1,1,1,1,0,0,245000
+Piso,Centro,83,3,2,1,1,1,1,0,0,475000
+Piso,Carabanchel,86,3,1,0,1,0,1,1,0,170000
+Piso,Fuencarral,180,4,2,0,1,1,1,1,0,790000
+Piso,Centro,382,3,4,1,0,1,0,1,1,2600000
+Piso,Retiro,117,3,2,1,1,1,1,0,1,653000
+Piso,Tetuán,224,6,4,1,1,1,0,1,1,1240000
+Piso,Salamanca,148,3,1,1,0,1,1,0,0,920000
+Piso,Chamartín,188,2,2,0,1,1,0,1,1,1017100
+Piso,Puente de Vallecas,81,2,2,1,1,1,1,1,0,239000
+Piso,Moratalaz,82,4,1,0,0,1,0,0,1,202500
+Piso,Carabanchel,76,3,1,1,1,1,1,0,0,215000
+Piso,Puente de Vallecas,65,1,1,1,1,1,1,0,1,219000
+Piso,Centro,136,3,1,0,0,1,1,0,0,710000
+Piso,Ciudad Lineal,100,3,1,1,1,1,0,1,1,387000
+Piso,Chamberí,40,1,1,0,1,1,1,1,0,320000
+Ático,Fuencarral,171,4,2,0,1,1,1,0,1,685000
+Piso,Arganzuela,58,2,1,0,0,1,1,0,0,179000
+Piso,Ciudad Lineal,313,5,5,0,1,1,1,1,1,1050000
+Piso,Tetuán,50,2,1,0,0,0,1,0,0,185000
+Piso,Villa de Vallecas,75,2,2,0,1,1,1,1,0,310000
+Piso,Tetuán,180,3,2,1,0,0,1,0,1,368000
+Piso,Puente de Vallecas,60,1,1,1,1,0,0,1,0,143999
+Piso,Tetuán,114,3,2,0,1,1,1,1,1,599000
+Piso,Salamanca,130,3,2,1,1,1,0,1,0,895000
+Piso,Chamberí,345,4,4,1,1,1,1,1,0,3430000
+Piso,Tetuán,42,1,1,1,1,1,0,1,1,228400
+Piso,Tetuán,55,2,1,0,0,0,1,0,1,165000
+Piso,Fuencarral,74,3,1,0,1,1,1,0,1,265000
+Dúplex,Chamartín,297,6,4,1,0,1,0,1,0,1600000
+Piso,Barajas,131,4,2,1,1,1,1,0,1,402000
+Piso,Centro,155,5,2,1,1,1,1,1,0,847000
+Piso,Chamberí,62,2,2,0,0,1,1,0,0,244000
+Piso,Centro,121,1,2,0,1,1,1,0,0,650000
+Piso,Salamanca,279,4,3,0,0,1,1,0,0,1550000
+Piso,Hortaleza,147,3,2,1,1,1,0,1,1,520000
+Piso,Retiro,91,3,1,1,1,1,1,0,1,537000
+Piso,Arganzuela,158,4,3,1,0,1,1,0,0,550000
+Piso,Centro,53,1,1,0,0,1,0,0,0,305000
+Piso,Chamberí,195,5,2,1,0,1,1,1,1,775000
+Piso,Salamanca,123,2,2,1,1,1,1,1,1,720000
+Piso,Centro,55,2,1,0,1,0,0,0,0,227000
+Piso,Fuencarral,50,2,1,0,1,1,1,0,1,205000
+Piso,Carabanchel,85,2,2,1,1,1,1,0,1,310000
+Piso,Centro,93,2,1,0,0,1,0,0,0,445000
+Piso,Chamberí,65,1,1,1,1,1,1,0,0,424000
+Piso,Centro,94,3,3,1,1,0,1,0,0,829000
+Piso,Salamanca,75,3,2,1,1,1,1,0,0,500000
+Piso,Centro,54,1,1,1,1,0,1,0,1,239900
+Piso,Retiro,116,4,2,0,1,1,1,0,0,449000
+Piso,Carabanchel,65,2,1,0,0,1,1,0,0,182000
+Piso,Moncloa,60,1,1,1,1,1,1,0,0,435000
+Piso,Latina,52,2,1,0,0,0,1,0,0,125000
+Piso,Chamartín,127,3,3,1,0,0,0,0,1,950000
+Piso,Chamberí,214,3,3,1,0,0,0,0,0,2700000
+Piso,Latina,62,2,1,0,1,0,1,1,1,139900
+Piso,Arganzuela,36,1,1,1,1,1,1,0,0,200000
+Piso,Salamanca,169,3,2,1,1,1,1,0,1,1350000
+Piso,Tetuán,50,1,1,0,1,0,1,0,0,199000
+Piso,Chamartín,165,3,3,1,1,1,0,0,1,895000
+Piso,Retiro,173,4,3,0,0,1,1,0,1,1150000
+Piso,Moncloa,159,4,2,0,0,1,0,0,0,780000
+Piso,Chamartín,110,3,2,1,1,1,1,0,1,620000
+Piso,Chamberí,148,4,2,1,1,1,1,0,0,740000
+Piso,Carabanchel,129,4,3,0,1,1,1,0,0,279000
+Piso,Salamanca,46,2,1,1,0,0,0,0,0,299000
+Piso,Tetuán,152,3,3,1,1,1,1,0,1,1349000
+Piso,Centro,55,1,1,1,1,1,1,0,0,469000
+Piso,Latina,84,2,2,1,1,1,1,0,0,355000
+Piso,Salamanca,71,2,2,0,0,1,1,0,0,719340
+Piso,Salamanca,92,3,2,0,0,1,1,0,0,620000
+Piso,Salamanca,48,1,1,1,1,1,1,0,0,575000
+Piso,Puente de Vallecas,60,2,1,0,0,0,1,0,1,103000
+Piso,Moncloa,41,1,1,1,1,0,1,0,0,195900
+Piso,Chamberí,134,3,3,1,1,1,1,0,0,939000
+Piso,Salamanca,125,3,2,1,1,1,1,0,0,1125000
+Dúplex,San Blas,82,1,2,1,1,1,1,1,1,280000
+Piso,Villa de Vallecas,117,3,2,1,0,1,0,1,1,330000
+Piso,Centro,137,2,2,1,0,1,1,0,1,1350000
+Piso,Fuencarral,75,3,1,1,1,1,1,0,0,290000
+Piso,Puente de Vallecas,99,2,2,1,1,1,1,1,0,224000
+Piso,Retiro,205,3,3,1,1,1,1,0,0,815000
+Piso,Vicálvaro,66,3,1,0,1,0,1,0,1,140000
+Piso,Centro,77,2,2,1,1,1,1,0,0,699000
+Piso,Puente de Vallecas,111,3,2,1,1,1,1,1,1,269900
+Piso,Retiro,165,3,2,1,1,1,1,1,1,745000
+Piso,Chamartín,143,3,2,0,1,1,1,1,1,650000
+Piso,Villaverde,56,1,1,0,0,1,0,0,1,207670
+Piso,Usera,71,2,1,0,0,1,1,1,0,190000
+Ático,Salamanca,249,5,3,1,1,1,1,1,1,1680000
+Piso,Chamberí,58,1,1,0,0,1,1,0,0,375000
+Piso,Retiro,97,4,2,0,1,1,1,1,1,360000
+Piso,Arganzuela,91,2,2,0,1,1,1,0,0,350000
+Piso,Salamanca,158,4,3,0,1,1,1,0,1,1200000
+Piso,Salamanca,119,1,1,1,0,1,1,0,0,860000
+Piso,Carabanchel,102,3,2,1,0,1,1,0,1,295000
+Piso,Chamberí,206,7,3,0,0,1,0,0,1,880000
+Piso,Carabanchel,88,3,2,1,0,1,1,0,1,213000
+Piso,Centro,126,3,3,1,1,1,1,0,0,939000
+Piso,Chamberí,130,3,2,0,0,1,1,0,0,800000
+Piso,Villa de Vallecas,57,3,1,0,0,0,0,0,0,113810
+Piso,Puente de Vallecas,43,2,1,0,1,0,1,0,0,96000
+Piso,Centro,101,2,2,1,1,0,1,0,0,829000
+Piso,Chamartín,118,2,2,0,0,0,0,1,1,819999
+Piso,Centro,51,1,1,0,0,1,0,0,0,206000
+Piso,Tetuán,62,1,1,1,0,1,0,0,0,427500
+Piso,Salamanca,244,6,3,0,1,1,1,0,0,990000
+Piso,Villaverde,71,3,1,0,0,0,1,0,1,118000
+Piso,Carabanchel,70,2,1,0,0,1,1,0,0,111900
+Piso,Arganzuela,44,2,1,0,0,0,1,0,0,171100
+Piso,Barajas,149,3,2,1,1,1,1,1,1,625000
+Piso,San Blas,116,3,2,1,1,1,1,1,0,420000
+Piso,Villaverde,54,3,1,0,0,0,0,0,1,113500
+Piso,Centro,124,2,2,1,1,1,1,0,0,825000
+Piso,Centro,101,2,2,1,1,0,1,0,0,829000
+Piso,Centro,155,3,3,1,0,1,1,0,1,1290000
+Piso,Hortaleza,291,4,5,1,1,1,1,1,1,1795000
+Piso,Centro,111,3,3,1,1,1,0,0,0,849000
+Piso,Puente de Vallecas,90,2,1,0,1,0,0,0,1,134900
+Piso,Usera,42,2,1,0,0,0,1,0,0,95000
+Piso,Centro,189,4,4,1,1,1,1,1,1,890000
+Piso,Salamanca,473,4,5,1,1,1,1,1,0,7900000
+Piso,Chamartín,201,3,3,1,1,1,1,0,1,1449000
+Piso,Salamanca,145,7,7,1,1,1,1,0,0,1290000
+Piso,Villa de Vallecas,49,1,1,0,1,1,0,0,0,132000
+Piso,Centro,94,1,1,1,1,1,1,0,0,550000
+Piso,San Blas,48,2,1,0,1,1,1,0,0,137000
+Ático,Centro,278,4,3,1,1,1,1,1,1,1850000
+Piso,Carabanchel,58,2,2,1,1,0,1,0,0,159000
+Ático,Villa de Vallecas,81,1,2,1,1,1,0,1,1,163000
+Dúplex,Arganzuela,70,1,1,1,1,0,1,0,1,375000
+Piso,Centro,73,3,1,1,0,1,1,0,0,549000
+Ático,Salamanca,219,4,4,0,0,1,1,0,1,1295000
+Piso,Chamartín,52,1,1,1,1,1,1,0,0,425000
+Piso,Moncloa,265,5,4,1,1,1,1,1,1,1200000
+Piso,Centro,59,3,1,0,1,1,1,0,0,349000
+Piso,Villaverde,62,3,1,1,0,1,0,0,0,121000
+Piso,San Blas,40,1,1,1,1,1,1,0,0,139000
+Piso,Barajas,43,2,1,1,0,0,1,0,0,145000
+Piso,Puente de Vallecas,80,2,1,1,1,1,1,0,1,235000
+Piso,Tetuán,205,4,3,0,1,1,1,0,0,750000
+Piso,Tetuán,40,1,1,0,1,0,1,0,0,105000
+Piso,Carabanchel,63,3,1,1,0,0,0,0,1,149900
+Piso,Ciudad Lineal,83,4,1,0,0,1,1,0,0,240000
+Piso,Ciudad Lineal,78,2,2,0,1,1,1,0,1,249000
+Piso,Salamanca,83,2,2,1,1,1,1,0,0,849000
+Piso,Chamartín,66,2,2,0,0,0,0,0,0,399000
+Piso,Fuencarral,90,2,1,1,1,1,1,1,0,440000
+Piso,Moratalaz,60,2,1,1,1,0,0,0,0,171000
+Piso,Fuencarral,107,3,2,0,1,0,1,1,1,280000
+Piso,Fuencarral,81,3,1,0,1,1,1,0,1,339999
+Piso,Salamanca,76,2,2,1,1,1,1,0,0,849000
+Piso,Chamberí,151,3,3,1,1,1,0,1,0,960570
+Piso,Moncloa,197,4,2,1,1,1,1,1,1,845000
+Piso,Tetuán,40,1,1,1,1,1,1,0,1,339900
+Piso,Moncloa,47,1,1,1,0,1,1,0,0,279000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Carabanchel,106,4,2,1,1,1,1,1,1,290000
+Piso,Ciudad Lineal,40,1,1,0,1,0,0,0,0,180000
+Piso,Ciudad Lineal,86,3,1,0,1,0,1,0,1,224000
+Ático,Fuencarral,166,4,3,1,1,1,1,1,1,898000
+Piso,Tetuán,74,3,2,0,0,0,1,0,1,270000
+Piso,Moncloa,127,3,2,1,1,1,1,0,1,550000
+Piso,Carabanchel,54,1,1,1,1,1,1,1,0,172400
+Piso,Salamanca,161,3,2,1,0,1,1,0,0,2300000
+Dúplex,Centro,158,1,2,0,1,1,0,0,0,890000
+Piso,Hortaleza,179,3,3,1,1,1,1,1,1,1300000
+Piso,Hortaleza,121,3,2,1,1,1,1,1,0,479000
+Piso,Arganzuela,120,2,1,0,0,1,0,0,0,300000
+Piso,Centro,150,3,3,1,0,1,1,0,1,1290000
+Piso,Tetuán,175,4,3,0,1,1,1,1,1,870000
+Piso,Chamartín,220,6,3,1,0,1,1,1,1,1198000
+Piso,Ciudad Lineal,35,1,1,0,1,1,1,0,0,240000
+Piso,Latina,60,2,1,0,0,1,1,0,1,149900
+Piso,Hortaleza,141,4,2,1,1,1,1,1,1,499000
+Piso,Ciudad Lineal,146,4,3,1,1,1,1,1,1,850000
+Piso,Salamanca,171,4,2,0,1,1,1,1,1,690000
+Piso,San Blas,46,2,1,0,0,0,0,0,1,117866
+Piso,Centro,88,2,2,1,1,1,1,0,0,899000
+Piso,Centro,223,3,3,1,0,1,1,0,0,1800000
+Piso,Centro,40,1,1,0,0,1,1,0,0,236000
+Piso,Centro,84,2,2,0,1,1,1,0,0,819000
+Piso,Chamartín,120,3,3,1,1,1,1,0,0,950000
+Piso,San Blas,48,1,1,1,1,1,1,1,0,169000
+Piso,Carabanchel,100,3,2,1,1,1,1,1,0,280000
+Piso,Villa de Vallecas,85,2,2,1,1,1,0,1,0,280000
+Piso,Fuencarral,90,2,2,0,1,1,1,1,0,395000
+Piso,Hortaleza,232,4,3,0,1,1,1,1,1,750000
+Piso,Centro,119,3,3,1,1,1,1,0,0,959000
+Piso,Hortaleza,66,1,1,0,0,0,1,0,0,163800
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Piso,Chamartín,270,4,4,1,1,1,1,1,1,1270000
+Piso,Puente de Vallecas,65,4,1,1,0,0,0,0,0,139999
+Piso,Tetuán,107,4,3,0,1,1,1,0,1,550000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Chamberí,24,1,1,1,1,0,1,0,0,203000
+Piso,Moratalaz,105,2,2,1,1,1,1,1,1,270000
+Piso,Centro,109,2,3,1,1,1,1,0,0,899000
+Piso,Chamartín,200,4,3,1,1,1,1,1,0,1120000
+Dúplex,Retiro,210,2,3,1,1,1,1,1,1,1440000
+Piso,San Blas,99,3,2,0,1,1,1,0,1,280000
+Piso,Centro,134,3,3,1,0,1,1,0,0,1199000
+Piso,Fuencarral,85,3,1,0,1,0,1,0,1,174950
+Piso,Latina,128,5,1,0,1,0,0,0,1,247000
+Piso,Carabanchel,56,3,1,1,0,0,1,0,0,139000
+Piso,Moncloa,110,4,1,0,0,1,0,0,1,440000
+Piso,Ciudad Lineal,59,2,1,0,1,1,1,0,1,175000
+Piso,Usera,65,2,1,0,0,1,0,0,1,125500
+Piso,Centro,107,3,3,1,1,1,0,0,0,789000
+Piso,Chamartín,69,2,1,1,1,1,1,1,1,550000
+Piso,San Blas,128,4,2,0,1,1,1,0,1,365000
+Piso,Ciudad Lineal,61,3,1,0,0,0,0,0,1,185000
+Piso,Moncloa,136,4,3,0,0,1,1,1,0,496500
+Piso,Latina,43,2,2,1,1,0,1,0,0,107999
+Piso,Salamanca,310,4,4,1,1,1,1,0,0,4350000
+Piso,San Blas,71,3,1,0,0,0,0,0,0,196000
+Piso,Tetuán,42,2,1,1,0,0,1,0,0,240000
+Ático,Fuencarral,140,4,2,0,1,1,1,0,1,495000
+Piso,Villaverde,124,3,2,1,1,1,1,1,0,260000
+Piso,Centro,91,2,2,1,1,1,1,0,0,819000
+Piso,Moncloa,35,1,1,0,1,0,1,0,0,89999
+Piso,Chamartín,155,3,3,1,1,1,1,0,1,749000
+Ático,Salamanca,214,6,3,0,0,1,1,0,1,1295000
+Piso,Carabanchel,68,2,1,0,1,1,1,0,0,182000
+Piso,Chamberí,90,2,1,1,1,1,1,0,0,550000
+Piso,Centro,139,2,2,1,1,1,1,0,0,920000
+Piso,Tetuán,113,4,3,1,1,1,1,0,1,540000
+Piso,Chamberí,73,2,2,1,1,1,1,0,0,500000
+Piso,Centro,80,2,2,1,1,1,1,0,0,595000
+Piso,Chamartín,150,4,2,0,0,1,1,0,1,745000
+Piso,Retiro,115,3,2,1,1,1,1,0,0,549000
+Piso,Ciudad Lineal,84,3,1,1,1,1,1,0,1,255000
+Piso,Salamanca,94,4,2,0,1,1,1,0,0,388531
+Piso,Centro,151,3,3,1,1,1,1,0,0,2100000
+Piso,Fuencarral,60,2,1,0,1,1,1,0,0,256000
+Piso,Fuencarral,60,2,1,1,0,0,1,0,1,160000
+Piso,Chamberí,205,4,3,1,1,1,0,1,1,1975000
+Piso,Carabanchel,147,4,2,0,1,1,1,1,1,335000
+Piso,Moncloa,155,3,2,0,0,1,0,1,0,410000
+Piso,Centro,174,6,2,0,0,1,1,0,0,760000
+Piso,San Blas,104,3,2,1,1,1,1,0,1,255000
+Piso,Puente de Vallecas,47,1,1,1,1,1,1,0,0,142300
+Piso,Centro,106,3,3,1,1,1,1,0,0,839000
+Piso,Vicálvaro,144,4,2,1,0,0,0,0,0,472500
+Piso,Centro,80,2,2,0,1,1,1,1,0,330000
+Dúplex,Tetuán,152,3,3,1,1,1,1,1,0,498000
+Dúplex,Chamartín,190,3,2,1,1,1,1,1,1,1390000
+Piso,Centro,189,3,3,1,0,1,0,0,1,1525000
+Piso,Centro,116,3,3,1,1,1,1,0,0,899000
+Piso,Centro,134,3,2,1,1,1,1,0,1,1090000
+Piso,Centro,90,2,1,0,0,1,1,0,0,400000
+Piso,Latina,63,2,1,0,1,1,1,0,0,174000
+Piso,Moncloa,220,4,4,1,1,1,1,1,0,1375000
+Piso,Tetuán,173,3,3,0,0,1,1,1,0,840000
+Piso,Centro,101,1,2,1,1,0,1,0,0,575000
+Piso,Villaverde,59,1,1,0,1,0,1,1,0,127800
+Piso,Ciudad Lineal,71,2,1,1,0,1,1,0,1,265000
+Piso,Chamberí,177,4,2,0,1,1,1,0,1,725000
+Piso,Usera,92,1,2,0,0,0,1,0,0,102000
+Piso,Fuencarral,139,3,2,1,1,1,1,1,0,509000
+Piso,Moratalaz,66,2,1,1,1,0,1,0,1,148000
+Piso,Barajas,76,2,1,0,1,1,1,0,0,260000
+Piso,Arganzuela,87,2,2,0,1,1,1,1,0,435800
+Piso,Chamartín,190,4,3,0,1,1,1,0,1,950000
+Piso,San Blas,119,4,2,0,1,1,1,0,1,269999
+Piso,Ciudad Lineal,63,3,1,0,0,1,0,0,0,172500
+Ático,Fuencarral,163,3,2,1,1,1,1,1,1,1050000
+Piso,Vicálvaro,71,3,1,1,0,1,1,1,1,238000
+Piso,Puente de Vallecas,63,3,1,0,0,0,1,1,1,143000
+Dúplex,San Blas,85,1,2,1,1,1,1,0,0,240000
+Piso,Chamberí,240,4,4,1,1,1,0,1,1,1650000
+Piso,Hortaleza,231,5,4,1,1,1,1,1,0,884000
+Piso,Centro,105,4,1,0,0,0,1,0,0,425000
+Piso,Carabanchel,64,3,1,1,1,1,1,1,1,179900
+Piso,Centro,80,2,1,1,1,1,1,0,0,480000
+Ático,Villaverde,55,1,1,1,1,1,1,1,1,145000
+Piso,Arganzuela,89,2,2,0,1,1,0,0,0,347510
+Piso,Ciudad Lineal,90,2,2,1,0,1,1,0,0,270000
+Piso,Arganzuela,101,2,2,1,1,1,1,1,0,400000
+Piso,Centro,147,6,2,0,0,1,1,0,1,699000
+Ático,Hortaleza,187,3,3,1,1,1,1,1,1,995000
+Piso,Chamartín,82,2,1,1,1,1,1,0,0,320000
+Piso,Chamartín,87,3,1,0,0,1,0,0,0,399000
+Piso,Centro,141,6,2,0,0,1,1,0,0,499649
+Piso,Villaverde,57,3,1,1,0,0,1,0,0,119000
+Piso,Chamartín,155,3,3,1,1,1,1,0,1,749000
+Piso,Centro,118,2,2,1,1,1,1,0,0,889000
+Ático,Salamanca,86,2,2,0,1,1,1,1,1,545000
+Piso,Hortaleza,58,3,1,0,0,0,0,0,1,159900
+Piso,Chamberí,156,4,3,1,1,1,1,1,1,990000
+Piso,Latina,62,3,1,0,1,1,0,0,0,198500
+Piso,Salamanca,86,2,1,1,1,1,1,0,0,849000
+Piso,Carabanchel,94,3,2,1,1,1,1,1,0,499995
+Piso,Villa de Vallecas,77,3,2,1,0,0,1,0,0,194900
+Piso,Salamanca,84,2,2,1,1,0,0,0,1,575000
+Piso,Puente de Vallecas,120,4,2,1,1,1,1,0,1,220000
+Piso,Centro,178,8,3,0,1,1,1,0,0,790000
+Piso,San Blas,48,2,1,0,0,0,0,0,1,154000
+Piso,Chamartín,283,5,4,0,0,1,1,1,1,1545000
+Piso,Centro,155,2,2,1,1,1,1,0,0,995000
+Piso,Chamartín,211,4,5,1,0,1,1,1,0,1990000
+Piso,Ciudad Lineal,118,4,2,0,0,1,1,0,0,344900
+Piso,Salamanca,158,6,2,0,0,1,1,0,0,798388
+Piso,Retiro,104,4,2,0,1,1,1,0,0,375000
+Piso,Puente de Vallecas,54,3,1,0,0,0,0,0,0,156600
+Piso,Puente de Vallecas,50,2,1,0,1,0,1,0,0,109250
+Ático,Centro,46,1,1,1,0,1,1,0,0,210000
+Piso,Salamanca,146,3,3,1,1,1,1,0,0,1075000
+Piso,Salamanca,57,1,1,0,0,0,0,0,0,113810
+Piso,Barajas,58,1,1,0,1,0,1,0,0,235000
+Piso,Ciudad Lineal,78,2,1,1,1,1,1,0,1,275000
+Piso,Ciudad Lineal,82,3,2,1,1,1,0,1,0,277737
+Piso,Chamberí,38,1,1,1,1,1,1,0,0,200000
+Piso,Hortaleza,170,3,2,1,1,1,1,0,1,585000
+Piso,Chamberí,264,4,5,1,1,1,1,0,0,2395000
+Piso,Chamartín,138,3,3,1,1,1,1,0,1,790000
+Piso,Moncloa,100,2,2,1,1,1,1,0,0,850000
+Piso,Salamanca,83,2,2,1,0,1,1,0,0,849000
+Piso,Chamartín,243,4,3,0,1,1,1,1,1,1300000
+Piso,Centro,109,2,2,1,1,0,1,0,0,605000
+Piso,Puente de Vallecas,71,3,1,0,1,0,1,0,1,168000
+Piso,Salamanca,106,2,2,1,0,1,1,0,0,995000
+Piso,Salamanca,150,4,2,1,1,1,1,0,0,980000
+Piso,Retiro,55,2,1,1,0,1,1,0,0,370000
+Piso,Chamartín,247,5,3,0,1,1,1,1,1,1475000
+Piso,Centro,120,3,2,1,1,1,1,0,0,539000
+Piso,Retiro,140,2,2,0,0,1,1,0,0,650000
+Piso,San Blas,77,3,1,0,0,0,1,0,1,200000
+Piso,Moncloa,45,1,1,1,0,1,1,0,0,290000
+Piso,Moncloa,140,3,2,1,1,1,1,0,1,565000
+Piso,Salamanca,46,1,1,0,0,1,0,0,0,348900
+Piso,Centro,124,2,2,0,1,1,1,0,0,825000
+Dúplex,Tetuán,95,3,2,1,1,1,1,1,0,449999
+Piso,Centro,87,2,1,0,1,0,0,0,1,340000
+Piso,Centro,111,3,3,1,0,1,1,0,0,849000
+Piso,Chamartín,256,5,5,1,0,1,0,1,1,2300000
+Piso,Chamartín,66,2,1,0,0,1,1,0,0,239900
+Piso,Latina,80,3,1,0,1,1,1,0,0,190000
+Piso,Fuencarral,325,7,4,1,1,1,1,1,1,1125000
+Dúplex,Centro,62,1,1,1,1,1,1,0,0,335000
+Piso,Centro,93,2,2,1,1,1,1,0,0,450000
+Piso,Chamberí,91,4,2,0,0,1,1,0,0,639000
+Piso,Carabanchel,102,3,2,1,0,1,1,0,1,295000
+Piso,Chamartín,202,5,3,0,1,1,1,0,1,1275000
+Piso,Chamartín,134,3,2,1,1,1,1,1,0,770000
+Piso,Chamartín,49,2,1,0,0,1,1,0,0,189000
+Piso,Centro,77,2,2,1,1,1,1,0,0,699000
+Piso,Latina,115,3,2,0,0,1,0,0,0,269500
+Piso,Retiro,129,2,2,1,0,1,1,0,0,379000
+Piso,Arganzuela,86,2,2,0,1,1,1,1,0,450000
+Piso,Centro,134,3,3,1,1,1,1,0,0,1199000
+Piso,Carabanchel,102,3,2,0,0,1,1,0,1,189000
+Piso,Chamberí,106,3,2,1,1,1,1,0,0,520000
+Dúplex,Ciudad Lineal,290,5,3,1,0,1,1,1,1,950000
+Piso,Latina,70,3,1,0,0,1,0,0,1,180000
+Piso,Villa de Vallecas,57,3,1,0,0,0,1,0,0,126100
+Piso,Salamanca,87,2,2,1,0,1,1,0,0,879000
+Piso,Moncloa,160,4,3,0,1,1,1,1,0,790000
+Ático,Chamartín,75,1,1,0,0,1,0,0,1,375000
+Piso,Fuencarral,79,2,1,0,0,1,1,0,1,230000
+Piso,Tetuán,126,2,1,1,1,1,1,1,0,385000
+Piso,Carabanchel,126,3,2,1,0,0,1,0,1,248000
+Piso,Chamberí,196,4,3,1,1,1,1,1,1,1300000
+Piso,Ciudad Lineal,64,3,1,0,0,0,1,0,0,173000
+Piso,Centro,151,4,2,1,0,1,1,0,1,945000
+Piso,Puente de Vallecas,59,1,1,1,0,0,0,0,0,158000
+Piso,Hortaleza,180,4,1,1,0,1,1,1,1,698000
+Ático,Salamanca,149,3,3,1,1,1,1,1,1,1650000
+Piso,Ciudad Lineal,66,3,1,0,1,1,1,0,1,199900
+Piso,Ciudad Lineal,90,3,1,1,1,0,1,0,0,196500
+Piso,Salamanca,444,5,4,0,0,1,1,1,1,2950000
+Dúplex,Fuencarral,394,6,4,0,1,1,1,1,0,1201110
+Piso,Salamanca,87,2,2,1,0,1,1,0,0,879000
+Ático,Salamanca,688,5,6,1,1,1,1,1,1,6950000
+Piso,Fuencarral,53,2,1,1,0,1,1,0,0,205000
+Piso,Ciudad Lineal,72,2,2,0,0,1,1,0,0,247098
+Piso,Salamanca,79,3,2,1,1,1,1,0,0,515000
+Piso,Chamartín,212,4,3,1,1,1,1,1,1,1260000
+Piso,Salamanca,401,8,3,1,1,1,1,1,1,3850000
+Piso,Centro,56,2,1,1,0,0,1,0,0,267000
+Ático,Centro,220,4,3,1,1,1,1,1,1,1890000
+Piso,Chamberí,126,3,3,1,0,1,1,0,0,939000
+Piso,Retiro,185,3,1,0,1,0,0,0,0,570000
+Piso,Arganzuela,36,1,1,1,1,1,1,0,0,200000
+Piso,Chamartín,63,1,1,1,1,1,1,0,1,335000
+Piso,Moncloa,193,5,2,1,1,1,1,1,1,795000
+Piso,Centro,100,3,3,1,1,1,1,0,0,859000
+Piso,Centro,70,2,2,0,0,1,0,0,0,695000
+Piso,Carabanchel,159,5,2,0,1,1,1,0,1,259000
+Piso,Usera,95,3,2,1,1,1,1,1,0,298000
+Piso,Fuencarral,122,3,2,1,1,1,1,1,0,440000
+Piso,Carabanchel,75,2,1,1,0,0,1,0,0,199000
+Piso,Salamanca,163,3,3,1,1,1,1,0,0,1890000
+Piso,Tetuán,226,4,3,1,1,1,1,1,0,900000
+Piso,Centro,185,2,2,0,1,1,1,0,0,1595000
+Piso,Carabanchel,129,4,2,0,0,1,0,0,1,279000
+Piso,Ciudad Lineal,93,1,2,0,0,1,0,0,0,169000
+Piso,Salamanca,190,4,3,0,1,1,0,0,0,1470000
+Piso,Chamberí,78,1,1,1,1,1,1,1,0,450000
+Piso,Arganzuela,160,4,2,1,1,1,1,0,1,780000
+Piso,Chamartín,198,4,3,1,1,1,1,1,1,1300000
+Piso,Moratalaz,73,3,1,0,0,0,1,0,0,189000
+Piso,Carabanchel,88,3,1,0,1,1,0,0,0,293600
+Piso,Moncloa,70,2,1,1,1,1,1,0,0,737000
+Piso,Villaverde,75,3,1,0,0,0,0,0,1,45000
+Piso,Centro,65,2,1,0,0,1,0,0,0,258571
+Piso,Moratalaz,51,2,1,0,1,1,1,0,1,116000
+Piso,Latina,89,3,2,0,1,0,1,1,1,215000
+Piso,Ciudad Lineal,121,4,2,0,1,0,1,0,1,290000
+Piso,Chamartín,202,3,3,1,1,1,1,1,0,1280000
+Piso,Salamanca,183,3,3,1,1,1,1,0,0,1899000
+Piso,Chamartín,113,3,2,1,1,1,1,1,0,685000
+Piso,Centro,50,2,1,1,0,0,1,0,1,399000
+Piso,Ciudad Lineal,53,2,1,0,1,0,1,0,1,149000
+Piso,Retiro,138,5,2,0,0,1,0,0,0,650000
+Piso,San Blas,84,3,2,1,0,1,1,0,1,235000
+Piso,Salamanca,300,4,5,1,1,1,1,1,0,4500000
+Piso,Centro,68,1,1,0,0,1,0,0,0,322500
+Piso,Salamanca,65,2,1,0,0,1,1,0,0,399000
+Piso,Puente de Vallecas,53,1,1,1,1,1,1,0,0,240000
+Piso,Moncloa,148,3,2,1,1,1,1,1,1,1500000
+Ático,Salamanca,285,4,4,0,1,1,1,0,1,4490000
+Piso,Salamanca,239,5,4,1,1,1,1,0,0,1990000
+Piso,Fuencarral,122,3,2,1,1,1,1,1,0,440000
+Piso,Salamanca,260,3,4,1,1,1,1,0,0,2545000
+Piso,Centro,25,1,1,0,0,0,1,0,0,179000
+Piso,Salamanca,49,2,1,1,1,1,1,0,0,310000
+Piso,Centro,74,2,1,1,0,1,1,0,0,349000
+Piso,Villa de Vallecas,71,3,1,1,0,0,1,0,1,177000
+Piso,Salamanca,105,2,2,1,1,1,0,1,0,1090000
+Piso,Fuencarral,72,3,1,1,0,1,1,0,1,250000
+Piso,Carabanchel,65,3,1,0,1,1,0,0,1,155000
+Piso,Carabanchel,159,4,2,1,1,1,1,0,1,385000
+Piso,Hortaleza,88,3,1,1,1,1,1,1,1,335000
+Piso,Centro,84,2,2,0,0,1,0,0,0,819000
+Piso,Tetuán,65,2,2,1,1,1,1,0,1,230000
+Piso,Retiro,45,2,1,0,0,1,0,0,0,225000
+Piso,Chamberí,125,3,3,1,1,1,1,0,0,1199000
+Piso,Carabanchel,42,1,1,1,1,0,1,0,0,175000
+Piso,Moncloa,197,3,3,1,0,0,0,0,0,1550000
+Piso,Chamberí,340,4,6,1,0,1,1,1,0,1540000
+Piso,Arganzuela,48,2,1,0,1,1,0,0,0,259000
+Piso,Chamberí,51,1,1,1,1,1,1,0,0,310000
+Ático,Moncloa,240,4,3,1,0,1,1,0,1,1150000
+Piso,Chamberí,48,1,1,1,1,1,1,0,0,290000
+Piso,Moncloa,83,3,1,0,0,1,1,0,1,315000
+Piso,Ciudad Lineal,79,3,1,1,1,1,1,0,1,195000
+Piso,Centro,121,2,2,1,0,1,1,0,0,650000
+Piso,Centro,130,3,2,0,0,1,1,0,0,650000
+Piso,Salamanca,118,3,3,1,1,1,1,0,1,1055000
+Piso,Usera,95,3,1,1,0,0,1,1,1,189000
+Piso,Chamartín,271,4,3,1,1,1,1,1,1,1830000
+Piso,Tetuán,92,2,2,1,1,1,1,1,0,454000
+Piso,Fuencarral,100,3,2,0,1,0,1,0,0,289000
+Piso,Arganzuela,86,3,1,0,0,1,1,0,1,335000
+Piso,Chamberí,35,1,1,1,1,1,1,0,0,275000
+Piso,Carabanchel,96,4,2,1,1,1,1,1,1,325000
+Dúplex,Centro,115,1,1,1,1,1,1,0,0,485000
+Piso,Puente de Vallecas,58,3,1,0,0,1,1,0,1,128000
+Piso,Centro,70,2,1,1,1,1,1,1,1,575500
+Piso,Salamanca,85,2,1,0,1,0,1,0,0,440000
+Piso,Ciudad Lineal,153,4,2,1,0,1,1,1,1,869000
+Piso,Villaverde,76,3,1,1,0,0,1,0,1,155000
+Piso,Ciudad Lineal,53,2,1,0,0,1,0,0,0,209000
+Piso,Vicálvaro,114,3,2,1,0,0,0,0,0,364500
+Piso,Ciudad Lineal,45,1,1,1,1,0,1,0,0,185000
+Piso,Arganzuela,102,3,2,1,1,1,1,0,1,460000
+Piso,Hortaleza,91,3,2,0,1,1,1,0,1,249000
+Piso,Hortaleza,65,1,1,1,1,1,1,1,0,320000
+Piso,Centro,48,1,1,1,1,1,1,0,0,327000
+Piso,Chamberí,134,3,3,1,0,1,1,0,0,1199000
+Piso,Centro,157,5,1,0,1,1,1,0,1,649000
+Piso,Salamanca,158,3,4,1,1,1,1,0,0,2200000
+Piso,Centro,102,3,3,1,1,0,1,0,0,829000
+Piso,Centro,105,3,3,0,0,1,0,0,0,890000
+Piso,Retiro,50,2,1,1,1,1,1,0,0,245000
+Piso,Centro,115,3,3,1,0,0,1,0,0,650000
+Piso,Salamanca,100,3,2,1,1,1,1,0,0,670000
+Piso,Moncloa,126,3,2,1,1,1,1,1,1,520000
+Piso,Centro,127,2,2,1,1,1,1,0,0,1400000
+Piso,Chamartín,168,2,2,1,0,1,1,1,0,1500000
+Piso,Salamanca,184,4,4,1,1,1,1,0,1,1750000
+Piso,Carabanchel,71,2,1,0,0,0,0,0,0,149000
+Piso,Moratalaz,77,3,1,1,0,1,1,0,0,179000
+Piso,Salamanca,106,2,2,1,1,1,1,0,0,995000
+Piso,Fuencarral,144,4,3,1,0,1,1,1,0,650000
+Piso,Retiro,35,2,1,0,0,1,0,0,0,265000
+Piso,Salamanca,72,2,2,1,1,1,1,0,0,759000
+Piso,Ciudad Lineal,75,2,1,0,1,1,1,0,0,319000
+Piso,Chamartín,155,3,2,1,1,1,1,0,0,799000
+Piso,Chamartín,392,5,3,0,1,1,1,1,0,2160000
+Piso,Chamberí,125,5,2,1,0,0,1,0,0,540625
+Piso,Vicálvaro,101,3,2,1,0,1,0,1,0,380000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Centro,112,3,2,0,0,1,0,0,0,700000
+Piso,Salamanca,320,4,5,1,1,1,0,0,0,3250000
+Piso,Fuencarral,90,2,2,1,1,1,0,1,0,420000
+Piso,Retiro,119,3,2,1,1,1,1,0,0,715000
+Piso,Centro,135,3,2,0,0,1,0,0,0,710000
+Piso,Retiro,123,3,1,0,0,1,1,0,0,480000
+Piso,Moncloa,70,2,1,0,1,0,0,0,0,265000
+Piso,Chamartín,49,2,1,0,1,1,1,0,0,300000
+Piso,San Blas,119,3,2,0,1,1,1,0,1,240000
+Piso,Carabanchel,70,3,1,0,1,0,1,0,0,106000
+Piso,Chamberí,190,5,3,1,1,1,1,0,1,840000
+Piso,Centro,92,2,2,1,1,0,1,0,0,810000
+Piso,Salamanca,42,1,1,1,1,0,1,0,0,275000
+Piso,Centro,50,2,1,1,0,1,1,0,0,220000
+Piso,Arganzuela,29,1,1,0,0,0,1,0,0,129000
+Piso,Chamartín,245,5,3,0,0,1,1,1,1,1200000
+Piso,San Blas,58,1,1,0,1,1,0,0,0,237500
+Piso,San Blas,85,3,1,0,0,0,1,0,1,235000
+Piso,Arganzuela,108,4,1,0,1,1,1,0,1,389000
+Piso,Salamanca,300,4,5,1,1,1,0,0,0,4340000
+Piso,Tetuán,119,3,2,1,0,1,1,1,0,515000
+Piso,Barajas,117,3,2,0,1,1,1,0,0,420000
+Piso,Carabanchel,65,3,1,0,0,0,1,0,1,135000
+Piso,Latina,75,3,1,0,1,1,0,0,0,153700
+Piso,Centro,189,2,2,0,1,1,1,0,0,590000
+Piso,Centro,94,3,3,1,1,1,0,0,1,829000
+Piso,Villaverde,50,2,1,0,0,0,1,0,1,105000
+Piso,Carabanchel,64,2,1,1,0,1,1,0,0,175000
+Piso,Centro,116,3,3,1,1,1,1,0,0,899000
+Piso,Salamanca,111,2,2,1,0,1,1,0,0,462000
+Piso,Salamanca,166,7,2,0,0,1,1,0,0,826300
+Piso,Ciudad Lineal,52,2,1,1,1,0,1,0,0,165000
+Piso,Tetuán,220,5,3,0,1,1,1,0,1,990000
+Piso,Salamanca,147,4,4,1,1,1,1,0,0,1150000
+Dúplex,Centro,150,1,3,1,1,1,1,0,0,890000
+Piso,Puente de Vallecas,86,3,2,1,1,0,1,0,1,160000
+Piso,Chamberí,130,3,4,1,1,1,1,0,1,1200000
+Piso,Salamanca,280,3,3,0,0,0,1,1,1,2950000
+Piso,Carabanchel,102,3,2,1,0,1,1,0,1,295000
+Piso,Fuencarral,85,3,1,0,1,1,0,0,1,255000
+Piso,Centro,152,2,1,1,0,1,0,0,0,980000
+Ático,Latina,69,2,1,1,1,1,1,0,1,302000
+Piso,Chamartín,159,3,3,0,1,1,1,1,1,940000
+Piso,Centro,102,3,3,1,0,1,1,0,1,829000
+Piso,Ciudad Lineal,203,4,3,0,0,1,1,1,1,820000
+Piso,Retiro,140,3,2,0,1,1,1,1,0,550000
+Piso,Usera,98,5,1,0,0,0,0,0,1,162000
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Piso,Salamanca,131,2,2,1,0,1,1,0,0,630000
+Piso,Salamanca,228,4,5,0,0,0,1,0,0,2200000
+Piso,San Blas,69,3,1,0,0,0,0,0,1,118230
+Piso,Tetuán,107,3,3,1,0,1,0,0,0,720000
+Piso,Puente de Vallecas,57,3,1,0,1,0,0,0,0,111150
+Piso,Chamartín,165,4,5,1,1,1,1,1,1,1840000
+Piso,Tetuán,50,1,1,1,0,1,0,1,0,224200
+Piso,Centro,33,1,1,0,1,1,0,0,0,245000
+Piso,San Blas,58,1,1,1,1,1,1,1,0,173000
+Piso,Fuencarral,55,2,1,0,0,1,1,0,1,215000
+Piso,Puente de Vallecas,69,3,1,0,0,0,0,0,1,146000
+Piso,Arganzuela,145,4,2,1,1,1,1,0,1,540000
+Piso,Chamberí,79,1,1,1,1,1,1,0,0,465000
+Piso,Villaverde,60,3,1,0,0,0,0,0,1,125000
+Piso,Carabanchel,73,4,1,0,1,1,1,0,1,175000
+Piso,Chamberí,102,3,2,0,0,0,1,0,0,540000
+Piso,Centro,111,3,3,1,1,1,1,0,0,849000
+Piso,Arganzuela,61,1,1,0,1,1,1,0,0,220000
+Piso,Chamberí,119,3,2,1,1,1,1,0,1,830000
+Ático,Chamberí,152,4,2,1,1,1,1,1,1,850000
+Piso,Centro,289,11,12,1,1,0,1,0,0,1800000
+Piso,Tetuán,167,4,2,0,0,1,1,0,1,730000
+Piso,Moratalaz,86,3,1,0,1,0,1,0,0,200000
+Piso,Retiro,123,3,1,0,0,1,1,0,0,480000
+Piso,Puente de Vallecas,106,3,1,1,0,1,1,0,1,174900
+Piso,Salamanca,64,2,1,1,1,1,1,0,0,290000
+Piso,Usera,60,2,1,0,0,0,0,0,0,130000
+Piso,Hortaleza,112,3,2,1,1,1,1,1,1,596000
+Piso,Latina,37,1,1,0,0,1,0,0,0,157600
+Piso,Ciudad Lineal,63,3,1,0,0,0,1,0,0,180000
+Piso,San Blas,75,3,1,0,0,1,0,0,1,262650
+Piso,Latina,80,3,1,1,0,0,0,0,0,135000
+Piso,Tetuán,54,2,1,0,0,0,1,0,0,259000
+Piso,Chamartín,105,3,1,0,1,0,1,0,1,359000
+Piso,Chamberí,153,4,3,1,1,1,1,1,1,795000
+Ático,Centro,188,3,3,1,1,1,1,0,1,1399000
+Piso,Salamanca,126,3,2,1,1,1,1,1,1,925000
+Piso,Tetuán,222,4,4,0,1,1,1,1,1,850000
+Piso,Fuencarral,113,3,2,1,1,1,1,1,1,495000
+Piso,Centro,119,3,3,1,0,1,0,0,0,959000
+Piso,Ciudad Lineal,87,3,1,1,1,1,1,1,1,220000
+Piso,Salamanca,111,2,2,0,0,0,0,0,1,462000
+Piso,Salamanca,83,2,2,1,1,1,1,0,1,849000
+Piso,Salamanca,99,2,2,1,1,1,1,0,0,490000
+Piso,Centro,208,6,2,0,1,1,0,0,1,999000
+Piso,Retiro,77,2,2,0,1,0,0,0,0,256000
+Piso,Salamanca,200,4,3,1,1,1,1,0,0,1575000
+Piso,Arganzuela,62,2,1,0,0,1,1,0,0,259000
+Piso,Hortaleza,53,1,1,1,1,1,1,1,0,422000
+Piso,Tetuán,205,5,3,0,1,1,1,1,1,960000
+Piso,Retiro,98,2,2,0,1,1,0,0,1,667000
+Piso,Vicálvaro,99,2,2,1,0,0,0,0,0,364000
+Piso,Chamberí,134,2,2,1,1,1,1,0,1,680000
+Piso,Centro,100,2,2,1,1,1,0,0,0,720000
+Piso,Retiro,199,3,2,1,0,1,1,1,0,1275000
+Piso,Carabanchel,75,3,1,0,0,0,0,0,1,164000
+Piso,Salamanca,46,1,1,0,1,1,1,1,0,348900
+Piso,Centro,102,3,3,1,1,1,1,0,1,829000
+Piso,Villaverde,107,3,2,1,1,1,0,1,0,299000
+Piso,Usera,70,2,1,1,0,0,0,0,0,155000
+Piso,Centro,45,2,1,1,1,0,1,1,0,189000
+Piso,Centro,101,2,2,1,1,1,1,0,0,829000
+Piso,Centro,75,2,2,1,1,1,1,0,0,750000
+Ático,Fuencarral,80,1,1,1,1,1,1,1,1,430000
+Piso,Arganzuela,80,2,1,1,1,1,1,0,0,350000
+Piso,Tetuán,50,2,1,1,1,0,1,0,0,198000
+Dúplex,Salamanca,70,2,2,1,1,1,1,0,0,415000
+Piso,Ciudad Lineal,132,5,3,0,0,1,1,1,0,660000
+Piso,Moncloa,75,3,1,0,1,1,1,0,1,259000
+Dúplex,Latina,42,1,1,1,1,0,1,0,0,99900
+Piso,Centro,65,2,1,1,0,1,1,0,0,480000
+Ático,Chamartín,118,2,2,1,1,1,1,1,1,800000
+Piso,Salamanca,164,4,2,1,1,1,1,0,0,1195000
+Piso,Chamartín,186,3,3,1,1,1,1,0,0,1449000
+Dúplex,Villaverde,128,3,3,0,1,1,1,1,1,315000
+Piso,Carabanchel,55,3,1,0,0,1,0,0,0,138600
+Piso,San Blas,77,3,1,0,1,0,1,0,1,206000
+Piso,Centro,28,1,1,1,1,1,1,0,0,243000
+Piso,Hortaleza,106,3,2,1,1,1,1,0,1,420000
+Piso,Centro,107,3,2,1,1,1,1,0,0,789000
+Piso,Carabanchel,105,3,2,1,1,0,1,0,1,249900
+Piso,Ciudad Lineal,164,4,2,0,0,1,1,0,1,494900
+Piso,Chamartín,134,3,2,1,1,1,1,1,0,850000
+Piso,Chamberí,145,5,5,1,1,1,1,0,0,740000
+Piso,Arganzuela,55,2,1,1,1,0,1,0,0,249000
+Piso,Salamanca,129,3,3,1,1,1,1,0,1,1080000
+Piso,Villa de Vallecas,71,3,2,1,1,1,1,0,1,279900
+Piso,Arganzuela,81,2,2,1,1,1,1,0,1,399000
+Piso,Ciudad Lineal,70,1,1,1,1,1,1,1,1,318000
+Piso,Salamanca,510,3,4,1,1,1,1,1,0,7500000
+Ático,Puente de Vallecas,190,4,2,1,1,1,1,0,1,407000
+Ático,Centro,27,1,1,1,0,0,1,1,0,92000
+Piso,Centro,133,3,4,1,1,1,1,0,0,1019000
+Piso,Puente de Vallecas,64,1,1,1,0,1,1,1,0,210000
+Piso,Arganzuela,125,3,2,1,1,1,1,1,0,525000
+Piso,Chamberí,53,2,1,0,1,0,1,0,0,279000
+Piso,Puente de Vallecas,56,2,1,1,1,0,1,0,0,136500
+Piso,San Blas,57,2,1,1,1,0,0,0,0,155000
+Piso,Salamanca,55,1,1,1,1,1,1,1,1,350000
+Piso,Puente de Vallecas,74,1,2,0,0,1,0,0,0,111000
+Piso,Centro,116,3,3,0,0,0,0,0,0,399900
+Piso,Centro,102,3,3,1,0,1,1,0,0,829000
+Piso,Carabanchel,97,4,1,0,1,1,1,0,1,273000
+Piso,Villaverde,80,2,1,0,0,0,1,0,0,130000
+Piso,Latina,60,2,1,1,0,1,1,0,0,125000
+Piso,Salamanca,49,2,1,0,0,1,1,0,1,249000
+Dúplex,Puente de Vallecas,97,2,1,1,1,0,0,0,1,158286
+Piso,Centro,32,1,1,1,1,0,1,0,0,163000
+Piso,Centro,70,3,1,1,0,0,1,0,0,339000
+Piso,Salamanca,196,3,2,1,0,1,1,0,0,1020000
+Piso,Centro,65,2,2,1,1,1,1,0,0,699000
+Piso,Tetuán,130,3,3,1,1,1,1,0,1,950000
+Piso,Arganzuela,90,2,2,1,1,1,1,1,0,409999
+Piso,Centro,77,2,2,1,1,1,1,0,0,699000
+Piso,Chamartín,204,3,2,0,0,1,1,1,1,1195000
+Piso,Ciudad Lineal,76,3,1,0,1,0,1,0,1,210000
+Piso,Centro,260,5,2,0,1,1,1,1,0,1090000
+Piso,Retiro,77,3,1,1,1,1,1,0,0,399000
+Piso,Salamanca,240,4,3,0,0,1,0,0,1,2500000
+Piso,Centro,115,3,3,1,0,1,1,0,0,859000
+Piso,Latina,88,3,1,0,0,1,1,0,1,321500
+Piso,Tetuán,206,7,3,0,1,1,1,0,1,730000
+Piso,Chamberí,75,3,1,0,0,1,1,0,0,420000
+Piso,Centro,87,3,3,1,0,1,1,0,0,719000
+Ático,Chamberí,280,5,4,1,1,1,1,1,1,2550000
+Piso,Tetuán,111,3,2,0,1,1,1,0,1,370000
+Piso,Villaverde,72,2,1,0,0,1,1,0,0,196000
+Piso,Salamanca,180,4,3,0,0,1,1,0,1,925000
+Piso,San Blas,90,3,2,1,1,1,1,0,0,320000
+Piso,Barajas,38,1,1,1,1,1,0,0,0,174950
+Piso,Ciudad Lineal,293,6,4,0,1,1,1,1,1,990000
+Piso,Ciudad Lineal,56,2,2,1,0,0,0,0,1,220000
+Piso,Salamanca,175,5,3,0,0,1,1,0,1,1090000
+Piso,Moncloa,85,4,1,0,1,0,1,0,1,249000
+Piso,Chamberí,98,4,1,0,0,1,0,0,0,450000
+Piso,Puente de Vallecas,106,3,1,1,0,1,1,0,1,195000
+Piso,Arganzuela,80,2,2,1,1,1,1,0,1,399000
+Piso,Centro,261,9,3,1,1,1,1,0,0,1095000
+Piso,Carabanchel,59,2,1,1,0,0,1,0,1,129000
+Piso,Fuencarral,52,2,1,1,0,1,1,0,1,195000
+Piso,Centro,107,3,3,1,1,1,1,0,0,789000
+Piso,Salamanca,128,3,2,1,1,1,1,0,1,1195000
+Piso,Retiro,104,2,2,0,0,1,1,0,0,412395
+Piso,Latina,71,3,1,0,0,1,1,0,1,250000
+Piso,Centro,38,2,1,0,1,0,1,0,0,165000
+Piso,Carabanchel,88,2,1,0,0,1,0,0,0,213300
+Piso,Centro,258,4,2,1,0,1,1,0,1,1200000
+Piso,Centro,75,3,1,0,0,1,0,0,0,350000
+Piso,Centro,100,3,3,1,1,1,1,0,0,789000
+Piso,Puente de Vallecas,66,1,1,1,0,0,0,0,0,228000
+Ático,Chamartín,360,4,4,1,1,1,1,1,1,2450000
+Piso,Puente de Vallecas,60,1,1,1,1,1,1,0,0,140000
+Piso,San Blas,59,1,1,1,1,1,1,1,1,268000
+Piso,San Blas,89,2,2,1,1,1,1,1,0,339000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Chamberí,38,1,1,0,1,1,1,0,0,190000
+Piso,Tetuán,57,1,1,1,0,0,0,0,0,232000
+Piso,Centro,154,3,2,1,1,1,1,0,0,890000
+Piso,Vicálvaro,120,3,2,1,0,0,0,0,0,387900
+Piso,Hortaleza,140,3,2,1,1,1,1,1,1,918000
+Piso,Tetuán,68,4,1,0,1,0,1,0,0,243000
+Piso,Centro,109,2,2,1,0,1,1,0,0,899000
+Piso,Centro,44,2,1,1,0,0,1,0,0,190000
+Piso,Puente de Vallecas,136,5,2,0,1,0,1,0,1,360000
+Piso,Fuencarral,100,3,2,1,1,1,1,0,0,360000
+Ático,Retiro,130,3,2,1,1,1,1,1,1,750000
+Piso,Retiro,108,2,2,1,1,1,1,0,1,500000
+Piso,Centro,37,1,1,1,1,1,1,0,0,200000
+Piso,Ciudad Lineal,133,4,2,1,1,1,1,1,1,685000
+Piso,Ciudad Lineal,100,4,2,0,1,1,1,0,0,299000
+Piso,Centro,41,2,1,0,1,1,0,0,0,175000
+Piso,Salamanca,138,4,2,1,0,1,1,0,0,530000
+Piso,Usera,79,3,1,0,0,1,1,0,0,150000
+Piso,Centro,55,1,1,1,1,1,1,0,0,469000
+Dúplex,Fuencarral,194,4,4,1,1,1,1,1,1,1489000
+Piso,Arganzuela,104,4,2,1,1,1,1,0,0,470000
+Piso,Salamanca,285,5,3,1,0,1,1,0,1,920000
+Piso,Latina,115,3,2,0,0,1,1,1,0,269500
+Piso,Tetuán,56,2,1,0,0,0,1,0,0,209900
+Ático,Chamartín,590,4,5,1,1,1,1,1,1,5800000
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Ático,Chamartín,825,4,4,1,1,1,1,1,1,5800000
+Piso,Centro,152,3,2,1,1,1,1,1,0,850000
+Piso,Salamanca,92,3,1,0,1,1,1,0,0,449900
+Piso,Ciudad Lineal,78,3,1,0,1,1,1,0,1,299000
+Piso,Carabanchel,61,2,1,0,0,0,1,0,0,205100
+Piso,Centro,41,1,1,1,1,1,1,0,0,270000
+Dúplex,Chamberí,375,6,5,1,1,1,1,0,1,1550000
+Piso,Chamartín,275,3,3,1,0,0,0,0,0,1422500
+Piso,Centro,93,2,2,1,1,1,1,0,1,399000
+Piso,Carabanchel,62,3,1,0,1,0,0,0,1,129000
+Piso,Salamanca,44,1,1,1,1,1,1,0,0,575000
+Piso,Villa de Vallecas,111,3,2,0,1,1,1,1,1,259000
+Piso,Chamartín,68,3,1,0,0,1,1,0,0,325000
+Piso,Centro,116,3,3,1,1,1,0,0,0,899000
+Piso,Tetuán,127,3,3,1,1,1,1,1,1,950000
+Piso,San Blas,63,3,1,0,1,0,1,0,1,135000
+Piso,Chamartín,127,3,3,1,0,1,0,0,0,950000
+Piso,Ciudad Lineal,81,3,1,1,1,0,1,0,1,210000
+Piso,Hortaleza,56,1,1,1,1,1,1,1,0,330999
+Piso,Chamartín,57,1,1,1,0,0,0,0,0,422500
+Piso,San Blas,138,4,2,1,1,1,1,1,1,325000
+Piso,Villaverde,105,3,2,0,1,1,0,0,1,194465
+Piso,Puente de Vallecas,96,3,1,0,1,1,1,0,1,125000
+Ático,Chamartín,593,4,5,1,1,1,1,1,1,2450000
+Piso,Puente de Vallecas,77,3,1,1,1,0,1,0,1,148000
+Piso,Salamanca,90,2,2,1,0,1,1,0,0,775000
+Piso,Latina,81,3,2,1,1,1,0,0,1,230000
+Piso,Salamanca,72,2,2,1,1,1,1,0,0,759000
+Piso,Salamanca,255,3,4,0,1,1,1,1,0,2290000
+Piso,Latina,78,2,2,1,1,1,1,1,0,246000
+Piso,Chamberí,145,3,4,1,1,1,1,0,0,1400000
+Piso,Arganzuela,48,2,1,0,0,1,0,0,0,259000
+Piso,Ciudad Lineal,67,3,1,1,0,1,0,0,1,230000
+Piso,Fuencarral,130,3,2,1,1,1,1,1,0,490000
+Piso,Centro,93,2,3,0,1,1,1,0,0,464000
+Piso,Tetuán,310,5,3,1,1,1,1,1,1,1350000
+Piso,Moratalaz,105,4,2,0,0,1,0,0,0,203200
+Piso,Latina,65,3,1,0,0,1,0,0,1,159000
+Piso,Chamartín,84,2,2,1,1,1,1,0,1,575000
+Piso,Retiro,131,2,2,1,0,1,1,0,0,2100000
+Piso,San Blas,93,3,1,0,1,1,0,0,1,200000
+Piso,Chamberí,524,7,4,1,0,1,1,1,1,4500000
+Piso,Carabanchel,147,4,2,0,1,1,1,1,1,335000
+Piso,Moncloa,87,2,2,1,1,1,1,0,0,526585
+Piso,Centro,130,3,2,1,1,1,1,0,0,850000
+Piso,Ciudad Lineal,182,3,2,0,0,1,1,1,1,740000
+Piso,San Blas,105,3,1,0,1,0,1,1,1,250000
+Piso,Villaverde,45,1,1,1,1,0,1,0,0,126000
+Piso,Moncloa,165,3,3,1,1,1,1,0,0,1080000
+Piso,Salamanca,191,4,3,1,0,1,0,0,0,1840000
+Piso,Carabanchel,76,2,1,1,1,0,1,0,1,145000
+Piso,Centro,60,3,2,0,1,1,1,0,0,215000
+Piso,Centro,128,2,2,1,1,1,0,0,0,1195000
+Piso,Arganzuela,116,4,2,1,1,1,1,0,1,460000
+Piso,Retiro,370,4,4,1,1,1,1,0,0,4350000
+Piso,Salamanca,94,4,1,0,0,1,1,0,0,520000
+Piso,Retiro,85,3,2,1,0,1,1,0,0,390000
+Piso,Salamanca,105,2,2,0,0,1,0,0,1,462000
+Piso,Fuencarral,81,3,2,1,1,1,1,1,1,365000
+Piso,Salamanca,110,2,2,1,1,1,1,1,0,1195000
+Piso,Carabanchel,51,3,1,0,0,0,1,0,0,139000
+Piso,Centro,148,3,2,1,1,1,1,0,1,1398000
+Piso,San Blas,54,3,1,1,1,0,1,0,0,120000
+Piso,Villaverde,49,2,1,0,0,0,1,0,0,125000
+Ático,Salamanca,300,5,5,1,1,1,1,1,1,2100000
+Piso,San Blas,104,2,2,1,1,1,1,1,1,325000
+Piso,Centro,103,3,2,1,1,1,1,0,0,680000
+Piso,Fuencarral,81,3,1,0,0,0,0,0,1,179900
+Piso,Arganzuela,90,2,2,1,1,1,1,0,1,385000
+Piso,Centro,91,2,2,1,1,1,1,0,0,819000
+Piso,Salamanca,66,2,2,1,1,1,1,0,0,679000
+Piso,Centro,115,4,1,0,0,1,1,0,1,485000
+Piso,Carabanchel,72,3,1,0,0,1,0,0,0,144000
+Piso,Ciudad Lineal,49,1,1,1,0,0,1,0,0,155000
+Piso,Carabanchel,119,3,2,1,1,1,1,1,1,280000
+Ático,Centro,62,1,1,1,1,1,1,0,1,675000
+Piso,Ciudad Lineal,275,5,3,1,1,1,1,1,1,870000
+Piso,Puente de Vallecas,58,2,1,0,0,0,0,0,1,125000
+Ático,Salamanca,74,2,1,1,1,0,1,0,1,260000
+Piso,Tetuán,83,2,1,0,1,1,1,1,0,357000
+Piso,Retiro,104,4,2,1,1,1,0,0,0,455000
+Piso,Moratalaz,101,3,2,0,1,1,1,1,1,279000
+Piso,Centro,25,1,1,0,0,0,1,0,0,179000
+Piso,Chamartín,316,5,3,1,1,1,1,1,1,1480000
+Piso,Salamanca,250,4,5,1,1,1,1,1,1,3000000
+Dúplex,Centro,64,2,1,0,0,0,0,1,0,279900
+Piso,Villaverde,70,3,1,0,0,1,0,0,1,118000
+Piso,Ciudad Lineal,75,2,1,1,1,1,1,0,0,124000
+Piso,Ciudad Lineal,68,2,2,1,1,1,1,1,0,495000
+Piso,Chamberí,178,4,3,1,1,1,0,0,0,850000
+Piso,Usera,62,2,1,0,0,0,0,0,1,125000
+Piso,Villaverde,58,3,1,0,0,0,1,0,0,93000
+Ático,Chamartín,142,4,3,1,1,1,1,0,1,950000
+Piso,Latina,51,2,1,0,0,0,1,0,0,159000
+Piso,Fuencarral,150,3,2,0,1,1,1,1,0,525000
+Piso,Tetuán,69,1,1,1,0,1,1,0,0,165000
+Piso,Salamanca,51,1,1,0,1,1,1,1,0,445000
+Piso,Centro,32,1,1,0,0,0,1,0,0,109000
+Piso,Latina,88,4,2,0,1,1,1,0,1,169000
+Dúplex,Carabanchel,50,2,2,1,1,1,1,0,0,320000
+Piso,Salamanca,144,3,1,0,1,1,1,0,0,335000
+Piso,Ciudad Lineal,92,3,1,1,0,1,1,0,0,199000
+Piso,Fuencarral,95,4,2,0,0,0,0,0,1,341000
+Piso,Centro,45,2,1,0,0,1,0,0,0,271000
+Piso,Centro,134,3,6,1,1,1,1,0,0,939000
+Piso,Latina,87,3,1,0,1,1,1,0,1,239000
+Piso,Usera,44,2,1,0,0,0,1,0,0,95000
+Piso,Hortaleza,101,2,2,0,1,1,1,0,1,425000
+Piso,Villaverde,65,2,1,0,1,1,1,0,0,120000
+Piso,Chamartín,263,5,5,1,1,1,1,1,1,2300000
+Piso,Centro,84,2,2,1,0,0,1,0,0,829000
+Piso,Moncloa,70,2,1,0,0,0,1,0,1,160000
+Piso,Villaverde,52,1,1,1,1,1,1,1,0,188000
+Piso,Ciudad Lineal,337,6,6,0,0,0,0,1,0,880000
+Piso,Salamanca,75,2,2,0,1,1,1,0,0,430000
+Piso,Retiro,322,5,4,1,1,1,0,1,1,2590000
+Piso,Hortaleza,115,3,3,1,1,1,0,1,0,524500
+Piso,San Blas,58,1,1,0,0,0,0,0,0,247500
+Piso,Arganzuela,85,2,2,0,1,1,1,0,0,460000
+Ático,Moncloa,95,2,1,1,1,1,1,1,1,578000
+Ático,Fuencarral,456,7,5,1,1,1,1,1,1,1117571
+Piso,Chamartín,120,3,3,1,0,1,1,0,0,950000
+Piso,Latina,74,3,1,1,1,1,1,0,1,185000
+Piso,Chamartín,130,3,3,1,1,1,1,0,1,950000
+Piso,Centro,181,2,3,1,1,1,1,1,0,2000000
+Piso,Arganzuela,41,1,1,0,1,1,0,0,0,250000
+Piso,Carabanchel,63,2,1,0,0,1,0,0,0,115000
+Piso,Villa de Vallecas,49,1,1,0,1,1,0,0,0,132000
+Piso,Latina,65,2,1,0,0,1,1,0,0,164500
+Piso,San Blas,114,4,1,0,1,1,1,0,1,230000
+Piso,Hortaleza,150,3,2,1,1,1,1,1,0,660000
+Ático,Fuencarral,167,4,3,1,1,1,1,1,1,850000
+Piso,Chamartín,65,3,1,0,0,1,0,0,0,292000
+Piso,Chamberí,299,10,3,1,1,1,1,0,0,1410000
+Piso,Fuencarral,140,3,2,1,1,1,1,1,1,530000
+Piso,Villaverde,117,3,1,1,0,1,1,0,1,240000
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Piso,Vicálvaro,80,3,3,1,1,0,1,0,0,296000
+Ático,Centro,110,1,1,1,1,1,1,0,1,910000
+Piso,Chamartín,145,3,3,1,1,1,1,1,0,1000000
+Piso,Carabanchel,72,2,1,1,0,0,1,0,0,142000
+Piso,Centro,25,1,1,0,0,0,1,0,0,179000
+Piso,Arganzuela,80,1,1,1,0,1,1,0,0,225000
+Piso,Chamartín,90,2,2,1,1,1,1,1,1,535000
+Piso,Centro,45,1,1,0,0,1,0,0,0,220000
+Piso,Centro,130,4,2,1,1,1,1,0,0,690000
+Piso,Salamanca,210,3,3,1,1,1,1,0,0,1560000
+Piso,Chamberí,138,4,2,0,1,1,1,1,0,828000
+Piso,Fuencarral,108,3,2,0,1,1,1,1,0,485000
+Piso,Retiro,149,4,2,0,1,1,1,0,1,550000
+Piso,Centro,387,4,3,1,1,1,1,1,0,1900000
+Piso,Chamberí,44,1,1,1,1,1,1,0,0,265000
+Piso,Tetuán,64,3,1,0,0,0,1,0,0,179000
+Piso,Centro,69,2,1,0,0,1,0,0,0,258571
+Piso,Hortaleza,64,1,1,1,1,1,1,0,0,229000
+Piso,Carabanchel,75,3,2,0,0,0,1,0,1,198000
+Piso,Villaverde,56,3,1,0,1,0,1,0,1,119000
+Piso,Centro,245,5,3,1,1,1,1,1,1,1600000
+Piso,Salamanca,271,4,3,1,1,1,1,0,0,3850000
+Piso,Chamartín,410,4,4,1,1,1,1,1,1,2490000
+Piso,Chamberí,134,4,2,0,1,1,1,0,1,625000
+Piso,Usera,108,3,2,0,1,0,0,0,1,170000
+Piso,San Blas,96,2,2,1,1,1,1,1,1,349000
+Piso,Salamanca,400,5,6,1,1,1,1,0,1,3970000
+Piso,Centro,204,6,2,0,0,1,1,0,0,960000
+Piso,Centro,57,2,1,0,1,1,1,0,0,270000
+Piso,Ciudad Lineal,60,3,1,1,1,1,1,0,1,207000
+Piso,Salamanca,157,4,2,1,0,1,1,0,0,1250000
+Piso,Ciudad Lineal,76,3,1,0,0,0,0,0,1,220000
+Piso,Ciudad Lineal,432,6,6,1,0,1,1,1,0,880000
+Piso,Puente de Vallecas,50,1,1,0,1,0,1,0,0,115000
+Piso,Arganzuela,59,3,1,0,0,0,1,0,0,236000
+Piso,Carabanchel,70,2,1,0,0,0,1,0,0,141800
+Piso,Centro,133,3,4,1,0,1,1,0,0,1019000
+Piso,Fuencarral,109,3,2,1,1,1,1,0,1,530000
+Piso,Carabanchel,109,3,2,1,1,0,1,1,1,234900
+Piso,Chamberí,209,3,3,1,1,1,1,0,0,2190000
+Piso,Chamartín,167,4,3,0,1,1,0,0,1,1001148
+Piso,Vicálvaro,60,3,1,0,0,0,1,0,1,142000
+Piso,Centro,168,3,2,0,0,1,0,0,0,854000
+Piso,Salamanca,124,3,2,1,1,1,1,0,0,1000000
+Piso,Usera,86,4,2,1,1,0,1,0,1,159000
+Piso,Carabanchel,51,3,1,0,0,0,1,0,0,139000
+Piso,Fuencarral,131,4,2,0,1,1,1,0,1,431205
+Piso,Hortaleza,65,1,1,0,1,0,1,0,0,139000
+Piso,Centro,152,3,2,1,1,1,1,1,1,850000
+Piso,Ciudad Lineal,81,2,1,0,1,1,1,0,0,285000
+Piso,Retiro,241,4,4,1,0,1,1,0,0,2630000
+Piso,Tetuán,40,1,1,1,1,0,1,0,0,126900
+Piso,Ciudad Lineal,75,3,1,1,0,1,1,0,1,200000
+Piso,Tetuán,155,4,2,1,1,1,1,0,1,530000
+Piso,Moncloa,125,3,2,1,1,1,1,0,0,550000
+Piso,Barajas,50,2,1,1,0,0,1,0,1,169000
+Piso,Latina,62,3,1,0,0,1,0,0,1,162000
+Piso,Centro,34,1,1,0,0,0,1,0,0,176000
+Piso,Arganzuela,200,4,2,1,0,1,1,1,1,1150000
+Piso,Centro,207,6,3,0,0,1,0,0,0,850000
+Piso,Vicálvaro,135,3,2,1,1,1,1,1,0,375000
+Piso,Centro,73,3,1,1,0,1,1,0,0,347000
+Ático,Chamberí,415,4,4,1,1,1,1,0,1,3600000
+Piso,Moratalaz,118,3,2,0,1,1,1,1,0,378000
+Piso,Chamberí,134,3,3,0,0,1,0,0,0,1199000
+Piso,Usera,94,3,1,1,1,1,1,1,1,530000
+Piso,Salamanca,123,4,2,0,1,1,1,0,1,840000
+Piso,Puente de Vallecas,52,2,1,0,0,0,0,0,1,123800
+Piso,Centro,90,3,3,1,1,1,1,0,0,859000
+Piso,Tetuán,65,2,1,0,1,1,1,0,0,250000
+Piso,Centro,110,3,3,1,0,1,1,0,1,839000
+Piso,Centro,261,9,3,1,0,1,1,0,0,1095000
+Piso,Salamanca,127,3,2,1,1,1,1,0,0,1050000
+Piso,Latina,98,3,2,0,1,1,1,1,1,350000
+Piso,Ciudad Lineal,55,1,1,1,1,1,1,1,0,335000
+Piso,Arganzuela,260,12,5,1,1,0,1,0,1,900000
+Piso,Carabanchel,70,3,1,0,0,1,0,0,0,106400
+Piso,Retiro,117,3,2,1,1,1,1,0,0,960000
+Piso,Retiro,322,5,3,1,1,1,1,1,1,2200000
+Piso,Retiro,120,2,2,1,1,1,1,0,1,450000
+Piso,Hortaleza,150,4,3,1,1,1,1,0,1,410000
+Piso,Centro,114,2,2,1,1,1,1,0,0,780000
+Piso,Centro,110,3,3,1,1,1,1,0,0,839000
+Piso,Centro,86,2,1,1,0,0,1,0,0,399000
+Piso,Puente de Vallecas,60,1,1,1,0,0,0,0,0,177000
+Ático,Hortaleza,125,4,3,1,1,1,1,1,1,635000
+Piso,Chamberí,171,4,2,0,0,1,0,0,1,725000
+Ático,Hortaleza,176,3,3,1,1,1,1,1,1,995000
+Piso,Salamanca,222,4,3,0,1,1,1,0,1,875000
+Piso,Usera,55,1,1,1,0,1,1,0,0,157520
+Piso,Fuencarral,165,4,2,0,1,1,0,1,0,629000
+Piso,Ciudad Lineal,85,3,1,1,1,0,1,0,0,249900
+Piso,Tetuán,58,3,1,0,1,0,1,0,1,222000
+Piso,Salamanca,240,4,4,1,1,1,0,0,0,1125000
+Piso,Barajas,72,3,1,0,0,0,0,0,1,189000
+Piso,Usera,62,2,1,0,1,1,1,0,0,125000
+Piso,Chamartín,127,3,3,1,1,1,1,0,0,950000
+Piso,Ciudad Lineal,73,4,1,0,0,1,0,0,1,183900
+Piso,Tetuán,92,2,2,1,0,0,0,0,0,454000
+Piso,Puente de Vallecas,116,4,2,1,1,1,1,1,1,173500
+Piso,Usera,67,3,1,0,1,0,0,0,1,168000
+Piso,Puente de Vallecas,92,3,2,1,1,1,1,0,0,230000
+Piso,Retiro,132,5,2,1,1,1,1,0,0,950000
+Piso,Latina,77,2,1,0,1,1,1,0,1,145000
+Piso,Arganzuela,85,3,1,0,0,1,1,0,1,385000
+Piso,Arganzuela,360,4,1,1,0,1,1,1,1,1300000
+Piso,Tetuán,68,2,1,0,1,1,1,1,0,260000
+Piso,Centro,25,1,1,1,1,0,1,0,0,180000
+Piso,Villaverde,50,2,1,1,1,0,1,1,0,139999
+Piso,Latina,71,2,1,0,1,1,0,0,0,179597
+Piso,Tetuán,127,3,3,1,1,1,1,0,0,950000
+Piso,Moratalaz,97,3,2,0,1,1,1,0,1,264000
+Piso,Carabanchel,54,2,1,0,1,0,0,0,0,165000
+Piso,San Blas,80,3,1,1,1,1,1,0,1,249000
+Piso,Vicálvaro,76,2,2,0,1,1,1,1,1,282000
+Piso,Salamanca,75,3,1,1,0,1,0,0,0,590000
+Piso,Centro,100,3,3,1,1,1,1,0,0,695000
+Piso,Centro,88,2,2,1,1,1,1,0,0,899000
+Piso,Moncloa,301,6,5,1,1,1,1,1,1,2980000
+Piso,San Blas,83,3,2,1,0,1,1,0,1,234000
+Piso,Villaverde,112,2,2,0,1,0,1,0,1,189000
+Piso,Hortaleza,305,3,3,1,1,1,1,1,0,1860000
+Piso,Barajas,190,3,2,1,1,1,1,1,1,625000
+Piso,Usera,101,3,2,0,1,1,1,0,1,150000
+Piso,Usera,64,3,1,0,1,0,1,0,0,142800
+Piso,Moncloa,128,3,2,1,1,1,1,0,0,995000
+Piso,Moncloa,155,3,2,0,0,1,0,1,0,410000
+Piso,Retiro,186,4,3,1,0,1,1,1,0,1275000
+Piso,Salamanca,255,3,4,1,1,1,1,1,0,2290000
+Piso,Centro,110,2,1,0,0,1,1,0,0,505000
+Piso,Carabanchel,70,3,1,1,0,0,1,0,1,168000
+Piso,Fuencarral,153,4,2,1,1,1,0,0,0,595000
+Piso,Salamanca,133,4,2,0,1,1,1,0,0,599999
+Piso,Tetuán,68,1,1,1,0,0,0,0,0,485000
+Piso,Centro,65,2,1,0,0,1,0,0,0,258571
+Piso,Centro,106,2,2,1,1,1,1,0,1,839000
+Piso,Hortaleza,130,2,2,0,1,1,1,1,1,460000
+Piso,Centro,225,4,4,1,1,1,1,0,0,1390000
+Piso,San Blas,110,4,2,1,1,1,1,1,1,365000
+Piso,Carabanchel,54,1,1,1,0,0,1,0,0,144999
+Piso,Fuencarral,69,1,1,0,0,1,0,0,0,242700
+Piso,Ciudad Lineal,128,3,3,0,0,1,1,1,1,635000
+Piso,Salamanca,123,1,1,1,1,0,0,1,0,409900
+Piso,Ciudad Lineal,60,1,1,0,1,1,1,1,0,310000
+Piso,Puente de Vallecas,60,3,1,0,1,0,1,0,0,155000
+Piso,Latina,109,3,2,1,1,1,1,1,0,595000
+Piso,Tetuán,209,4,3,1,1,1,1,1,1,890000
+Piso,Ciudad Lineal,60,2,1,1,1,1,1,0,0,168000
+Piso,Puente de Vallecas,69,2,1,0,1,0,1,0,0,182000
+Piso,Salamanca,136,2,3,1,1,1,1,1,0,1160000
+Dúplex,Centro,75,2,1,1,1,1,1,0,0,365000
+Piso,Salamanca,88,2,3,1,0,1,1,0,0,889000
+Piso,Centro,114,3,2,1,1,0,1,0,0,525000
+Piso,Chamberí,170,4,3,0,1,1,1,0,1,800000
+Piso,Salamanca,211,3,3,1,1,1,1,0,0,2750000
+Piso,Salamanca,80,3,2,1,1,1,1,0,0,500000
+Piso,Puente de Vallecas,60,2,1,0,1,0,1,0,1,95000
+Piso,San Blas,59,1,1,0,1,1,1,0,0,145600
+Piso,Ciudad Lineal,56,1,1,0,1,0,1,0,0,170000
+Piso,Centro,95,2,2,0,1,1,1,0,0,430000
+Piso,Ciudad Lineal,72,3,1,0,0,1,1,1,1,248000
+Piso,Salamanca,167,4,2,0,1,1,1,0,1,795000
+Ático,Retiro,228,4,3,1,1,1,1,1,1,1650000
+Piso,Usera,87,3,1,0,0,0,0,0,1,192900
+Piso,Moratalaz,89,3,1,0,0,0,1,0,0,205000
+Piso,Tetuán,187,3,3,1,1,1,1,1,0,990000
+Piso,Moncloa,251,4,3,1,1,1,1,1,1,760000
+Piso,Carabanchel,84,3,2,1,1,1,1,0,0,270000
+Piso,Centro,48,1,1,0,0,1,1,0,0,310000
+Piso,Tetuán,50,2,1,0,1,0,1,0,0,185000
+Piso,Hortaleza,254,4,3,1,1,1,1,1,0,799000
+Piso,Carabanchel,60,1,1,0,0,1,1,0,0,140000
+Piso,Barajas,92,3,1,1,1,1,1,0,1,339000
+Piso,Salamanca,102,2,2,1,1,1,1,0,0,995000
+Piso,Puente de Vallecas,70,2,1,0,1,1,1,0,0,190000
+Piso,Hortaleza,120,3,2,0,1,1,1,1,1,470000
+Piso,Barajas,117,3,2,1,1,1,0,0,0,475000
+Piso,Salamanca,94,2,2,1,1,1,1,0,0,850000
+Piso,Centro,100,2,1,1,0,1,1,0,0,480000
+Piso,Centro,106,3,3,1,1,1,1,0,0,839000
+Piso,Salamanca,117,2,1,1,1,1,1,0,0,800000
+Piso,Salamanca,40,1,1,1,1,0,0,0,1,318000
+Piso,Salamanca,40,1,1,0,0,1,1,0,0,330000
+Piso,Salamanca,66,2,2,1,1,1,1,0,1,719000
+Ático,Fuencarral,222,5,4,1,1,1,1,1,1,1401000
+Piso,Vicálvaro,50,2,1,1,1,1,1,1,0,237000
+Piso,Hortaleza,80,3,1,0,1,1,1,0,1,249000
+Piso,Usera,66,3,1,1,0,0,1,0,1,164900
+Piso,Chamartín,96,3,2,1,1,1,1,0,0,545000
+Piso,Centro,102,3,3,1,0,1,1,0,1,829000
+Piso,Usera,163,5,2,1,1,1,1,1,1,265000
+Piso,Retiro,121,4,2,1,1,1,1,0,0,535000
+Piso,Latina,102,3,1,1,1,1,1,1,1,315000
+Piso,Fuencarral,64,2,1,0,0,1,0,0,1,242700
+Piso,Carabanchel,85,4,1,0,1,0,1,0,1,179000
+Piso,Centro,84,2,2,1,1,0,1,0,0,829000
+Piso,Carabanchel,51,1,1,1,1,1,1,1,1,194900
+Piso,Chamberí,88,3,3,1,1,1,1,0,0,799000
+Piso,Salamanca,115,3,2,1,1,1,1,0,0,990000
+Piso,Tetuán,190,4,2,1,1,1,1,0,1,870000
+Piso,Chamberí,178,5,3,0,0,1,1,0,1,840000
+Piso,Salamanca,74,2,2,1,0,1,1,0,1,719000
+Piso,Hortaleza,149,3,2,0,0,1,0,0,0,540000
+Piso,Retiro,131,4,2,1,1,1,1,0,1,950000
+Piso,Chamberí,57,2,1,1,1,1,1,0,0,465000
+Ático,Fuencarral,103,3,3,1,1,1,1,1,1,755000
+Piso,Centro,225,4,4,1,1,1,1,0,0,1390000
+Piso,Centro,99,1,1,1,0,0,1,0,0,750000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Salamanca,240,3,3,1,1,1,1,1,0,2000000
+Piso,Carabanchel,102,3,2,1,1,1,1,0,1,295000
+Piso,San Blas,48,2,1,1,0,1,1,0,0,139000
+Piso,Fuencarral,57,2,1,0,0,0,0,0,0,164000
+Piso,San Blas,93,3,1,1,1,1,1,1,0,300000
+Piso,Villaverde,61,3,1,1,0,1,1,0,0,145000
+Piso,Tetuán,254,6,4,1,1,1,1,1,1,1400000
+Piso,Ciudad Lineal,78,3,1,0,1,1,1,0,1,198000
+Piso,Hortaleza,137,4,3,1,1,1,1,0,1,410000
+Piso,Puente de Vallecas,43,2,1,0,0,1,0,0,0,89000
+Piso,Centro,120,2,2,1,1,1,1,0,0,590000
+Piso,Fuencarral,165,4,2,0,1,1,1,1,1,630000
+Piso,Salamanca,83,2,2,1,1,1,1,0,0,849000
+Piso,Moratalaz,73,3,1,0,1,0,1,0,1,179598
+Piso,Chamartín,66,2,2,1,1,1,1,0,1,510000
+Piso,Moncloa,98,3,2,0,0,1,1,0,1,450000
+Piso,Centro,180,4,2,0,1,1,1,1,0,1050000
+Piso,Centro,166,5,5,1,0,1,1,0,1,859000
+Piso,Tetuán,42,1,1,1,1,1,1,0,1,209000
+Piso,Retiro,146,3,2,0,0,1,1,1,1,499900
+Piso,Carabanchel,46,1,1,1,1,0,1,0,1,125000
+Piso,Hortaleza,65,1,1,0,0,0,0,0,0,139000
+Piso,Chamartín,120,3,3,1,1,1,1,0,0,950000
+Piso,Barajas,53,2,1,1,0,0,1,0,0,168000
+Piso,Puente de Vallecas,25,1,1,1,0,0,1,0,0,87000
+Piso,Chamberí,419,8,5,0,1,1,1,1,1,2500000
+Piso,San Blas,90,3,2,1,1,1,1,0,0,207500
+Piso,Tetuán,106,3,2,1,1,1,1,1,0,330000
+Piso,Chamberí,96,3,3,1,1,1,1,0,0,799000
+Piso,Chamberí,87,2,2,0,1,1,1,0,1,526585
+Piso,Latina,80,3,1,0,1,0,1,0,1,162000
+Piso,Retiro,134,4,2,1,1,1,1,1,1,1195000
+Piso,Tetuán,73,1,1,0,0,1,0,1,0,227650
+Piso,Moratalaz,71,3,1,1,1,0,1,0,0,185000
+Piso,Chamartín,154,5,2,0,1,1,1,1,1,699000
+Piso,Ciudad Lineal,59,2,1,0,0,0,1,0,1,159500
+Piso,Arganzuela,86,3,1,0,1,1,1,0,1,335000
+Piso,Moncloa,184,5,2,1,1,1,1,0,1,898000
+Piso,Chamberí,131,4,2,1,0,1,1,1,0,780000
+Piso,Centro,99,2,2,1,1,1,1,0,0,889000
+Ático,Chamartín,118,2,2,1,1,1,1,1,1,800000
+Piso,Moncloa,205,3,4,0,1,1,0,0,0,1500000
+Piso,Ciudad Lineal,60,2,1,0,1,1,1,0,0,180000
+Piso,Salamanca,107,3,2,1,1,1,1,0,0,560000
+Piso,Carabanchel,63,3,1,0,1,0,0,0,0,130000
+Piso,Centro,133,3,3,1,1,1,1,0,1,850000
+Piso,Chamartín,230,5,3,0,0,1,1,1,1,1270000
+Piso,Arganzuela,148,4,2,1,1,1,1,0,1,585000
+Piso,Centro,103,3,1,0,0,1,0,0,0,480000
+Piso,Retiro,120,2,2,1,0,1,1,1,0,1090000
+Piso,Centro,320,4,5,1,1,1,1,0,0,4500000
+Piso,Salamanca,100,2,1,0,0,1,1,0,0,359000
+Piso,Centro,46,2,1,1,0,1,1,1,0,185000
+Piso,Chamberí,106,2,2,1,1,1,1,0,0,1290000
+Piso,Salamanca,161,3,2,1,1,1,1,1,0,1050000
+Piso,Chamberí,261,6,3,0,1,1,1,0,1,880000
+Piso,Usera,116,3,2,0,1,1,1,1,0,340000
+Piso,Arganzuela,135,4,3,1,1,1,1,1,0,549000
+Piso,Latina,78,2,2,1,1,1,1,1,0,246000
+Piso,Centro,58,2,1,1,0,1,1,0,0,275000
+Piso,Villa de Vallecas,50,2,1,1,0,0,1,0,1,140000
+Piso,Puente de Vallecas,60,2,1,0,0,0,0,0,1,123800
+Piso,Moncloa,75,3,2,1,1,1,1,0,0,136000
+Piso,Centro,66,2,1,0,0,1,0,0,0,265000
+Piso,Fuencarral,76,3,1,0,0,1,1,0,1,260000
+Piso,Chamberí,118,2,2,0,1,1,1,0,0,920000
+Piso,Villa de Vallecas,82,2,2,1,1,1,1,0,1,278900
+Piso,Moncloa,77,3,1,0,1,1,0,0,1,630000
+Piso,Puente de Vallecas,66,3,1,0,0,0,0,0,1,120000
+Ático,Ciudad Lineal,265,6,4,1,1,1,1,1,1,1145000
+Piso,Puente de Vallecas,75,2,1,0,0,1,0,0,0,121236
+Piso,Tetuán,112,2,2,1,0,0,0,0,0,628000
+Piso,Villaverde,70,3,1,0,0,0,1,0,1,147000
+Piso,Centro,40,1,1,0,0,1,1,0,0,236000
+Piso,Salamanca,83,2,2,1,0,1,1,0,0,849000
+Piso,Latina,58,2,1,0,1,1,1,0,1,190000
+Piso,Hortaleza,110,3,2,1,1,1,1,0,1,362000
+Piso,Tetuán,38,1,1,0,0,1,0,0,1,223600
+Piso,Chamberí,61,1,1,1,1,1,1,0,0,585000
+Piso,Hortaleza,75,2,2,1,1,1,1,1,0,495000
+Piso,Puente de Vallecas,79,1,1,0,0,0,1,0,0,177600
+Piso,Salamanca,171,3,3,1,1,1,1,0,0,1500000
+Piso,Latina,90,2,3,1,0,0,1,0,0,219000
+Piso,Retiro,103,2,2,0,0,1,0,0,0,412395
+Piso,Moncloa,142,3,2,1,1,1,1,0,1,730000
+Piso,Centro,76,2,1,1,0,1,1,0,0,485000
+Piso,Latina,91,2,1,1,1,1,1,0,1,273000
+Piso,Centro,125,3,3,1,1,1,1,0,0,1199000
+Piso,Centro,55,1,1,1,1,1,1,0,0,469000
+Piso,Centro,99,3,3,1,1,1,1,0,0,859000
+Piso,Villaverde,38,1,1,1,1,1,1,0,0,99000
+Piso,Chamberí,89,3,2,1,0,1,1,0,1,615500
+Piso,Villaverde,133,2,2,1,1,1,1,1,0,285000
+Piso,Moncloa,215,3,4,0,1,1,1,0,1,1256375
+Piso,Usera,62,2,1,0,0,1,1,0,1,150000
+Piso,Hortaleza,212,3,2,1,1,1,1,1,1,798000
+Piso,Centro,29,1,1,0,1,1,1,0,1,175000
+Piso,Tetuán,158,3,2,1,1,1,1,1,0,575000
+Piso,Centro,100,3,3,1,1,1,1,0,0,789000
+Piso,Puente de Vallecas,72,1,2,0,0,1,0,0,0,93500
+Piso,Salamanca,350,5,5,0,1,1,1,0,0,3650000
+Piso,Salamanca,83,2,2,1,1,1,1,0,0,849000
+Piso,Carabanchel,64,2,1,1,0,1,1,0,0,175000
+Piso,Chamartín,186,3,2,1,1,1,1,0,1,1449000
+Piso,San Blas,75,3,1,0,1,1,0,0,1,210000
+Piso,Centro,248,3,2,1,0,1,1,0,0,3280000
+Piso,Chamartín,149,3,2,1,0,1,1,1,0,860000
+Piso,Ciudad Lineal,100,3,1,1,0,1,1,1,1,245000
+Piso,Puente de Vallecas,84,3,1,0,0,1,0,0,0,127000
+Piso,Chamartín,276,4,5,1,0,1,1,1,0,2200000
+Piso,Fuencarral,171,4,2,0,1,1,1,1,1,810000
+Piso,Chamberí,55,2,1,0,0,1,1,0,0,193000
+Piso,Fuencarral,60,2,2,1,0,0,1,0,1,225000
+Piso,Carabanchel,96,2,1,1,1,1,1,1,1,225000
+Piso,Puente de Vallecas,73,3,1,0,0,0,1,0,0,115200
+Piso,Salamanca,444,6,4,0,1,1,1,0,1,3275000
+Piso,Tetuán,112,2,2,1,1,1,1,1,1,710000
+Piso,Moratalaz,90,3,2,0,1,1,1,0,1,250000
+Piso,Centro,29,1,1,0,1,0,0,0,0,195000
+Piso,Arganzuela,54,1,1,1,1,0,1,0,0,229000
+Piso,Villaverde,56,3,1,0,0,1,1,0,0,95000
+Piso,Centro,387,4,3,1,1,1,1,1,0,1900000
+Piso,Chamberí,96,3,3,1,1,1,1,0,0,799000
+Piso,Salamanca,252,3,4,1,1,1,1,0,0,3495000
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Piso,Villa de Vallecas,94,2,2,0,0,1,1,0,0,169000
+Piso,Carabanchel,88,2,2,1,1,1,1,1,0,279000
+Piso,Puente de Vallecas,70,3,1,0,1,1,1,0,1,185000
+Piso,Centro,35,1,1,0,0,0,1,0,0,248000
+Piso,Fuencarral,52,2,1,0,1,1,1,0,1,224900
+Dúplex,Arganzuela,70,1,1,1,1,0,0,0,1,375000
+Piso,Centro,48,1,1,0,0,1,1,0,0,193000
+Ático,Carabanchel,109,2,2,1,1,1,1,1,1,360000
+Piso,Salamanca,320,3,3,1,1,1,1,1,0,4900000
+Piso,Chamartín,79,2,1,1,1,0,1,0,0,305000
+Piso,Salamanca,90,2,2,1,1,1,1,0,0,849000
+Piso,Salamanca,60,1,1,1,1,1,1,1,0,450000
+Ático,Ciudad Lineal,120,3,2,1,1,1,1,0,1,800000
+Piso,Carabanchel,72,3,1,1,1,1,1,0,1,155000
+Ático,Chamberí,104,2,2,1,1,1,1,0,1,850000
+Piso,Centro,119,3,3,1,1,1,0,0,0,959000
+Piso,Ciudad Lineal,320,4,4,1,1,1,1,1,1,1495000
+Piso,Puente de Vallecas,100,4,2,0,0,0,0,0,1,152700
+Piso,San Blas,94,3,1,1,1,1,1,0,1,216900
+Piso,Centro,97,3,3,1,1,1,1,0,0,890000
+Piso,Usera,98,4,2,1,1,1,1,1,1,275000
+Dúplex,Chamberí,82,1,2,1,0,1,1,0,0,499000
+Piso,Moratalaz,90,3,1,0,1,1,1,0,1,234000
+Piso,Centro,90,1,1,0,1,1,1,0,0,285000
+Piso,Retiro,147,4,3,1,1,1,1,0,1,549000
+Piso,Puente de Vallecas,95,2,1,0,1,1,0,0,1,197000
+Piso,Usera,88,3,1,1,0,0,1,0,1,215000
+Piso,Carabanchel,54,2,1,1,0,0,0,0,1,104990
+Piso,Centro,225,3,3,1,1,1,0,1,0,2400000
+Piso,Villa de Vallecas,147,2,2,1,1,1,1,1,0,275000
+Piso,San Blas,80,2,1,1,1,1,1,0,0,235000
+Piso,Salamanca,147,4,4,1,1,1,1,0,0,1150000
+Piso,Centro,51,2,1,1,0,0,0,0,0,199000
+Piso,Centro,112,3,3,1,1,1,1,0,0,959000
+Piso,Chamberí,89,3,1,0,0,1,1,0,0,407000
+Dúplex,Hortaleza,138,2,2,1,1,1,1,0,1,625000
+Piso,Salamanca,70,2,2,1,1,1,1,0,0,378000
+Piso,San Blas,85,2,2,0,1,1,1,0,1,235000
+Ático,Villa de Vallecas,196,3,2,1,1,1,1,0,1,575000
+Ático,Fuencarral,464,6,4,1,1,1,1,1,1,1139771
+Piso,Carabanchel,49,4,1,0,0,0,0,0,1,143000
+Piso,Carabanchel,93,4,1,1,1,1,1,0,0,260000
+Ático,Moncloa,150,4,2,0,1,1,1,0,1,990000
+Ático,Centro,19,1,1,0,0,0,1,0,0,180000
+Piso,Latina,88,3,1,0,0,1,0,0,1,156000
+Piso,Salamanca,69,2,2,1,1,1,1,0,0,679000
+Piso,Latina,66,3,1,0,0,1,1,1,0,150500
+Piso,Tetuán,71,1,1,1,0,0,0,0,0,240000
+Piso,Centro,102,3,3,0,1,0,1,0,1,829000
+Piso,Arganzuela,98,3,1,0,0,1,1,0,0,360000
+Piso,Salamanca,83,2,2,1,1,1,0,0,0,849000
+Piso,Hortaleza,61,2,1,1,1,1,1,0,0,269000
+Ático,Hortaleza,61,2,1,1,1,1,1,1,1,269000
+Piso,Puente de Vallecas,96,3,2,0,0,1,1,0,0,250000
+Piso,Villaverde,62,2,1,1,1,0,1,0,0,107000
+Piso,Centro,157,3,2,0,0,1,1,0,1,955000
+Piso,Salamanca,95,2,2,1,1,1,0,0,0,1230721
+Piso,Carabanchel,94,4,2,0,0,0,1,0,0,149000
+Piso,Villaverde,77,3,1,1,0,0,1,0,0,145000
+Piso,Puente de Vallecas,127,3,2,0,1,1,0,1,0,295000
+Piso,Chamberí,73,2,2,1,1,1,1,0,0,500000
+Piso,Salamanca,94,4,1,0,0,1,1,0,0,520000
+Piso,Salamanca,291,4,4,1,1,1,1,1,1,4200000
+Piso,Centro,46,2,1,1,0,0,1,0,0,265000
+Piso,Salamanca,102,3,3,1,1,1,1,0,1,889000
+Piso,Tetuán,95,2,2,1,1,1,0,0,1,899000
+Piso,Arganzuela,145,5,5,0,0,1,0,0,0,319820
+Piso,Hortaleza,60,2,1,0,0,0,1,0,1,241200
+Piso,Retiro,100,3,2,1,1,1,0,1,1,550000
+Piso,Centro,70,1,1,1,1,0,1,0,1,285000
+Piso,Centro,87,3,1,0,0,0,1,0,1,420000
+Piso,Usera,86,4,1,1,1,1,1,0,1,165000
+Piso,Barajas,100,3,2,0,0,1,0,0,1,349000
+Piso,Chamberí,96,3,3,1,1,1,1,0,0,799000
+Piso,Centro,94,3,3,1,1,0,1,0,1,829000
+Piso,Arganzuela,84,3,2,1,1,1,0,0,0,385000
+Piso,Centro,190,1,2,1,1,1,1,0,0,547000
+Piso,Retiro,82,3,1,0,0,1,1,0,0,260000
+Dúplex,Centro,95,2,2,1,1,1,1,0,1,990000
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Piso,Salamanca,140,3,2,1,1,1,1,1,1,850000
+Piso,Centro,101,2,2,1,0,0,1,0,0,829000
+Piso,San Blas,80,3,2,0,1,1,1,0,0,185000
+Piso,Fuencarral,133,3,2,1,1,0,0,1,1,619999
+Piso,Carabanchel,46,1,1,1,1,0,1,0,1,125000
+Piso,Salamanca,100,3,2,0,1,1,1,1,1,610000
+Piso,Centro,47,1,1,0,0,1,1,0,1,259900
+Piso,Chamberí,82,2,2,1,1,1,1,0,0,525000
+Ático,Fuencarral,102,2,2,1,1,1,1,1,1,462000
+Piso,Tetuán,395,4,5,1,1,1,0,1,0,3600000
+Piso,Salamanca,48,2,1,1,0,1,1,0,0,269000
+Piso,Centro,182,3,4,1,1,1,1,0,1,1490000
+Piso,Ciudad Lineal,73,3,1,0,0,1,1,0,0,289000
+Piso,Tetuán,150,4,2,0,1,0,1,0,1,395000
+Apartamento,Hortaleza,65,1,1,0,1,0,0,1,0,335000
+Piso,Centro,119,3,3,1,1,1,1,0,0,959000
+Piso,Arganzuela,62,2,1,0,0,1,1,0,0,259000
+Piso,San Blas,90,3,1,0,1,0,0,0,0,168600
+Piso,Hortaleza,125,2,2,1,1,1,1,1,0,585000
+Piso,Salamanca,66,2,2,1,1,1,1,0,0,679000
+Piso,Salamanca,71,2,1,1,1,1,1,0,1,420000
+Piso,Centro,148,3,1,0,0,0,0,0,0,611600
+Piso,Chamberí,64,2,1,1,1,1,1,0,0,247200
+Piso,Latina,85,3,1,1,1,1,1,0,1,195000
+Piso,Salamanca,76,2,2,1,1,1,0,0,0,849000
+Piso,Fuencarral,83,3,1,1,1,1,1,0,1,305000
+Piso,Chamberí,88,3,3,0,0,0,0,0,0,799000
+Ático,Centro,45,2,1,1,1,1,1,0,1,390000
+Piso,Moncloa,186,4,4,1,1,1,1,0,0,859000
+Piso,Chamartín,237,3,3,1,1,1,1,1,1,1460000
+Piso,Centro,140,2,3,1,1,0,1,0,0,645000
+Piso,Ciudad Lineal,59,1,1,1,1,0,1,0,0,156000
+Piso,Tetuán,80,3,1,0,1,0,1,0,1,225000
+Piso,Carabanchel,96,2,1,0,1,1,1,1,1,290000
+Piso,Latina,98,3,2,1,0,0,1,0,0,182000
+Piso,Ciudad Lineal,96,3,1,1,1,0,1,1,1,350000
+Piso,Chamberí,60,2,1,0,0,1,1,0,0,320000
+Piso,Villa de Vallecas,92,3,1,1,0,0,1,1,1,300000
+Piso,Puente de Vallecas,57,2,1,0,1,0,1,0,0,137900
+Dúplex,Ciudad Lineal,99,3,3,1,1,0,1,0,0,315000
+Piso,Centro,68,1,1,1,1,1,1,0,1,432256
+Piso,Fuencarral,130,4,2,1,1,1,1,1,0,490000
+Piso,Fuencarral,90,2,2,1,1,1,1,1,1,399000
+Piso,Centro,214,3,4,0,1,1,1,0,0,1640000
+Piso,Vicálvaro,62,2,1,0,1,0,0,1,0,129000
+Piso,Salamanca,58,2,1,0,1,1,1,0,0,410000
+Piso,Salamanca,283,4,4,0,1,1,0,1,1,2885000
+Piso,Carabanchel,115,3,2,1,1,1,1,1,0,455000
+Piso,Chamberí,40,1,1,0,0,0,1,0,0,229000
+Dúplex,Tetuán,55,2,1,0,1,0,1,0,0,170000
+Piso,Latina,87,3,1,0,0,1,1,0,1,259900
+Piso,Chamberí,148,3,3,1,1,1,1,0,0,949000
+Piso,Puente de Vallecas,65,1,1,0,0,1,0,0,0,180000
+Piso,Carabanchel,58,1,1,0,1,0,1,0,0,300000
+Piso,Ciudad Lineal,61,2,1,1,1,1,1,0,0,228000
+Piso,Puente de Vallecas,58,2,1,1,0,0,1,0,1,133000
+Piso,Fuencarral,117,3,2,1,1,1,1,0,1,359000
+Piso,Chamberí,109,2,3,1,1,1,1,0,0,899000
+Piso,Fuencarral,65,2,1,0,1,0,1,0,0,138999
+Piso,Ciudad Lineal,71,2,1,0,0,1,1,0,1,160000
+Piso,Carabanchel,102,3,2,1,1,1,1,0,1,189000
+Piso,Centro,119,3,3,1,1,1,1,0,0,959000
+Piso,Arganzuela,100,3,1,1,1,1,1,1,0,449000
+Piso,Tetuán,146,3,2,1,1,1,1,1,1,762000
+Piso,Puente de Vallecas,104,3,2,1,1,0,1,0,1,142000
+Piso,Carabanchel,75,3,1,0,0,1,0,0,0,145500
+Piso,Chamberí,108,2,2,1,1,1,1,0,1,630000
+Piso,Hortaleza,45,1,2,1,1,1,1,1,0,307000
+Piso,Carabanchel,94,4,2,0,0,0,1,0,0,149000
+Piso,Puente de Vallecas,76,3,1,0,0,1,0,0,0,105000
+Piso,Centro,106,2,2,1,0,1,1,0,1,635000
+Piso,Salamanca,165,4,4,1,1,1,0,0,0,1900000
+Dúplex,Moncloa,203,4,3,1,1,1,1,1,1,750000
+Piso,Tetuán,79,3,1,0,0,1,0,0,1,403000
+Piso,Chamartín,276,4,4,1,1,1,0,1,1,2200000
+Piso,Moncloa,155,5,3,1,1,1,1,1,1,750000
+Piso,Tetuán,98,3,2,0,1,1,1,1,0,365000
+Piso,San Blas,75,3,1,0,0,1,0,0,1,262650
+Piso,Centro,107,3,2,0,0,1,0,0,0,550000
+Piso,Centro,106,3,3,1,1,1,1,0,0,839000
+Piso,Salamanca,42,1,1,0,1,1,1,0,0,255000
+Piso,Chamberí,321,3,3,0,1,1,1,0,0,1490000
+Piso,Arganzuela,48,2,1,0,1,1,0,0,0,259000
+Piso,Usera,88,2,2,1,1,1,1,1,1,224500
+Piso,Chamartín,265,5,5,1,1,1,1,1,1,2300000
+Piso,Centro,275,9,3,0,0,1,0,0,0,1095000
+Piso,Usera,64,2,1,0,0,0,0,0,1,125500
+Piso,Centro,57,3,1,0,0,0,0,0,0,349723
+Piso,Latina,50,1,1,0,0,0,1,0,0,140000
+Piso,Villaverde,159,3,2,0,1,1,1,1,0,227000
+Piso,Usera,71,1,1,0,0,0,0,0,0,431400
+Piso,Retiro,173,4,2,1,1,1,1,0,1,1150000
+Piso,Centro,309,5,3,1,0,1,1,0,0,2250000
+Piso,Ciudad Lineal,147,3,2,0,1,1,1,1,1,780000
+Piso,Tetuán,54,1,1,0,1,1,0,0,0,350000
+Dúplex,Villa de Vallecas,92,2,2,1,1,0,0,1,1,169999
+Piso,Villaverde,127,3,2,1,1,1,1,1,1,249900
+Piso,Centro,91,2,2,1,1,1,1,0,0,819000
+Piso,Tetuán,74,2,1,0,0,0,1,0,0,166000
+Piso,Barajas,85,3,1,0,1,0,1,0,1,205000
+Piso,Carabanchel,225,4,4,0,1,0,1,1,0,345000
+Piso,Carabanchel,119,3,2,1,1,1,1,1,1,280000
+Piso,Centro,53,1,1,0,1,1,1,0,0,229000
+Piso,Centro,110,3,3,1,0,1,0,0,0,839000
+Piso,Salamanca,18,1,1,0,0,1,1,0,0,210000
+Piso,Puente de Vallecas,99,3,2,0,1,1,1,0,0,182000
+Piso,Chamartín,198,4,3,1,1,1,1,1,1,1300000
+Piso,Tetuán,152,3,3,1,0,1,1,0,1,1349000
+Piso,Villaverde,110,4,1,0,0,1,1,0,0,218900
+Piso,Moncloa,172,3,4,1,1,1,1,1,1,997700
+Ático,Moncloa,95,2,2,1,1,1,1,1,1,515000
+Piso,San Blas,58,1,1,0,1,1,0,0,0,237500
+Piso,Arganzuela,84,3,1,0,0,1,1,0,1,370000
+Piso,San Blas,94,3,1,1,0,0,1,0,0,212000
+Piso,Centro,48,1,1,1,1,1,1,1,1,190000
+Piso,Tetuán,118,4,2,1,1,1,1,1,1,499000
+Piso,Centro,60,1,1,1,1,0,1,0,0,375000
+Piso,Salamanca,152,3,2,1,1,1,1,0,0,1050000
+Piso,Salamanca,306,5,3,1,1,1,1,1,1,3900000
+Piso,Chamberí,132,3,2,0,0,1,1,0,0,675000
+Piso,Villa de Vallecas,88,3,2,1,1,1,1,0,1,214900
+Piso,Salamanca,285,4,5,1,0,1,1,0,1,4250000
+Piso,Centro,218,3,2,0,0,1,1,0,0,1990000
+Piso,Chamartín,258,2,3,1,1,1,1,1,1,1875000
+Piso,San Blas,96,2,2,1,1,1,1,1,1,390000
+Piso,Carabanchel,72,2,1,1,0,1,1,0,1,164000
+Piso,Centro,53,1,1,0,1,1,1,0,0,229000
+Piso,Puente de Vallecas,59,1,1,0,0,1,0,1,0,87000
+Piso,Puente de Vallecas,51,2,1,1,1,0,0,0,1,135000
+Piso,Barajas,111,3,2,0,1,1,0,1,0,402500
+Piso,Centro,75,1,1,1,1,1,0,0,0,344900
+Piso,Salamanca,405,4,3,0,0,1,0,0,0,5000000
+Piso,Chamberí,280,5,4,1,1,1,1,1,1,1375000
+Piso,Usera,128,4,2,0,0,1,0,0,0,287945
+Piso,Hortaleza,115,3,1,1,1,1,1,0,1,325000
+Piso,Salamanca,222,4,4,1,0,1,1,1,0,1685000
+Piso,Moncloa,62,2,1,0,0,1,1,1,1,198999
+Piso,Centro,89,3,3,1,1,1,1,0,0,849000
+Piso,Chamberí,47,2,1,1,0,0,1,0,0,275000
+Piso,Chamberí,214,4,4,1,1,1,1,0,0,2600000
+Piso,Hortaleza,72,3,1,0,0,1,1,0,1,289000
+Ático,Arganzuela,110,5,2,0,0,1,1,0,1,639000
+Piso,Barajas,40,1,1,1,1,0,1,1,0,164900
+Piso,Centro,82,3,1,0,0,1,1,0,0,379000
+Piso,Arganzuela,56,3,1,0,0,1,1,0,0,190000
+Piso,Ciudad Lineal,83,3,1,1,1,0,1,0,1,190000
+Piso,Centro,107,3,3,1,1,1,1,0,0,789000
+Piso,Arganzuela,75,2,1,0,1,1,1,0,0,325000
+Piso,Chamberí,132,3,1,0,0,0,1,0,0,675000
+Piso,Centro,247,3,3,1,1,1,1,1,0,1950000
+Piso,Puente de Vallecas,81,3,1,1,1,1,1,0,1,133000
+Piso,Moncloa,216,3,3,1,0,1,1,0,0,1200000
+Piso,Hortaleza,145,2,2,1,1,1,1,0,1,399000
+Piso,Moncloa,65,2,1,0,1,0,1,0,0,310000
+Piso,Centro,37,1,1,0,0,0,1,0,0,148000
+Piso,Centro,97,3,3,1,1,1,1,0,1,890000
+Piso,Salamanca,90,2,3,0,1,1,1,0,0,875000
+Dúplex,Retiro,476,3,2,1,0,1,0,0,0,3500000
+Piso,Puente de Vallecas,74,2,1,0,0,1,0,0,1,147000
+Piso,Centro,200,4,2,1,1,1,0,0,1,970000
+Piso,Arganzuela,95,3,1,0,1,1,0,0,1,365000
+Ático,Retiro,100,2,2,1,1,1,1,0,1,990000
+Piso,Centro,117,2,2,1,1,1,1,0,0,675000
+Piso,Centro,101,2,2,1,1,1,1,0,0,829000
+Piso,Centro,82,3,2,1,1,1,1,0,0,360000
+Piso,Latina,86,3,1,1,1,1,1,0,0,167000
+Piso,Latina,288,9,3,0,0,1,0,0,1,700000
+Piso,Usera,84,3,1,1,1,0,1,0,0,169900
+Ático,Fuencarral,110,2,2,1,1,1,0,1,1,420000
+Ático,Salamanca,249,5,3,1,1,1,1,1,1,1680000
+Piso,Salamanca,320,4,4,1,1,1,0,0,0,3900000
+Dúplex,Tetuán,74,2,2,1,0,0,1,0,0,280000
+Piso,Tetuán,286,3,4,1,1,1,1,1,1,1500000
+Piso,Chamberí,73,1,1,1,1,1,1,1,0,622700
+Piso,Villa de Vallecas,93,2,2,0,1,1,1,0,0,169000
+Piso,Moncloa,78,3,1,1,1,1,1,1,1,269000
+Piso,Puente de Vallecas,60,1,1,0,1,0,1,0,1,130000
+Piso,Latina,67,2,1,1,0,0,1,0,1,240000
+Piso,Centro,109,2,3,1,1,1,1,0,0,899000
+Piso,Centro,99,2,2,1,0,1,1,0,0,889000
+Piso,Puente de Vallecas,76,3,1,0,1,0,0,0,1,153000
+Dúplex,Latina,139,3,2,0,1,0,1,0,1,330000
+Piso,Hortaleza,156,3,3,1,1,1,1,1,1,1052000
+Piso,Salamanca,186,7,2,0,0,1,0,0,1,750000
+Piso,Puente de Vallecas,72,2,1,0,0,1,1,1,0,155000
+Piso,Latina,67,2,1,1,0,1,1,0,1,240000
+Dúplex,San Blas,61,1,1,1,1,1,1,1,1,255000
+Piso,Salamanca,102,2,2,1,1,1,1,0,0,995000
+Piso,Villa de Vallecas,83,2,2,0,1,1,1,1,0,260000
+Piso,Centro,94,3,3,1,0,0,1,0,1,829000
+Piso,Chamartín,234,4,2,1,1,1,1,1,1,1017100
+Piso,Puente de Vallecas,57,2,1,0,0,0,1,0,0,120000
+Piso,Salamanca,97,4,1,0,1,1,1,0,0,520000
+Piso,Hortaleza,103,2,2,1,1,1,1,1,0,429800
+Piso,Puente de Vallecas,71,3,1,0,1,1,1,0,1,199000
+Piso,Arganzuela,76,2,1,0,1,1,1,0,1,355000
+Piso,Centro,60,1,1,0,0,0,1,0,0,230000
+Piso,Chamartín,243,4,3,1,1,1,1,1,1,1250000
+Piso,San Blas,118,3,2,0,1,1,0,0,1,259900
+Piso,San Blas,97,2,2,1,1,1,1,0,0,240000
+Piso,Villaverde,86,3,2,0,1,1,1,1,0,244000
+Piso,Moncloa,60,1,1,1,1,1,1,1,0,309000
+Piso,Salamanca,105,3,2,1,1,1,1,0,0,650000
+Piso,Hortaleza,75,3,1,0,0,1,0,0,1,199000
+Piso,Latina,65,2,1,0,0,1,1,0,1,170000
+Piso,Salamanca,53,3,1,0,1,1,1,0,0,300000
+Ático,Centro,85,2,1,1,1,1,1,0,1,520000
+Piso,Moncloa,352,5,4,1,1,1,1,1,0,2200000
+Piso,Centro,106,3,3,1,0,1,1,0,0,899000
+Piso,Carabanchel,115,3,2,1,1,1,1,1,0,455000
+Piso,Chamberí,68,2,1,0,1,1,0,0,0,229000
+Piso,Latina,64,2,1,0,0,1,1,0,0,161300
+Piso,Chamartín,186,3,3,1,1,1,1,0,1,1449000
+Piso,Centro,78,1,1,1,1,1,1,0,0,465000
+Piso,Salamanca,137,3,2,0,0,0,0,0,0,602000
+Piso,Moncloa,81,3,1,0,1,1,1,0,1,230000
+Piso,Salamanca,123,3,2,1,1,1,0,1,0,370000
+Piso,Retiro,194,4,3,1,1,1,1,1,1,760000
+Piso,Tetuán,200,4,3,1,1,1,1,0,1,730000
+Piso,Chamartín,282,4,3,0,0,1,1,1,1,950000
+Piso,Chamberí,78,2,1,0,1,0,0,0,0,360000
+Piso,Chamberí,226,4,4,1,1,1,1,1,1,1200000
+Piso,Salamanca,288,3,4,1,1,1,1,0,0,3650000
+Piso,Carabanchel,31,1,1,1,1,0,1,0,1,129900
+Piso,Chamartín,77,3,1,0,1,1,1,0,0,380000
+Piso,Centro,93,2,1,1,1,1,1,0,0,475000
+Piso,Moncloa,142,4,2,0,1,1,1,0,0,350000
+Piso,Chamberí,367,5,4,1,1,1,1,0,1,1825000
+Piso,Arganzuela,90,3,2,0,1,1,1,0,1,420000
+Piso,Chamberí,140,4,3,0,1,1,1,1,1,1050000
+Piso,Arganzuela,98,4,2,0,1,1,1,0,1,435000
+Piso,Tetuán,58,1,1,1,0,0,0,0,0,428000
+Dúplex,Centro,42,3,2,1,1,0,1,1,0,245000
+Piso,Ciudad Lineal,70,2,1,0,1,1,1,0,0,185000
+Piso,Chamartín,134,3,2,1,1,1,1,1,0,850000
+Piso,San Blas,95,3,1,0,0,1,1,0,1,189000
+Piso,Salamanca,279,3,5,1,1,1,1,1,1,2700000
+Piso,Chamartín,104,3,2,1,1,1,1,1,1,559500
+Piso,Carabanchel,55,2,1,1,1,0,1,0,1,169000
+Piso,Moncloa,316,4,3,1,0,1,1,0,1,1890000
+Piso,Chamberí,194,5,3,0,1,1,1,1,1,1050000
+Piso,Salamanca,58,2,1,0,0,1,1,0,0,385000
+Piso,Carabanchel,110,4,2,1,0,1,1,0,1,160000
+Piso,Tetuán,146,3,2,1,1,1,1,1,1,759000
+Piso,Salamanca,54,3,1,0,0,1,0,0,0,290000
+Piso,Arganzuela,63,2,1,0,0,1,1,0,0,315000
+Piso,Centro,104,3,3,1,1,1,1,0,0,890000
+Piso,Arganzuela,49,1,1,0,1,1,1,0,0,224200
+Piso,Salamanca,65,2,1,0,0,1,1,0,0,380000
+Piso,Salamanca,89,3,2,1,1,1,1,0,0,460000
+Piso,San Blas,58,3,1,0,1,0,1,0,0,92000
+Piso,Centro,39,1,1,1,0,0,1,0,0,240000
+Piso,Ciudad Lineal,57,2,1,1,1,1,1,0,1,264900
+Piso,Tetuán,68,1,1,1,1,1,1,1,0,310000
+Piso,Moncloa,292,5,5,1,1,1,1,1,0,1150000
+Piso,Arganzuela,84,3,1,0,0,1,1,0,1,370000
+Piso,Arganzuela,112,4,2,0,1,1,0,0,1,399000
+Piso,San Blas,53,2,1,1,1,0,1,0,0,175000
+Piso,Salamanca,50,1,1,0,1,1,1,0,0,270000
+Piso,Hortaleza,62,2,1,0,1,1,1,0,0,215000
+Piso,Villaverde,60,3,2,0,0,0,1,0,1,139000
+Piso,Carabanchel,64,2,1,1,0,1,1,0,0,175000
+Piso,Usera,115,3,2,0,1,1,0,1,1,325000
+Dúplex,Ciudad Lineal,86,2,2,1,1,1,0,1,0,299000
+Piso,Moncloa,62,1,1,1,1,0,1,1,0,290000
+Piso,Centro,110,2,1,0,0,1,1,0,0,505000
+Piso,Puente de Vallecas,70,3,1,0,0,0,1,0,1,159500
+Ático,Salamanca,151,2,2,1,0,1,1,1,1,1150000
+Piso,Centro,184,5,5,1,1,1,1,0,0,949000
+Piso,Villaverde,50,2,1,1,1,0,1,0,0,109000
+Piso,Centro,50,3,1,0,1,0,0,0,0,185000
+Piso,Ciudad Lineal,58,2,1,0,0,0,0,0,0,158000
+Piso,Puente de Vallecas,110,3,2,1,1,1,1,0,1,229999
+Piso,Moncloa,82,2,2,1,1,0,1,0,0,298000
+Piso,Centro,235,4,5,1,1,1,0,1,0,2235000
+Piso,Moncloa,118,3,2,1,1,1,1,1,1,620000
+Piso,Retiro,108,2,2,1,1,1,1,0,1,500000
+Ático,San Blas,87,2,1,1,0,1,1,0,1,250000
+Dúplex,San Blas,49,1,1,1,1,1,1,0,0,184000
+Piso,Usera,70,2,1,1,0,0,1,0,0,169000
+Piso,Moratalaz,106,3,2,0,1,1,1,0,1,260000
+Piso,Usera,46,2,1,1,1,0,1,0,1,145200
+Dúplex,Latina,52,2,2,1,0,0,1,0,0,147500
+Piso,Chamberí,96,3,3,1,1,1,0,0,0,799000
+Ático,Arganzuela,46,3,1,0,0,1,1,0,1,237000
+Piso,Centro,115,4,1,0,0,1,1,0,1,485000
+Piso,Salamanca,178,7,2,0,0,1,1,0,1,825878
+Piso,Ciudad Lineal,219,4,3,1,0,0,1,1,0,740000
+Piso,Carabanchel,67,3,1,0,0,0,1,0,0,159900
+Ático,Ciudad Lineal,90,1,1,1,1,1,1,0,1,350000
+Piso,Chamberí,155,4,2,1,1,1,1,0,0,750000
+Piso,Puente de Vallecas,63,3,1,0,0,0,0,0,1,189000
+Piso,Villaverde,40,2,1,0,0,0,0,0,1,105000
+Piso,San Blas,145,4,3,1,1,1,1,1,1,410000
+Piso,Hortaleza,92,2,2,1,1,1,1,0,0,358000
+Piso,Vicálvaro,85,2,2,0,1,1,1,1,0,320000
+Piso,Centro,55,2,1,1,0,0,0,0,0,314000
+Piso,Retiro,92,3,2,1,1,1,1,0,0,800000
+Piso,Ciudad Lineal,60,3,1,1,0,1,1,0,0,179000
+Piso,Salamanca,119,2,2,1,0,1,1,1,0,1200000
+Piso,Latina,95,3,1,0,1,1,0,0,1,199000
+Ático,Tetuán,82,3,2,1,1,1,1,1,1,545000
+Piso,Hortaleza,200,3,2,1,1,1,1,1,1,798000
+Piso,Hortaleza,214,4,3,1,1,1,1,1,1,825000
+Piso,Centro,106,2,2,1,1,1,1,0,1,635000
+Piso,Retiro,81,4,1,1,0,1,0,0,0,336000
+Piso,Moncloa,340,3,5,1,1,1,0,1,1,2400000
+Piso,Centro,65,2,1,1,1,1,1,0,1,339900
+Piso,Chamberí,56,3,1,0,1,1,1,0,0,355000
+Piso,Moratalaz,129,4,2,0,1,1,1,1,1,410000
+Piso,Chamartín,593,4,4,1,1,1,1,1,0,2490000
+Piso,Latina,116,4,2,0,0,1,1,0,1,195000
+Piso,Latina,62,3,1,1,1,0,1,0,1,159900
+Piso,Carabanchel,91,3,2,0,1,1,0,0,0,199000
+Piso,Latina,140,3,2,1,1,1,1,1,1,390000
+Piso,Usera,55,2,1,0,0,0,1,0,1,159000
+Piso,Centro,91,2,2,0,0,1,1,0,0,819000
+Piso,Chamberí,151,5,2,0,0,1,1,0,1,700000
+Piso,Tetuán,75,3,2,0,1,1,1,0,1,349000
+Piso,Retiro,50,1,1,1,0,0,0,0,0,195000
+Piso,Tetuán,77,1,1,1,0,0,0,0,0,286000
+Piso,Tetuán,74,1,1,0,0,1,0,0,0,139000
+Piso,Chamartín,193,4,4,1,1,1,1,1,1,1350000
+Piso,Moncloa,321,4,4,1,1,1,1,0,0,1590000
+Piso,Tetuán,70,2,1,1,1,1,1,1,1,440000
+Ático,Puente de Vallecas,88,2,2,1,1,1,1,0,1,279900
+Piso,Chamberí,47,2,1,1,0,0,1,0,0,275000
+Piso,Chamberí,65,2,2,1,1,1,0,1,0,711500
+Piso,Chamberí,135,2,2,1,1,1,1,1,1,1051410
+Dúplex,Salamanca,127,2,3,1,1,1,1,1,0,945000
+Piso,Villa de Vallecas,54,1,1,1,1,1,1,1,0,186000
+Piso,Latina,94,3,1,1,1,1,1,0,0,195000
+Piso,Puente de Vallecas,57,2,1,1,1,1,1,0,0,140000
+Piso,Chamberí,335,4,4,1,0,0,0,0,0,2300000
+Piso,Ciudad Lineal,71,4,2,1,1,1,1,0,1,339000
+Piso,Carabanchel,113,4,2,0,0,1,1,0,1,280000
+Piso,Carabanchel,59,2,1,0,0,0,0,0,0,130500
+Dúplex,Fuencarral,133,1,2,0,0,1,1,0,1,325000
+Piso,Salamanca,263,3,3,1,1,1,1,1,1,2100000
+Piso,Usera,101,2,1,0,0,1,1,0,0,201600
+Piso,Latina,80,3,1,0,0,1,0,0,0,177000
+Piso,Arganzuela,155,4,2,1,1,1,1,1,0,847000
+Piso,Chamberí,428,5,3,1,1,1,1,1,1,2550000
+Ático,Retiro,550,4,4,0,1,1,0,0,1,13000000
+Piso,Salamanca,102,3,2,1,0,1,1,0,0,1195000
+Piso,Vicálvaro,68,3,1,0,1,0,0,0,1,154500
+Piso,Latina,47,1,1,0,1,1,1,0,0,140000
+Piso,Tetuán,127,3,3,1,0,1,1,0,1,950000
+Piso,Chamartín,120,2,2,1,1,1,1,0,1,690000
+Piso,Tetuán,45,1,1,1,1,0,1,0,1,190000
+Piso,Chamberí,176,6,3,1,1,1,1,0,0,950000
+Piso,Tetuán,201,3,3,1,1,1,1,0,1,1449000
+Piso,Carabanchel,84,2,2,1,1,1,1,1,0,233300
+Piso,Puente de Vallecas,31,1,1,0,0,0,1,0,0,84000
+Ático,Retiro,132,4,2,1,1,1,1,1,1,750000
+Ático,Retiro,130,4,2,0,1,1,1,0,1,1630000
+Piso,Chamartín,265,5,5,1,1,1,1,1,1,2300000
+Piso,Moncloa,60,2,2,0,0,0,1,0,0,255000
+Ático,Centro,70,2,1,1,0,0,0,0,0,275000
+Piso,Chamartín,202,4,3,1,0,1,1,1,0,1280000
+Piso,Ciudad Lineal,88,3,2,0,1,1,1,1,0,279000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Tetuán,71,1,1,1,1,1,1,1,1,320000
+Piso,Chamartín,105,3,2,1,1,1,0,0,1,539900
+Piso,Salamanca,63,2,1,1,1,1,1,0,0,325000
+Piso,Tetuán,130,4,2,0,1,1,1,0,0,390000
+Piso,Retiro,158,4,2,1,1,1,1,1,1,1500000
+Piso,Moncloa,101,2,2,0,1,1,1,0,0,526585
+Piso,Centro,85,1,1,1,1,0,1,0,0,369000
+Piso,Hortaleza,50,1,1,1,1,1,0,1,0,295000
+Piso,Arganzuela,55,1,1,1,1,1,1,1,0,495000
+Piso,Tetuán,50,2,1,0,1,0,0,0,0,165000
+Piso,San Blas,64,2,1,1,0,0,1,1,0,214900
+Ático,Tetuán,110,3,1,1,1,1,1,0,1,570000
+Piso,Retiro,109,2,2,1,1,1,1,0,0,795000
+Piso,Ciudad Lineal,61,2,1,1,1,0,1,0,1,138000
+Piso,Tetuán,40,1,1,1,1,0,1,0,0,139000
+Piso,Centro,141,3,2,1,1,1,1,0,0,1100000
+Piso,Carabanchel,71,2,1,1,1,1,1,0,0,212900
+Piso,Carabanchel,37,2,1,0,0,0,1,0,0,170000
+Piso,Tetuán,400,4,5,1,0,1,1,0,0,3600000
+Piso,Carabanchel,102,3,2,1,1,1,1,0,0,340000
+Piso,Chamartín,154,3,2,1,1,1,1,0,0,629000
+Piso,San Blas,138,3,2,1,1,1,1,0,1,299000
+Piso,Salamanca,125,2,2,1,1,1,1,0,1,1200000
+Piso,Villa de Vallecas,80,3,1,0,0,0,0,0,1,149900
+Piso,Hortaleza,134,4,2,1,1,1,1,0,1,410000
+Piso,Hortaleza,131,3,2,0,0,1,0,1,0,625000
+Piso,Centro,156,2,3,1,1,1,1,0,0,1100000
+Piso,Fuencarral,124,3,2,1,1,1,1,0,0,396000
+Piso,Arganzuela,26,1,1,0,0,1,0,0,0,140000
+Dúplex,Puente de Vallecas,119,3,3,0,1,1,1,0,1,230000
+Piso,Chamartín,419,5,5,1,0,1,1,1,1,2350000
+Piso,Villa de Vallecas,121,2,2,0,1,1,1,1,0,295000
+Piso,Centro,62,1,1,1,1,1,1,0,0,395000
+Piso,Salamanca,206,3,3,1,1,1,1,0,0,1750000
+Piso,Retiro,51,2,1,1,0,1,1,0,0,385000
+Piso,Chamartín,187,4,3,0,1,1,1,1,1,970000
+Piso,Puente de Vallecas,100,3,2,1,1,1,1,0,1,198000
+Piso,Fuencarral,55,2,1,0,0,1,1,0,1,180000
+Piso,Chamberí,412,6,3,1,1,1,1,1,1,2636000
+Piso,Tetuán,38,1,1,0,0,1,1,1,0,218000
+Piso,Carabanchel,65,3,1,1,0,0,1,0,1,160000
+Piso,Ciudad Lineal,87,3,1,0,0,0,0,0,0,213500
+Piso,Tetuán,65,3,1,1,0,1,1,1,1,325000
+Dúplex,Carabanchel,68,2,1,1,1,1,1,0,0,235000
+Piso,Fuencarral,125,3,2,1,1,1,1,1,0,500000
+Ático,San Blas,83,1,2,1,1,1,1,1,1,310000
+Piso,Arganzuela,93,3,1,0,0,1,1,0,0,320000
+Piso,Chamberí,1000,18,15,1,1,1,1,0,1,3700000
+Piso,Retiro,140,3,2,0,1,1,1,1,0,620000
+Ático,Chamberí,104,2,2,1,1,1,1,0,1,850000
+Dúplex,Centro,125,3,2,1,1,1,1,0,0,1390000
+Piso,Chamberí,180,4,3,1,1,1,0,1,0,980000
+Piso,San Blas,92,3,1,1,1,1,1,0,1,219990
+Piso,Villaverde,57,2,1,1,0,0,0,0,0,117900
+Piso,Arganzuela,77,3,1,0,0,1,1,0,0,250000
+Piso,Salamanca,82,2,2,1,1,1,1,0,0,889000
+Piso,Carabanchel,65,1,1,0,1,1,1,1,0,213500
+Piso,Carabanchel,97,3,1,0,1,0,0,0,1,205000
+Piso,Puente de Vallecas,26,1,1,1,0,0,1,0,0,85000
+Piso,Ciudad Lineal,70,2,1,0,0,1,0,0,0,229900
+Piso,Retiro,120,4,2,0,1,1,1,0,0,635000
+Piso,Chamartín,135,4,2,0,1,1,1,1,0,759000
+Piso,Chamberí,74,3,1,1,1,1,1,0,1,440000
+Piso,Ciudad Lineal,111,3,2,0,0,0,0,0,1,345200
+Piso,Centro,124,2,2,0,1,0,1,0,1,825000
+Piso,Villaverde,67,2,1,0,0,0,1,0,0,140000
+Piso,Barajas,86,3,2,0,0,1,1,0,1,265000
+Piso,Tetuán,46,2,1,1,0,0,1,0,0,199000
+Piso,Centro,47,1,1,1,1,1,1,0,0,235000
+Piso,Chamberí,50,1,1,1,1,1,1,0,0,329000
+Piso,Salamanca,405,4,5,1,1,1,1,1,1,5198000
+Dúplex,Ciudad Lineal,217,5,4,0,0,1,1,1,1,950000
+Piso,Centro,101,2,2,1,1,1,1,0,0,829000
+Piso,Tetuán,96,2,2,1,1,1,1,1,1,448000
+Piso,Ciudad Lineal,109,3,2,0,1,0,1,0,1,345200
+Piso,Salamanca,220,4,5,1,1,1,1,1,1,2990000
+Piso,Chamberí,227,3,4,1,1,1,1,0,0,2000000
+Piso,Chamberí,107,3,2,1,0,1,1,0,0,610000
+Piso,San Blas,55,2,1,0,1,0,1,0,0,130000
+Piso,Salamanca,87,3,1,1,1,1,1,0,0,750000
+Piso,Latina,65,3,1,0,0,0,1,0,1,155000
+Piso,Retiro,38,2,1,1,0,1,1,0,0,279990
+Piso,Ciudad Lineal,75,2,1,0,0,0,1,0,0,175000
+Piso,Fuencarral,276,5,5,1,0,0,0,0,0,939000
+Piso,Chamberí,57,1,1,1,1,1,1,0,0,445000
+Piso,Chamberí,99,2,2,1,1,1,1,0,0,698000
+Piso,Chamberí,227,5,4,0,0,1,1,1,1,1200000
+Piso,Salamanca,108,3,2,1,1,1,1,0,0,530000
+Piso,Salamanca,51,2,1,1,0,1,1,0,0,345000
+Piso,Ciudad Lineal,70,2,1,0,0,1,1,1,0,240000
+Piso,Arganzuela,95,3,1,0,1,1,1,0,1,365000
+Piso,Latina,80,3,1,0,0,1,1,1,1,219000
+Piso,Centro,35,1,1,1,1,1,1,0,0,243000
+Piso,Centro,81,1,1,1,1,1,1,0,0,420000
+Piso,Carabanchel,59,1,1,0,0,0,1,0,1,157000
+Piso,Chamberí,545,4,5,1,1,1,0,0,1,3600000
+Piso,Centro,92,2,2,1,1,1,1,0,0,540000
+Piso,San Blas,70,3,2,0,0,0,0,0,1,154000
+Piso,San Blas,200,4,3,0,1,1,1,0,0,785000
+Piso,Centro,131,2,2,1,1,1,1,0,0,1290000
+Piso,Tetuán,193,3,3,1,1,1,1,1,1,965000
+Piso,Fuencarral,78,2,1,0,1,1,1,1,0,390000
+Piso,Moncloa,77,2,1,0,1,1,1,0,1,460000
+Piso,Carabanchel,99,2,1,0,0,1,1,0,1,345000
+Piso,Usera,115,3,2,0,0,1,1,0,1,160000
+Piso,Chamartín,110,2,2,0,1,1,1,0,0,650000
+Piso,Fuencarral,126,4,2,0,1,1,1,1,1,489999
+Piso,Moncloa,210,5,3,0,1,1,1,1,1,940000
+Piso,Carabanchel,126,3,2,1,0,0,1,0,1,248000
+Piso,Villaverde,56,2,1,0,1,1,0,1,1,134900
+Piso,Chamartín,188,2,3,1,1,1,1,1,1,1240000
+Piso,Salamanca,87,2,2,0,1,1,1,0,0,373000
+Piso,Tetuán,126,3,2,1,1,1,1,0,1,450000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Villaverde,57,2,1,0,0,0,1,0,1,105000
+Piso,Tetuán,45,1,1,0,0,1,1,0,0,169900
+Piso,Villaverde,80,3,2,1,1,0,1,0,1,167000
+Piso,Villaverde,66,3,1,0,0,0,0,0,1,110000
+Piso,Tetuán,140,3,2,1,0,1,0,1,0,665000
+Piso,Carabanchel,101,3,2,1,1,1,0,0,0,199000
+Piso,Villa de Vallecas,94,3,2,1,0,1,1,0,0,280000
+Piso,Fuencarral,102,4,2,0,1,1,1,0,1,410000
+Piso,Centro,41,1,1,1,1,1,1,0,0,345000
+Piso,Carabanchel,63,1,1,1,1,1,1,0,1,160000
+Piso,Chamberí,52,1,1,0,0,0,0,0,1,280250
+Piso,Salamanca,320,4,4,0,1,1,0,1,0,2950000
+Piso,San Blas,88,3,1,0,1,1,0,0,1,195000
+Piso,Tetuán,104,3,2,0,0,1,1,0,0,320000
+Piso,Chamartín,148,3,2,1,1,1,1,1,1,1400000
+Piso,Centro,77,2,1,1,1,0,1,0,0,339000
+Piso,Fuencarral,120,3,2,1,1,1,0,1,0,485000
+Piso,Puente de Vallecas,51,2,1,0,1,1,0,0,0,118000
+Piso,Salamanca,83,2,2,1,0,1,0,0,0,849000
+Piso,Centro,54,1,1,1,1,1,0,0,0,525000
+Piso,Retiro,88,3,1,0,0,1,1,0,0,399000
+Ático,Latina,160,5,2,0,0,1,0,1,1,620000
+Piso,Ciudad Lineal,120,3,2,1,1,1,1,1,0,450000
+Piso,Villaverde,56,3,1,0,0,0,1,0,0,126500
+Piso,San Blas,64,2,1,1,0,0,1,0,0,174900
+Piso,Chamartín,135,3,2,1,1,1,1,1,1,795000
+Piso,Centro,90,3,3,1,0,1,1,0,0,859000
+Piso,Puente de Vallecas,123,3,3,0,0,0,1,0,1,679900
+Piso,Fuencarral,79,4,2,0,1,1,1,1,1,355000
+Piso,Centro,145,2,2,1,0,1,1,0,1,1100000
+Piso,Chamberí,87,3,2,0,1,1,1,0,1,520000
+Piso,Latina,65,2,1,0,0,0,1,0,1,126500
+Piso,Salamanca,191,4,3,1,1,1,1,0,0,1840000
+Piso,Ciudad Lineal,110,2,2,1,1,1,1,0,1,450000
+Piso,Centro,102,3,3,1,1,1,1,0,1,829000
+Piso,Barajas,111,3,2,0,1,1,1,1,0,404400
+Piso,San Blas,109,4,2,1,1,1,1,1,0,399500
+Piso,Latina,72,3,1,0,0,0,0,0,1,199000
+Piso,Salamanca,101,2,2,1,1,1,1,0,0,1200000
+Piso,Chamartín,183,4,3,0,1,1,0,0,0,945000
+Piso,Centro,184,3,3,1,0,1,1,0,0,2400000
+Piso,Centro,106,3,3,1,1,1,1,0,0,839000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Piso,Salamanca,109,2,3,1,1,1,1,0,0,695000
+Piso,Ciudad Lineal,58,2,1,0,0,0,0,0,0,158000
+Piso,San Blas,83,3,1,0,1,0,1,0,1,203000
+Piso,Centro,110,3,3,1,1,1,1,0,0,839000
+Piso,Ciudad Lineal,60,2,1,1,1,1,1,0,1,175000
+Piso,Salamanca,300,4,3,0,1,1,0,0,0,2100000
+Piso,Moncloa,165,4,2,0,1,1,1,1,1,730000
+Piso,Villaverde,73,3,1,0,1,1,0,0,1,155000
+Piso,Carabanchel,37,2,1,0,0,0,1,0,0,170000
+Piso,Centro,94,2,3,1,1,1,1,0,1,990000
+Piso,Moncloa,89,2,1,1,1,1,1,0,1,250000
+Piso,Chamberí,134,3,3,1,1,1,1,0,0,939000
+Piso,Latina,65,2,1,0,0,1,0,0,1,164999
+Piso,Centro,104,3,3,1,1,1,1,0,0,890000
+Piso,Centro,91,2,1,0,0,0,0,0,0,300000
+Ático,Chamartín,139,3,2,1,0,0,0,0,1,749000
+Piso,Moncloa,179,3,3,1,1,1,0,0,1,1395000
+Piso,Ciudad Lineal,94,3,1,1,1,1,1,1,1,289000
+Piso,Usera,46,1,1,0,1,0,1,0,0,130000
+Piso,Centro,106,3,1,0,0,0,1,0,0,510000
+Piso,Salamanca,87,2,2,0,0,1,0,0,0,1600000
+Piso,Hortaleza,320,8,8,0,1,1,1,0,0,720000
+Piso,Carabanchel,89,3,2,0,1,1,0,0,0,293600
+Ático,Ciudad Lineal,287,4,3,1,1,1,1,1,1,980000
+Piso,Salamanca,173,3,3,1,1,1,1,0,0,1590000
+Piso,Usera,62,2,1,0,0,1,0,0,0,125000
+Piso,Moncloa,215,4,2,1,0,1,1,0,1,895000
+Piso,Carabanchel,93,4,1,0,0,1,0,0,0,260000
+Piso,Ciudad Lineal,320,5,4,1,1,1,1,1,1,1450000
+Piso,Ciudad Lineal,101,2,2,1,0,1,1,1,0,310000
+Piso,Centro,163,4,2,0,1,1,1,1,0,690000
+Piso,Chamartín,138,3,2,1,1,1,1,1,1,775000
+Piso,Tetuán,146,3,2,1,0,0,0,0,0,770000
+Piso,Ciudad Lineal,47,1,1,0,1,1,1,0,1,189000
+Piso,Puente de Vallecas,57,2,1,0,0,0,1,0,0,139000
+Piso,San Blas,43,1,1,1,1,0,1,0,0,115000
+Ático,Fuencarral,178,2,2,1,1,1,1,1,1,556000
+Piso,Centro,88,2,2,1,1,1,1,0,0,899000
+Piso,Salamanca,90,2,2,1,1,1,1,1,0,655000
+Piso,Centro,84,2,2,1,1,0,1,0,1,829000
+Piso,Chamberí,177,4,2,0,0,1,1,0,0,725000
+Piso,Ciudad Lineal,45,2,1,0,0,1,0,0,0,148000
+Piso,Puente de Vallecas,88,3,2,1,1,0,1,0,1,169000
+Piso,Tetuán,90,3,2,0,1,1,1,1,0,349900
+Piso,Ciudad Lineal,80,2,2,1,0,0,1,0,1,242900
+Piso,Centro,38,1,1,1,1,1,1,0,0,240000
+Piso,Villa de Vallecas,52,1,1,1,1,1,1,1,0,208850
+Piso,Tetuán,79,1,1,1,1,1,1,1,1,470000
+Piso,Chamartín,100,2,1,0,0,1,1,0,0,398000
+Piso,Salamanca,160,3,3,1,1,1,1,0,1,1280000
+Piso,Carabanchel,127,3,2,0,1,1,1,1,0,330000
+Piso,Hortaleza,88,2,2,1,1,1,0,1,1,423000
+Piso,Retiro,78,3,2,0,0,1,1,0,0,370000
+Ático,Retiro,70,1,1,1,1,1,1,1,0,580000
+Piso,Centro,115,4,2,0,0,0,1,0,0,489900
+Piso,Centro,88,2,2,1,1,1,1,0,0,899000
+Piso,San Blas,93,1,1,0,1,1,0,0,0,235000
+Piso,Carabanchel,48,1,1,1,1,0,1,0,0,109000
+Piso,Arganzuela,104,3,2,1,1,1,1,1,0,585000
+Piso,Villa de Vallecas,105,3,2,1,1,1,1,1,0,340000
+Piso,Salamanca,281,4,5,1,1,1,0,0,1,2800000
+Piso,Puente de Vallecas,41,2,1,0,0,0,1,0,1,110000
+Piso,Arganzuela,63,1,1,0,0,1,1,0,1,375000
+Piso,San Blas,78,4,1,0,1,1,1,0,0,163630
+Piso,Salamanca,66,2,2,1,1,1,1,0,0,679000
+Piso,Chamberí,222,3,3,1,0,0,0,0,0,1835000
+Dúplex,Arganzuela,114,3,2,1,1,1,1,1,1,565000
+Ático,Hortaleza,120,1,1,1,1,1,1,1,1,390000
+Piso,Villa de Vallecas,93,3,2,0,1,1,1,1,1,230000
+Piso,Salamanca,129,3,3,1,1,1,1,1,1,1690000
+Piso,Latina,45,1,1,0,0,0,0,0,0,140000
+Piso,Centro,175,3,3,1,0,1,1,0,0,1067000
+Piso,Carabanchel,63,3,1,1,0,0,1,0,1,138900
+Piso,Tetuán,74,2,1,1,0,1,1,1,1,359000
+Piso,Retiro,87,2,2,0,1,1,1,0,0,412395
+Piso,Ciudad Lineal,41,1,1,1,1,0,1,0,0,134900
+Piso,San Blas,177,3,2,1,1,1,1,1,1,442500
+Piso,Chamartín,226,3,3,1,1,1,1,1,1,1400000
+Piso,San Blas,54,2,1,0,1,0,1,0,0,140000
+Piso,Hortaleza,45,1,1,1,1,1,1,1,1,210000
+Piso,Salamanca,158,6,2,0,0,1,0,0,1,725000
+Piso,Fuencarral,394,7,5,1,1,1,1,1,0,1139770
+Piso,Chamartín,94,2,2,1,1,1,1,0,1,540000
+Piso,Chamberí,177,4,2,0,1,1,1,0,0,725000
+Piso,Centro,42,1,1,1,0,0,0,0,0,209000
+Ático,Retiro,64,1,2,1,1,1,1,0,1,1090000
+Ático,Chamartín,453,5,3,1,1,1,1,1,1,1750000
+Piso,Tetuán,99,2,2,1,1,1,1,1,0,600000
+Piso,Vicálvaro,40,2,1,0,0,1,0,0,0,141000
+Piso,Retiro,105,2,2,0,1,0,1,0,0,760000
+Piso,Centro,100,2,2,1,1,1,1,0,0,715000
+Piso,Carabanchel,68,2,1,0,1,0,0,0,1,141100
+Piso,Retiro,126,3,2,1,1,1,1,1,1,533000
+Piso,Moncloa,192,3,4,1,0,0,0,0,0,1135200
+Piso,Centro,180,3,3,1,0,1,0,0,0,950000
+Piso,Arganzuela,78,3,1,0,1,1,1,0,1,316995
+Piso,Barajas,63,3,1,0,0,0,1,0,1,169000
+Piso,Salamanca,145,7,7,0,1,1,1,0,1,1290000
+Ático,Salamanca,170,3,2,1,0,1,1,0,1,1650000
+Piso,Latina,105,1,1,1,1,1,0,0,0,175000
+Piso,Ciudad Lineal,61,2,1,0,0,0,0,0,1,159500
+Piso,Retiro,99,3,2,0,1,1,1,1,1,419000
+Piso,San Blas,72,3,1,1,1,0,1,0,1,166890
+Piso,Centro,27,1,1,1,1,1,1,0,0,243000
+Piso,Salamanca,128,3,3,1,0,1,1,0,0,985000
+Piso,Chamberí,280,5,3,1,1,1,1,1,1,1500000
+Piso,Chamberí,267,3,4,1,1,1,1,0,0,1680000
+Piso,Vicálvaro,112,4,2,1,1,1,1,1,1,300000
+Piso,Usera,52,2,1,0,0,0,1,0,0,159000
+Ático,Retiro,112,2,2,1,1,1,1,0,1,990000
+Piso,Centro,115,3,3,1,1,1,1,0,0,859000
+Ático,Hortaleza,596,4,5,1,1,1,1,1,1,2975000
+Piso,Centro,110,3,2,0,1,1,1,0,0,500000
+Piso,Salamanca,115,3,2,0,1,1,1,0,0,480000
+Piso,Ciudad Lineal,79,2,1,0,0,0,1,0,1,290000
+Piso,Centro,79,2,2,1,1,1,1,1,0,450000
+Piso,Puente de Vallecas,89,2,2,1,1,1,1,1,1,239900
+Piso,Centro,107,3,3,1,1,1,1,0,0,789000
+Piso,Salamanca,85,2,2,1,1,1,1,0,0,760000
+Piso,Centro,94,3,3,1,1,1,1,0,0,859000
+Piso,Centro,135,3,2,0,0,1,1,0,0,695000
+Piso,Retiro,179,2,2,1,1,1,1,1,0,820000
+Piso,Carabanchel,141,4,2,0,1,1,1,1,1,348000
+Piso,Barajas,94,3,2,0,0,1,0,0,0,290000
+Piso,Salamanca,115,3,2,1,1,0,1,1,0,1280000
+Piso,Salamanca,480,4,5,1,1,1,0,1,0,6980000
+Piso,Tetuán,77,2,1,0,1,0,1,0,0,166000
+Piso,Puente de Vallecas,72,3,1,0,1,0,1,0,0,170000
+Piso,Centro,38,1,1,0,1,0,1,0,0,191000
+Piso,Carabanchel,46,2,1,0,1,0,0,0,0,125000
+Piso,Usera,73,2,1,1,0,0,1,0,0,120000
+Piso,Villaverde,55,3,1,0,0,0,0,0,1,118000
+Piso,Villaverde,58,3,1,1,1,0,0,0,1,139900
+Piso,Usera,108,3,2,0,0,1,1,0,0,255300
+Piso,Retiro,289,11,5,1,0,1,1,0,0,1595000
+Ático,Centro,140,2,3,1,1,1,1,0,0,1160000
+Piso,Chamartín,61,2,1,1,0,0,1,0,0,240000
+Piso,Hortaleza,320,8,8,0,0,1,1,0,0,720000
+Piso,Villaverde,74,3,1,0,0,1,0,0,0,121000
+Piso,Tetuán,53,1,1,1,1,1,1,0,0,198750
+Piso,Salamanca,194,4,2,1,0,1,0,0,0,600000
+Piso,Latina,65,2,1,0,0,1,1,0,0,161300
+Piso,San Blas,49,1,1,1,1,1,1,1,0,185000
+Piso,Salamanca,233,3,4,1,1,1,1,0,0,2550000
+Piso,Arganzuela,35,2,1,1,0,1,0,0,0,210000
+Piso,Chamberí,80,2,2,1,1,1,1,0,0,690000
+Piso,Puente de Vallecas,70,2,1,0,1,1,1,0,0,188700
+Piso,Centro,94,3,3,1,1,1,1,0,1,829000
+Piso,Centro,119,3,3,1,1,1,1,0,0,959000
+Piso,Centro,93,2,2,0,1,1,1,0,0,415000
+Piso,Moratalaz,59,3,1,0,0,0,0,0,0,147500
+Piso,Salamanca,270,4,5,1,1,1,1,0,0,3850000
+Piso,Fuencarral,110,3,2,0,1,1,1,0,1,369000
+Piso,Arganzuela,144,4,2,1,1,1,1,1,0,850000
+Piso,Moncloa,74,2,1,1,1,0,1,0,0,239000
+Piso,Moncloa,60,2,1,1,0,0,1,0,0,255000
+Piso,Chamberí,135,3,2,0,1,1,1,0,0,582000
+Piso,Arganzuela,88,3,1,0,1,0,0,0,0,310000
+Piso,Hortaleza,97,3,1,0,0,1,1,0,1,280000
+Piso,Villaverde,94,3,1,0,1,1,1,0,1,164000
+Piso,Arganzuela,148,4,3,0,1,1,1,1,0,750000
+Piso,Usera,79,3,1,0,0,0,0,0,0,161000
+Piso,Centro,194,4,2,1,0,1,1,0,0,880000
+Piso,Tetuán,50,1,1,0,0,0,0,0,1,235000
+Piso,Latina,60,2,1,0,1,0,1,0,1,225000
+Piso,Salamanca,106,2,2,1,1,1,1,0,0,995000
+Piso,Ciudad Lineal,93,2,2,1,1,1,1,0,1,410000
+Piso,Chamberí,40,1,1,0,1,1,1,0,0,280000
+Ático,Chamartín,595,4,5,1,1,1,1,1,1,5800000
+Piso,Salamanca,89,2,2,1,0,1,1,0,0,1630000
+Piso,Carabanchel,85,2,1,1,1,1,1,0,1,295000
+Piso,San Blas,50,2,1,1,1,1,1,0,1,150000
+Piso,Chamberí,240,5,3,1,1,1,1,0,0,2500000
+Piso,Arganzuela,78,3,1,0,1,1,1,0,0,330030
+Dúplex,Chamberí,35,1,1,0,0,1,1,0,0,179000
+Piso,Latina,63,2,1,0,0,0,1,0,0,190000
+Piso,Moncloa,240,3,2,1,1,1,1,1,0,870000
+Piso,Villaverde,57,3,1,0,0,0,0,0,1,62000
+Piso,Carabanchel,62,2,1,0,0,1,1,1,0,135000
+Piso,Usera,48,1,1,0,0,1,0,0,1,129324
+Piso,Chamberí,60,2,2,1,1,1,0,0,0,449000
+Piso,Carabanchel,68,2,1,0,1,0,0,0,0,320000
+Piso,Chamberí,165,4,2,1,1,1,1,0,0,765000
+Piso,Arganzuela,72,2,3,0,1,1,1,0,0,258750
+Piso,Centro,90,1,1,0,1,1,1,0,0,285000
+Piso,Carabanchel,75,2,1,0,1,0,0,0,1,125500
+Piso,Vicálvaro,65,3,1,0,0,0,1,0,1,161000
+Piso,Centro,41,2,1,0,1,0,0,1,0,205000
+Piso,Salamanca,125,3,2,1,0,1,1,1,1,1080000
+Piso,Centro,31,1,1,1,0,0,1,0,0,150000
+Piso,Carabanchel,60,1,1,0,0,0,0,0,0,293000
+Piso,Carabanchel,82,2,1,0,0,1,1,0,0,199900
+Piso,Centro,103,3,1,0,1,1,1,1,1,518000
+Piso,Salamanca,182,2,3,1,1,1,1,0,0,3600000
+Piso,Moncloa,56,2,1,0,1,1,1,0,0,268000
+Piso,Puente de Vallecas,71,3,1,0,1,1,1,0,1,179900
+Piso,Villaverde,69,2,1,1,0,0,1,0,0,129000
+Piso,Fuencarral,105,4,2,0,1,1,1,0,1,410000
+Piso,Centro,91,4,2,1,1,1,0,0,0,790000
+Piso,Salamanca,70,2,2,1,1,1,1,0,0,619000
+Piso,Tetuán,32,1,1,1,0,1,1,0,1,125000
+Piso,Hortaleza,86,3,1,1,1,1,1,0,1,339000
+Piso,Usera,55,3,1,0,1,0,0,0,1,115000
+Piso,Moratalaz,111,3,2,0,1,1,1,1,1,465000
+Piso,Centro,284,4,3,0,1,1,0,0,0,1100000
+Piso,Salamanca,205,4,3,0,0,1,1,0,1,1400000
+Piso,Centro,195,3,2,1,1,1,1,0,0,1470000
+Piso,Carabanchel,100,3,1,1,1,1,1,0,1,370000
+Piso,Hortaleza,125,4,2,1,1,0,1,0,1,445000
+Piso,Salamanca,106,2,2,1,1,1,1,1,1,525000
+Piso,Chamberí,177,4,3,0,0,1,1,0,0,1150000
+Piso,Latina,100,3,2,1,1,1,1,1,1,335000
+Piso,Centro,53,1,1,0,0,1,0,0,0,295000
+Piso,Salamanca,106,2,2,1,0,1,0,0,0,995000
+Piso,Puente de Vallecas,106,3,1,1,1,1,1,0,1,225000
+Piso,Chamberí,103,3,2,1,1,1,1,0,0,670000
+Piso,Salamanca,47,1,1,1,1,1,1,1,0,360000
+Piso,Vicálvaro,165,2,2,1,1,1,0,1,1,399000
+Piso,Tetuán,98,2,2,0,0,1,0,0,0,390657
+Piso,Fuencarral,174,4,2,1,1,1,1,1,1,775000
+Piso,Ciudad Lineal,63,3,1,0,1,0,1,0,1,220000
+Piso,Centro,52,1,1,1,0,1,0,0,0,270000
+Piso,Moncloa,200,5,4,1,1,1,1,1,0,1387500
+Piso,Moncloa,63,3,1,0,1,0,1,0,0,265000
+Piso,Centro,35,1,1,0,0,0,1,0,0,166000
+Piso,Salamanca,186,5,2,0,1,1,1,0,0,1100000
+Piso,Puente de Vallecas,70,3,1,0,0,1,0,0,0,194900
+Piso,Moratalaz,59,3,1,0,0,1,1,0,1,145000
+Piso,Puente de Vallecas,97,2,1,0,0,0,1,0,0,188800
+Piso,Latina,93,2,1,1,0,1,1,0,1,239000
+Piso,Moncloa,60,2,1,0,1,1,1,0,0,310000
+Piso,Hortaleza,108,2,2,1,1,1,1,1,0,480000
+Piso,Centro,72,1,1,1,1,1,1,0,0,450000
+Piso,Retiro,83,2,1,1,1,1,1,1,1,870000
+Piso,Villaverde,63,3,1,1,0,0,1,0,0,115000
+Piso,Chamberí,213,3,3,1,1,1,1,1,1,1470000
+Piso,Hortaleza,58,1,1,0,0,1,1,1,0,290000
+Piso,Ciudad Lineal,46,1,1,1,1,1,0,0,0,150000
+Piso,Salamanca,125,3,2,1,1,1,1,0,1,1150000
+Piso,Puente de Vallecas,92,3,1,1,1,0,1,0,0,179000
+Piso,Villaverde,52,1,1,0,1,1,1,0,1,207670
+Piso,Carabanchel,103,2,2,1,1,1,1,1,0,290000
+Piso,Centro,35,1,1,0,0,1,0,0,0,158000
+Piso,Villaverde,89,3,1,1,1,1,1,0,1,165000
+Piso,Tetuán,49,1,1,0,0,1,0,1,1,217500
+Piso,Centro,255,3,4,1,1,1,1,0,0,2200000
+Piso,Chamberí,161,4,3,0,1,1,1,1,1,985000
+Ático,Salamanca,230,2,3,1,1,1,1,0,1,1770000
+Piso,Fuencarral,220,5,3,1,1,0,0,0,0,749999
+Piso,Tetuán,60,2,2,1,0,0,0,0,0,590000
+Piso,Chamartín,236,3,3,0,1,1,1,0,1,1100000
+Piso,Centro,30,1,1,1,1,1,0,0,0,243000
+Piso,Salamanca,87,2,2,1,1,1,1,0,0,879000
+Piso,Ciudad Lineal,71,2,1,0,0,0,1,0,0,240000
+Ático,Chamberí,335,2,3,1,0,1,0,0,1,2300000
+Piso,Carabanchel,72,3,2,1,1,0,1,1,1,280000
+Piso,Salamanca,385,5,4,0,1,1,1,1,0,3190000
+Piso,Salamanca,160,3,3,0,1,1,1,0,0,1200000
+Piso,Fuencarral,154,4,3,1,0,1,1,0,0,664600
+Piso,Vicálvaro,63,1,1,0,0,0,0,0,0,165000
+Piso,Moncloa,95,3,2,0,0,1,0,0,0,540000
+Piso,Chamartín,157,4,3,1,1,1,1,1,0,989000
+Ático,Hortaleza,174,3,2,1,1,1,1,1,1,875000
+Ático,Salamanca,250,6,4,1,1,1,1,0,0,1500000
+Piso,Carabanchel,115,3,2,1,1,1,1,1,0,455000
+Piso,Chamberí,160,3,3,1,1,1,1,0,0,1290000
+Piso,Ciudad Lineal,96,2,2,0,1,1,1,0,0,219500
+Piso,Arganzuela,76,2,1,1,1,1,1,0,0,350000
+Piso,Arganzuela,125,2,1,1,0,1,1,0,0,220000
+Piso,Ciudad Lineal,254,6,5,1,1,1,1,1,1,1195000
+Piso,Chamberí,101,3,1,0,0,1,1,0,0,350000
+Piso,Latina,126,3,2,0,0,0,1,0,0,219000
+Piso,Hortaleza,115,3,2,1,1,1,0,1,1,449000
+Piso,Salamanca,83,2,2,0,0,1,1,0,0,849000
+Piso,Salamanca,57,1,1,0,1,1,1,1,0,322000
+Piso,Centro,250,2,2,1,1,1,1,0,1,1860000
+Piso,Centro,215,7,6,1,1,0,0,0,1,1700000
+Piso,Centro,56,2,1,0,0,1,1,0,0,199000
+Piso,Chamartín,80,3,1,1,1,0,1,0,1,245000
+Piso,Arganzuela,92,2,2,1,1,1,1,1,0,440000
+Piso,Latina,47,1,1,0,0,0,1,0,0,140000
+Piso,Hortaleza,102,3,2,0,1,1,1,1,1,450000
+Piso,Retiro,99,2,2,1,1,1,1,0,0,475000
+Ático,Villa de Vallecas,95,2,1,0,1,1,1,0,1,259900
+Piso,Centro,167,2,2,0,0,1,0,0,0,1950000
+Dúplex,Centro,221,3,3,1,1,1,0,0,0,1200000
+Piso,Centro,79,1,1,1,0,1,1,0,0,550000
+Ático,Ciudad Lineal,173,4,3,1,1,0,1,1,1,615000
+Piso,Salamanca,142,4,1,1,1,1,1,0,0,1250000
+Piso,Puente de Vallecas,110,2,2,1,1,1,1,1,1,253000
+Piso,Retiro,83,3,1,1,1,1,1,0,0,420000
+Piso,Arganzuela,116,2,2,1,1,1,1,1,1,578000
+Piso,Villa de Vallecas,74,1,1,1,1,1,1,1,1,258500
+Piso,Chamartín,89,3,1,0,0,1,0,0,0,469000
+Piso,Salamanca,207,5,3,0,1,1,1,0,1,800000
+Piso,Retiro,120,4,2,0,1,1,1,0,0,670000
+Ático,Chamartín,468,4,5,1,1,1,1,1,1,2450000
+Piso,Tetuán,94,2,2,1,1,1,1,1,1,425000
+Piso,Salamanca,162,3,3,1,1,0,1,0,0,1599000
+Piso,Chamberí,126,2,2,0,0,0,0,1,1,1101015
+Piso,Moncloa,113,1,1,1,0,1,1,1,1,457000
+Piso,Carabanchel,103,3,2,0,0,1,1,0,0,355000
+Piso,Chamberí,357,4,4,1,1,1,1,1,1,3450000
+Piso,Moratalaz,80,3,1,0,1,1,1,0,1,198000
+Piso,Latina,65,3,1,0,1,0,1,0,1,162000
+Piso,Villaverde,103,3,1,0,0,1,1,0,0,149900
+Piso,Arganzuela,65,2,1,1,1,1,1,0,0,330000
+Piso,Fuencarral,54,2,1,0,0,1,1,0,1,215000
+Ático,Salamanca,219,4,4,0,0,1,1,0,1,1295000
+Piso,Hortaleza,203,4,3,1,1,1,1,1,1,950000
+Piso,Moratalaz,86,3,1,0,1,0,1,0,0,200000
+Piso,Fuencarral,150,4,2,1,1,1,1,1,0,495000
+Piso,San Blas,94,1,2,1,1,1,1,1,1,285000
+Piso,Tetuán,78,2,1,0,0,0,0,0,0,166000
+Piso,Puente de Vallecas,55,2,1,0,0,1,0,1,0,190000
+Piso,Arganzuela,82,3,1,0,0,1,0,0,0,365700
+Piso,Ciudad Lineal,123,3,2,0,1,1,1,0,1,327000
+Ático,Salamanca,75,1,2,1,0,1,1,0,1,450000
+Piso,Hortaleza,130,2,2,1,1,1,1,1,1,257250
+Piso,Arganzuela,98,3,1,0,0,1,1,0,0,360000
+Piso,Carabanchel,114,4,2,1,0,1,1,0,1,262500
+Dúplex,Hortaleza,78,1,1,1,0,1,1,1,0,235000
+Piso,Centro,51,1,1,0,0,1,0,0,0,205999
+Piso,Latina,144,5,2,1,1,0,1,0,1,425000
+Piso,Fuencarral,59,1,1,0,1,0,1,0,0,180000
+Piso,Hortaleza,72,2,1,1,1,0,1,0,0,349000
+Piso,Arganzuela,107,4,2,0,0,1,1,0,1,460000
+Piso,Centro,45,1,1,1,1,1,1,0,0,295000
+Piso,Usera,62,2,1,0,0,1,0,0,0,125000
+Piso,Salamanca,291,4,4,1,1,1,0,0,1,4200000
+Piso,Salamanca,83,2,2,1,1,1,1,0,0,849000
+Ático,Chamartín,121,3,2,1,1,1,1,1,1,795000
+Piso,Latina,91,3,1,1,1,0,1,0,0,199500
+Ático,Chamberí,150,4,2,0,1,1,1,0,1,990000
+Piso,Centro,121,4,1,0,1,1,0,0,0,490000
+Piso,Centro,50,1,1,1,0,1,1,0,0,305000
+Piso,Ciudad Lineal,78,3,1,1,1,1,1,0,0,245000
+Piso,Vicálvaro,77,3,1,0,0,1,1,0,1,165000
+Piso,Fuencarral,153,3,2,1,1,1,0,1,0,509000
+Piso,Centro,145,3,3,1,1,1,1,1,0,650000
+Piso,Carabanchel,62,2,1,1,0,1,1,0,1,139900
+Piso,Hortaleza,65,3,1,0,0,1,1,1,1,229000
+Piso,Ciudad Lineal,60,2,1,1,1,1,1,1,1,259900
+Piso,Retiro,117,2,2,0,0,1,0,0,0,710700
+Piso,Centro,55,1,1,1,1,1,0,0,0,239000
+Piso,Retiro,87,2,2,0,1,1,1,0,1,412395
+Piso,Tetuán,43,1,1,1,1,1,1,0,0,185000
+Piso,Ciudad Lineal,41,1,1,1,1,0,1,0,0,185000
+Piso,Latina,98,2,2,1,1,1,1,1,0,355000
+Piso,Salamanca,242,4,3,1,1,1,1,1,0,2625000
+Piso,San Blas,99,4,2,1,1,1,1,1,1,485000
+Piso,Ciudad Lineal,60,2,2,1,1,1,1,0,0,210000
+Piso,Salamanca,96,2,2,0,1,1,1,0,0,889000
+Ático,Fuencarral,158,4,3,1,1,1,1,1,1,850000
+Piso,Puente de Vallecas,60,2,1,1,1,1,1,0,1,139900
+Piso,Puente de Vallecas,33,1,1,1,0,0,1,0,0,105000
+Piso,Ciudad Lineal,264,5,3,1,1,1,1,1,1,1150000
+Piso,Chamberí,230,4,5,1,1,1,0,1,1,2050000
+Piso,Latina,72,3,1,0,0,1,0,0,1,179598
+Piso,Carabanchel,88,3,2,0,0,1,1,0,1,310000
+Piso,Centro,50,2,1,1,0,0,1,0,0,260000
+Piso,Usera,90,3,1,0,0,0,1,0,0,172000
+Piso,Barajas,92,2,2,1,1,1,1,1,1,345000
+Piso,Centro,82,2,1,1,1,1,1,0,0,350000
+Piso,Usera,70,3,1,0,0,1,0,0,0,148000
+Piso,Centro,95,2,1,1,1,1,1,0,0,599000
+Piso,San Blas,65,2,1,0,0,0,1,0,0,129900
+Piso,Ciudad Lineal,93,2,2,1,1,1,1,1,0,470000
+Ático,Hortaleza,186,3,3,1,1,1,1,1,1,1400000
+Piso,Usera,117,3,2,0,0,1,1,0,1,287945
+Piso,Puente de Vallecas,61,1,1,0,0,1,1,0,0,87870
+Apartamento,Centro,42,1,1,1,0,1,1,0,0,289000
+Dúplex,Centro,127,4,2,1,1,1,1,0,0,549000
+Piso,Salamanca,59,2,1,1,1,1,0,0,0,275000
+Piso,Salamanca,400,4,4,1,1,1,1,1,0,4480000
+Piso,Centro,60,2,1,1,0,1,1,0,0,553000
+Piso,Chamberí,194,5,3,1,1,1,1,0,1,845000
+Piso,Ciudad Lineal,153,4,2,1,0,1,1,1,1,869000
+Piso,Villaverde,98,3,1,0,1,1,1,0,1,249000
+Piso,Chamberí,260,3,3,1,1,1,1,0,0,3200000
+Piso,Carabanchel,103,2,2,0,1,1,1,1,0,224000
+Piso,Carabanchel,63,2,1,0,0,0,0,0,1,141100
+Piso,Salamanca,280,4,4,1,1,1,0,1,1,2950000
+Ático,Hortaleza,133,2,2,1,1,1,1,1,1,463000
+Piso,Ciudad Lineal,60,3,1,0,0,1,0,0,0,209000
+Piso,Salamanca,96,4,1,0,1,1,1,0,0,388531
+Piso,Retiro,210,3,4,1,1,1,1,0,0,2250000
+Piso,Tetuán,69,1,1,0,0,1,1,0,1,189000
+Piso,Arganzuela,39,1,1,0,0,1,1,0,0,280000
+Piso,Fuencarral,58,2,1,1,1,1,1,0,1,229000
+Ático,Centro,168,1,1,0,0,1,0,0,0,682000
+Piso,Arganzuela,83,3,1,0,0,1,1,0,0,330030
+Piso,Carabanchel,98,2,2,0,1,1,1,0,0,222000
+Piso,Tetuán,204,4,3,0,1,1,1,0,1,760000
+Piso,Chamberí,200,4,3,1,1,1,1,0,0,700000
+Piso,Carabanchel,119,3,2,1,1,1,1,1,1,280000
+Piso,Salamanca,135,3,3,1,1,1,1,0,1,675000
+Piso,Ciudad Lineal,57,2,2,1,1,0,1,0,0,197999
+Piso,Centro,119,3,3,1,0,1,1,0,1,959000
+Piso,Fuencarral,169,4,2,1,1,1,1,1,1,549700
+Piso,Centro,65,2,2,1,1,1,1,0,0,699000
+Piso,Chamberí,524,6,4,1,1,1,1,1,1,4500000
+Piso,Centro,65,2,2,1,1,1,1,0,0,699000
+Piso,Chamberí,80,2,1,1,1,1,1,1,1,400000
+Piso,Fuencarral,128,4,2,1,1,1,1,0,1,450000
+Piso,Centro,40,1,1,1,0,1,1,0,0,295000
+Piso,Tetuán,123,3,2,1,1,1,1,0,1,366000
+Piso,Centro,88,2,2,1,1,1,1,0,0,899000
+Piso,Chamartín,90,3,2,1,1,1,1,0,1,490000
+Piso,Hortaleza,112,3,3,1,1,1,1,1,0,524500
+Piso,Tetuán,144,4,2,0,0,1,1,0,0,399000
+Ático,Tetuán,79,1,1,1,1,1,1,0,1,429000
+Piso,Retiro,137,3,3,1,1,1,1,0,0,899900
+Piso,Centro,55,1,1,1,1,1,1,0,0,469000
+Piso,Moncloa,101,3,2,1,1,1,1,0,0,619000
+Piso,Centro,31,1,1,0,1,0,1,0,0,158000
+Piso,Villaverde,55,1,1,1,1,1,1,1,0,179900
+Piso,Ciudad Lineal,90,4,2,1,1,1,1,0,0,320000
+Piso,Chamartín,76,2,2,1,1,1,1,0,0,430000
+Piso,Ciudad Lineal,40,1,1,1,1,1,1,0,0,215000
+Piso,Salamanca,339,5,2,0,0,1,1,0,0,4700000
+Piso,Arganzuela,99,3,1,1,1,1,1,0,0,402610
+Piso,Chamberí,217,5,3,1,1,1,1,1,1,1050000
+Piso,Chamartín,98,3,2,0,1,1,1,0,0,375000
+Piso,Centro,91,2,2,0,1,1,1,1,0,540000
+Piso,Moncloa,316,4,3,1,0,1,1,0,1,1890000
+Piso,Salamanca,188,4,4,1,1,1,1,0,0,1200000
+Piso,Chamartín,135,3,3,1,1,1,1,0,0,795000
+Piso,Centro,270,3,2,1,1,1,1,0,0,1995000
+Piso,Puente de Vallecas,73,3,1,1,1,1,1,0,1,145000
+Ático,Hortaleza,112,3,2,1,0,1,1,0,1,460000
+Piso,Centro,91,2,2,1,1,1,0,0,0,819000
+Piso,Centro,106,3,3,1,1,1,1,0,0,899000
+Piso,Retiro,137,4,2,1,1,1,1,1,1,545000
+Piso,Puente de Vallecas,70,2,2,1,1,1,1,1,0,249500
+Piso,Chamberí,65,2,2,1,1,1,1,0,1,709000
+Piso,Latina,65,3,1,0,1,0,0,0,1,129000
+Piso,Tetuán,190,3,2,1,1,1,1,1,1,990000
+Piso,Salamanca,102,2,2,1,1,1,1,0,0,995000
+Piso,Salamanca,224,6,3,1,0,1,1,1,1,990000
+Piso,Centro,107,3,3,1,1,1,1,0,0,789000
+Piso,Fuencarral,77,2,1,0,1,1,1,1,1,229900
+Piso,Retiro,77,2,2,0,1,0,0,0,0,256000
+Piso,Chamartín,127,3,3,0,0,1,0,0,0,950000
+Piso,Fuencarral,83,3,1,0,1,0,1,0,1,189000
+Piso,Hortaleza,112,3,2,1,1,1,1,1,0,545000
+Piso,Centro,168,2,3,1,1,1,1,0,0,1800000
+Piso,Salamanca,95,2,2,0,1,1,1,0,0,485000
+Piso,Centro,136,3,2,1,0,1,1,0,0,710000
+Piso,Latina,117,4,2,1,1,1,1,1,1,350000
+Dúplex,Salamanca,99,2,2,0,1,1,1,0,1,460000
+Piso,Arganzuela,99,3,2,0,1,1,1,1,1,230000
+Piso,Ciudad Lineal,70,2,1,1,0,1,1,0,1,191000
+Piso,Ciudad Lineal,75,2,2,1,1,1,1,0,0,279900
+Piso,Tetuán,54,2,1,1,0,0,1,0,0,184990
+Piso,Carabanchel,107,3,1,1,1,1,1,0,1,265000
+Piso,Chamberí,134,4,2,1,1,1,1,0,0,850000
+Piso,Carabanchel,115,4,2,0,1,1,1,0,1,279000
+Piso,Centro,42,3,1,0,0,1,1,0,0,189000
+Piso,Latina,85,2,1,0,0,0,1,0,1,199900
+Piso,Centro,65,2,2,1,1,1,1,0,0,699000
+Piso,Moncloa,165,4,3,0,0,1,1,1,1,650000
+Piso,Carabanchel,101,3,2,1,1,1,1,1,0,295000
+Piso,Barajas,121,4,2,0,0,1,0,0,1,439635
+Piso,Centro,40,2,1,0,0,0,0,1,0,210000
+Piso,Tetuán,46,2,1,1,0,0,1,0,0,198000
+Piso,Latina,72,3,1,0,0,0,1,0,1,145000
+Piso,Hortaleza,158,3,2,1,1,1,1,1,1,570000
+Piso,Fuencarral,209,5,3,0,1,1,1,1,1,798000
+Piso,Moncloa,240,3,2,1,1,1,1,1,0,870000
+Piso,Arganzuela,108,4,2,1,0,1,1,0,1,485000
+Piso,Ciudad Lineal,190,4,3,1,1,1,1,1,1,950000
+Piso,Chamberí,46,1,1,1,1,0,1,0,0,235000
+Piso,Ciudad Lineal,58,1,1,0,0,1,0,0,0,126200
+Piso,Latina,71,3,1,1,0,0,0,0,1,167900
+Piso,Tetuán,127,3,3,1,1,1,0,0,0,950000
+Piso,Salamanca,166,2,3,0,1,1,1,0,1,675000
+Piso,Salamanca,85,2,2,1,1,1,1,0,0,879000
+Piso,Centro,104,3,3,1,1,1,1,0,0,890000
+Piso,Centro,90,3,1,0,0,0,1,0,1,619000
+Piso,Moncloa,156,4,2,1,1,0,1,1,1,500000
+Piso,San Blas,61,3,1,0,0,0,0,0,1,95000
+Piso,Puente de Vallecas,91,4,1,0,1,1,1,0,1,195000
+Piso,Centro,204,5,4,1,1,1,1,1,0,1850000
+Piso,Tetuán,121,4,3,0,1,1,1,0,1,495000
+Piso,Arganzuela,80,2,2,1,1,1,1,0,1,399000
+Piso,Tetuán,115,3,2,0,1,0,1,0,0,390000
+Piso,Chamartín,165,4,2,1,1,1,1,1,1,699000
+Ático,Hortaleza,179,3,4,1,1,1,1,1,1,1200000
+Piso,Ciudad Lineal,63,2,1,0,1,0,1,0,1,139000
+Piso,Tetuán,85,1,1,0,1,0,1,0,1,229500
+Piso,Salamanca,390,3,4,1,0,0,0,0,0,4950000
+Piso,Centro,100,4,2,0,0,0,1,0,0,485000
+Piso,Centro,82,2,2,0,0,0,1,0,1,579000
+Piso,Centro,90,2,1,0,0,1,1,0,1,370000
+Piso,Salamanca,100,2,3,1,1,1,1,0,0,750000
+Piso,Moncloa,146,4,2,1,1,1,1,0,1,579900
+Piso,Centro,188,3,3,1,0,1,0,0,0,1495000
+Piso,Centro,49,1,1,1,0,0,1,0,0,250000
+Ático,Ciudad Lineal,255,5,4,1,1,1,1,1,1,1190000
+Piso,Tetuán,149,2,2,1,0,0,1,0,0,423273
+Piso,Centro,204,5,2,0,0,1,1,0,0,960000
+Piso,Carabanchel,111,3,1,0,0,1,1,0,0,290000
+Piso,Chamberí,153,4,3,1,1,1,1,0,1,880000
+Dúplex,San Blas,85,1,1,0,0,0,0,0,1,311999
+Piso,Fuencarral,266,4,4,1,1,1,1,1,1,790000
+Piso,Tetuán,71,2,2,1,0,0,0,0,0,698000
+Piso,Latina,94,4,2,0,1,1,1,0,1,280000
+Piso,Centro,32,2,1,0,0,1,1,1,0,239000
+Piso,Fuencarral,120,3,2,1,1,1,1,1,0,450000
+Piso,Ciudad Lineal,244,4,2,0,1,1,1,1,1,1150000
+Piso,Centro,45,2,1,0,0,1,1,0,0,180000
+Piso,Centro,115,3,3,1,0,1,1,0,0,859000
+Piso,Retiro,99,3,2,0,1,1,1,1,1,510000
+Piso,Puente de Vallecas,66,3,1,0,1,0,1,0,1,135000
+Piso,Tetuán,46,2,1,1,1,0,1,0,0,251000
+Piso,Chamartín,303,3,3,1,1,1,1,1,1,1950000
+Dúplex,Chamberí,375,6,5,1,1,1,0,0,1,1550000
+Piso,Puente de Vallecas,41,3,1,0,1,0,1,0,0,100000
+Piso,Salamanca,69,2,2,1,1,1,0,1,1,780000
+Piso,Usera,50,2,1,0,0,1,0,0,0,115000
+Piso,Chamberí,76,2,2,1,1,1,1,0,0,519000
+Ático,Fuencarral,284,4,4,1,1,1,1,1,1,2075000
+Piso,San Blas,43,2,1,0,0,1,0,0,0,117866
+Piso,Retiro,103,2,2,0,1,1,0,0,1,412395
+Piso,Chamberí,60,2,1,1,1,1,1,0,0,379000
+Piso,Villaverde,75,3,1,1,1,1,1,0,0,129000
+Piso,Tetuán,48,1,1,1,1,1,0,0,1,280000
+Piso,Latina,96,3,2,0,0,1,1,0,1,398000
+Ático,Tetuán,66,2,1,1,0,1,1,0,1,449000
+Ático,Salamanca,170,3,2,1,1,1,1,0,1,1530000
+Piso,Retiro,97,3,2,1,1,1,1,1,0,410000
+Piso,Chamberí,221,3,2,1,1,1,0,1,1,1374360
+Piso,Moncloa,237,3,4,1,1,1,0,1,1,1190000
+Piso,Moncloa,151,4,3,0,1,1,1,1,1,650000
+Piso,Barajas,100,3,2,1,1,1,1,0,0,330000
+Piso,Fuencarral,85,3,1,0,1,0,1,0,1,187000
+Ático,Ciudad Lineal,154,2,2,1,1,1,1,1,1,925000
+Piso,Barajas,70,3,1,1,0,0,1,0,1,188950
+Piso,Chamartín,463,4,6,1,1,1,0,1,1,2500000
+Piso,Tetuán,146,3,2,1,1,1,1,1,1,680000
+Piso,Salamanca,106,2,2,1,1,1,1,0,1,995000
+Piso,Salamanca,202,2,3,1,0,1,1,0,0,1090000
+Piso,Latina,103,4,2,0,0,1,0,0,1,310000
+Piso,Centro,58,2,1,0,0,1,0,0,0,575500
+Piso,Salamanca,170,3,2,1,1,1,1,0,0,1890000
+Piso,Carabanchel,98,2,2,0,1,1,1,0,1,222000
+Piso,Villaverde,59,2,1,1,0,0,1,0,0,123500
+Dúplex,Salamanca,70,2,2,1,1,1,1,0,0,415000
+Piso,Salamanca,60,2,1,1,1,1,0,0,0,525000
+Piso,Chamartín,82,2,1,1,1,1,1,0,0,320000
+Piso,Arganzuela,86,3,1,0,0,1,1,0,1,335000
+Piso,Puente de Vallecas,34,1,1,1,1,0,0,0,0,89000
+Piso,Salamanca,107,5,2,0,0,1,1,0,0,675000
+Piso,Puente de Vallecas,82,2,2,1,0,0,0,0,0,322000
+Piso,Retiro,135,3,2,0,0,1,0,0,0,570000
+Piso,Tetuán,65,2,1,0,1,0,0,0,0,210000
+Piso,Carabanchel,94,3,1,0,0,0,0,0,1,135000
+Piso,Carabanchel,65,1,1,1,1,0,1,0,1,128000
+Piso,Carabanchel,51,1,1,0,0,0,0,0,0,157670
+Piso,Salamanca,104,3,2,1,1,1,1,0,1,520000
+Piso,Moratalaz,74,3,1,0,0,0,0,0,1,179598
+Piso,Centro,91,2,2,1,0,1,1,0,0,819000
+Piso,Ciudad Lineal,80,2,1,1,1,1,1,0,1,260000
+Piso,Usera,108,3,2,0,0,1,0,0,1,255300
+Piso,Moratalaz,49,1,1,1,0,1,1,0,0,130000
+Piso,Centro,118,2,2,1,1,1,1,0,0,889000
+Piso,Retiro,65,2,1,1,1,1,1,1,1,475000
+Piso,Usera,70,2,1,0,1,0,1,0,0,125000
+Piso,Tetuán,79,3,2,1,0,0,1,0,0,350000
+Piso,Centro,68,2,1,1,1,0,1,0,0,335000
+Piso,Fuencarral,91,3,1,1,1,1,1,0,1,259990
+Piso,Hortaleza,160,4,2,0,0,1,0,0,0,840000
+Piso,Moncloa,125,2,2,1,1,1,1,0,1,540000
+Piso,Tetuán,102,1,1,1,1,1,0,0,0,197600
+Piso,Chamberí,223,4,3,0,1,1,1,0,0,2450000
+Piso,Ciudad Lineal,161,5,3,1,1,1,1,1,1,895000
+Piso,Puente de Vallecas,51,3,1,0,1,0,1,0,0,83000
+Piso,Centro,102,3,3,1,1,0,1,0,1,529000
+Piso,Latina,71,3,1,0,1,1,1,0,1,179598
+Piso,Carabanchel,110,4,2,0,0,1,1,0,0,330000
+Piso,Carabanchel,110,3,2,0,1,1,1,1,0,210000
+Piso,Moncloa,143,4,2,1,1,1,1,0,0,720000
+Piso,Tetuán,90,2,1,1,1,1,1,1,0,500000
+Piso,Chamberí,178,5,3,0,0,1,1,0,1,840000
+Piso,Carabanchel,68,2,1,0,0,0,1,0,1,139000
+Piso,Chamartín,203,3,3,1,1,1,1,1,1,1295000
+Piso,Puente de Vallecas,65,2,1,0,1,0,0,0,1,175000
+Piso,Salamanca,145,7,7,1,1,1,1,0,0,1290000
+Piso,Centro,319,4,3,1,1,1,1,1,0,4500000
+Piso,Fuencarral,66,2,1,1,1,1,1,0,1,244900
+Piso,Tetuán,70,2,1,0,1,0,1,0,0,250000
+Piso,Moncloa,49,1,1,1,1,1,1,0,0,270000
+Piso,Moncloa,62,3,1,1,0,1,0,0,1,214500
+Piso,Villa de Vallecas,57,2,1,0,1,0,0,0,0,113400
+Piso,Chamartín,186,5,2,0,1,1,0,1,1,749000
+Piso,Chamartín,113,2,2,0,1,1,0,0,1,780000
+Piso,Salamanca,241,5,2,1,0,1,1,0,0,1450000
+Piso,Moncloa,93,3,2,1,1,1,1,0,0,445000
+Ático,Salamanca,150,2,2,1,1,1,1,0,1,1390000
+Piso,Fuencarral,229,4,3,1,1,1,1,1,1,824500
+Piso,Centro,140,4,2,0,0,1,1,0,0,665000
+Piso,Fuencarral,131,4,2,1,1,1,1,1,1,415000
+Piso,Centro,56,2,1,1,1,0,1,0,1,339000
+Dúplex,Ciudad Lineal,275,4,3,1,1,1,1,1,1,1150000
+Piso,Carabanchel,107,2,2,1,1,0,1,1,1,260000
+Piso,Arganzuela,107,3,2,1,1,1,1,1,1,475000
+Dúplex,Tetuán,109,3,3,0,1,1,1,1,0,440000
+Piso,Salamanca,89,3,1,1,0,1,1,0,0,750000
+Piso,Tetuán,224,6,4,1,1,1,0,1,1,1240000
+Ático,Arganzuela,128,1,1,1,1,1,0,1,1,555000
+Piso,Arganzuela,142,4,2,0,0,1,1,0,0,480000
+Piso,Carabanchel,75,3,1,1,0,1,0,0,1,129000
+Piso,Latina,73,3,1,0,1,1,1,1,1,210000
+Piso,Retiro,147,4,3,0,1,1,1,0,1,549000
+Piso,Ciudad Lineal,71,2,1,1,1,1,1,0,1,296000
+Piso,Ciudad Lineal,88,3,1,0,1,0,0,0,0,239000
+Piso,Centro,88,3,1,1,1,1,1,0,0,459900
+Piso,Moncloa,130,3,2,1,1,1,1,0,1,629000
+Piso,Chamberí,233,3,4,0,0,1,0,0,0,2250000
+Piso,Centro,94,3,3,1,1,1,1,0,0,859000
+Piso,San Blas,90,3,1,0,0,1,1,1,1,188900
+Piso,Salamanca,100,3,2,1,1,1,1,0,0,670000
+Dúplex,Chamberí,250,4,4,1,1,1,1,1,1,1670000
+Piso,Centro,88,2,2,1,1,1,1,0,0,899000
+Piso,Hortaleza,45,1,1,1,1,1,1,0,0,149000
