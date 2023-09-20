@@ -8,7 +8,6 @@ This project aims to collect data on real estate properties in the Community of 
 - [Requirements](#requirements)
 - [Usage Instructions](#usage-instructions)
 - [Project Structure](#project-structure)
-- [Results](#results)
 - [Presentation](#presentation)
 - [Dashboard](#dashboard)
 - [Contribution](#contribution)
