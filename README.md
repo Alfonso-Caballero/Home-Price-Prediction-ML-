@@ -47,17 +47,13 @@ The project is structured as follows:
 - `presentation/`: Contains a presentation summarizing key findings and results (e.g., in PDF format).
 - `dashboard/`: Includes the code and necessary files for the Power BI dashboard.
 
-## Results
-
-You can find the results and performance metrics in the `results/` directory. Additionally, trained models are saved in this directory for future use.
-
 ## Presentation
 
-In the `presentation/` directory, you will find a presentation that summarizes key findings and results from this project.
+In the `presentacion/` directory, you will find a presentation that summarizes key findings and results from this project.
 
 ## Dashboard
 
-We have created an interactive dashboard in Power BI to visualize the results. You can find the dashboard file in the `dashboard/` directory.
+We have created an interactive dashboard in Power BI to visualize the results. You can find the dashboard file in the `presentacion/` directory.
 
 ## Contribution
 
@@ -69,3 +65,7 @@ This project is distributed under the [MIT License](LICENSE).
 
 Thank you for your interest in our project!
 
+By, 
+
+
+Alfonso Caballero
