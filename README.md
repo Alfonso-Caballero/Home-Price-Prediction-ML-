@@ -33,7 +33,7 @@ To run the code in this project, you need to have the following components insta
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Alfonso-Caballero/Home-Price-Prediction-MLy.git
+git clone https://github.com/Alfonso-Caballero/Madrid-Real-Estate-Scraping-ML.git
 ````
 ## Project Structure
 
