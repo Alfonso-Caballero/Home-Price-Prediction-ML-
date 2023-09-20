@@ -36,7 +36,7 @@ To run the code in this project, you need to have the following components insta
 
 ```bash
 git clone https://github.com/Alfonso-Caballero/Home-Price-Prediction-MLy.git
-
+````
 ## Project Structure
 
 The project is structured as follows:
