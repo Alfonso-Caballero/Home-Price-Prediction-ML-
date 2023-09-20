@@ -27,8 +27,8 @@ In this project, we have accomplished the following tasks:
 
 To run the code in this project, you need to have the following components installed:
 
-- Python 3.x
-- Python libraries (check the `requirements.txt` file for a complete list)
+- Python 3.11
+- Python libraries (check the `utils.py` file for a complete list)
 
 ## Usage Instructions
 
