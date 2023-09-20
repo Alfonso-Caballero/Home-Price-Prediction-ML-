@@ -41,11 +41,11 @@ git clone https://github.com/Alfonso-Caballero/Home-Price-Prediction-MLy.git
 
 The project is structured as follows:
 
-- `web_scraping/`: Contains the code related to data extraction from the website.
-- `data_preprocessing/`: Includes the data cleaning and preprocessing process.
-- `modeling/`: Contains the machine learning and deep learning algorithms.
-- `presentation/`: Contains a presentation summarizing key findings and results (e.g., in PDF format).
-- `dashboard/`: Includes the code and necessary files for the Power BI dashboard.
+- `webscraping/`: Contains the code related to data extraction from the website.
+- `split_data_eda/`: Cleaning and split train, test for EDA analysis.
+- `feature_engineering/`: Includes the data cleaning and preprocessing process.
+- `train/`: Contains the machine learning and deep learning algorithms.
+- `presentacion/`: Contains a presentation summarizing key findings and results.
 
 ## Presentation
 
@@ -68,4 +68,5 @@ Thank you for your interest in our project!
 By, 
 
 
-Alfonso Caballero
+**Alfonso Caballero**,
+"alfonso678@gmail.com"
