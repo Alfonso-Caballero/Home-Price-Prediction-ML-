@@ -20,7 +20,6 @@ In this project, we have accomplished the following tasks:
 1. Web Scraping: Specific information about properties in the Community of Madrid has been gathered from a real estate listings website.
 2. Data Preprocessing: The obtained data has been cleaned and properly structured for further analysis.
 3. Modeling: Machine learning and deep learning algorithms have been applied to predict property prices based on available features.
-4. Results: The obtained results have been evaluated and analyzed.
 
 ## Requirements
 
