@@ -1,4 +1,4 @@
-# Madrid Community Real Estate Price Analysis Project
+# Madrid Community Real Estate Price Prediction-Analysis Project
 
 This project aims to collect data on real estate properties in the Community of Madrid through web scraping, process the data, and use machine learning and deep learning algorithms to solve a regression problem related to property prices. In addition, the project includes creating a results presentation and an interactive dashboard using Power BI.
 
